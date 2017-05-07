@@ -1,0 +1,495 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "5a6406df9e507ff6679098ef4d7b55fb31708fce",
+  "data": {
+    "offset": 200,
+    "limit": 100,
+    "total": 203,
+    "count": 3,
+    "results": [
+      {
+        "id": 11958,
+        "digitalId": 2753,
+        "title": "Warlock (1972) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [
+
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11958",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/11958/warlock_1972_1?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Warlock-1/digital-comic/2753?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2753&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/2753?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2091",
+          "name": "Warlock (1972 - 1976)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5858",
+            "name": "Marvel Masterworks: Warlock Vol. (Hardcover)"
+          }
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1972-08-10T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2014-12-23T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0.2
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc46e4f28691",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc46e4f28691",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/11958/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+              "name": "Gil Kane",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/959",
+              "name": "Tom Sutton",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+              "name": "Sam Rosen",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+              "name": "Roy Thomas",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/11958/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354",
+              "name": "Adam Warlock"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/11958/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20169",
+              "name": "Cover #20169",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20170",
+              "name": "The Day of the Prophet",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/11958/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 23491,
+        "digitalId": 40494,
+        "title": "Werewolf by Night (1972) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Jack Russell, A.K.A. the Werewolf by Night, befriends Buck Cowan. But can Jack save his new friend and his sister Lissa from the stone-cold stare of Marlene Blackgar?",
+        "modified": "2016-10-28T19:21:13-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Jack Russell, A.K.A. the Werewolf by Night, befriends Buck Cowan. But can Jack save his new friend and his sister Lissa from the stone-cold stare of Marlene Blackgar?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23491",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23491/werewolf_by_night_1972_1?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=40494&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/6687",
+          "name": "Werewolf by Night (1972 - 1977)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1972-09-01T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-10-31T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/5812799b4de79",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/5812799b4de79",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/53cd5d1e6e5f8",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23491/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+              "name": "Janice Chiang",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7821",
+              "name": "The Human Touch",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1224",
+              "name": "Marie Javins",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/55",
+              "name": "Paul Jenkins",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/114",
+              "name": "Leonardo Manco",
+              "role": "penciler"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23491/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010765",
+              "name": "Werewolf By Night"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23491/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52101",
+              "name": "Cover #52101",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52102",
+              "name": "Somewhere South Of Heaven",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23491/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 23492,
+        "digitalId": 40495,
+        "title": "Werewolf by Night (1972) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "Jack discovers the plans of Mark Cephalos - the man behind the helicopter attack on the Werewolf! ",
+        "modified": "2016-10-28T19:21:51-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 38,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Jack discovers the plans of Mark Cephalos - the man behind the helicopter attack on the Werewolf! "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23492",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23492/werewolf_by_night_1972_2?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=40495&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/6687",
+          "name": "Werewolf by Night (1972 - 1977)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1972-11-01T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-10-31T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/581279c4960d8",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/581279c4960d8",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23492/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+              "name": "Janice Chiang",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7821",
+              "name": "The Human Touch",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1224",
+              "name": "Marie Javins",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/55",
+              "name": "Paul Jenkins",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/114",
+              "name": "Leonardo Manco",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/955",
+              "name": "Mike Ploog",
+              "role": "penciler"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23492/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010765",
+              "name": "Werewolf By Night"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23492/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52103",
+              "name": "Cover #52103",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52104",
+              "name": "Previously In Werewolf By Night",
+              "type": "profile"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52105",
+              "name": "Life In The Fast Lane",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23492/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

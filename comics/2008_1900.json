@@ -1,0 +1,3759 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "cf03d196507b769e9d9b40ed194acc1d654cb4f8",
+  "data": {
+    "offset": 1900,
+    "limit": 100,
+    "total": 1923,
+    "count": 23,
+    "results": [
+      {
+        "id": 22579,
+        "digitalId": 11892,
+        "title": "X-Men: Worlds Apart (2008) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "The game is set. The Black Panther, ruler of Wakanda, is being held captive and the military might of his entire kingdom\r<br>has been turned on the one person who could free him: his wife and queen, Storm. But if Storm chooses to fight her fellow Wakandans and rescue her husband, she does so at a cost: she may not be able to save her teammates, the X-Men, who are in similar peril halfway around the world. Writer Chris Yost (X-FORCE, NEW X-MEN) and up-and-coming artist DIOGENES NEVES pose the question: Does Storm stand by the Black Panther or the X-Men?\r<br>Rated T+ ...$3.99\r<br>",
+        "modified": "2017-03-06T19:02:46-0500",
+        "isbn": "",
+        "upc": "5960606595-00211",
+        "diamondCode": "SEP082399",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The game is set. The Black Panther, ruler of Wakanda, is being held captive and the military might of his entire kingdom\r<br>has been turned on the one person who could free him: his wife and queen, Storm. But if Storm chooses to fight her fellow Wakandans and rescue her husband, she does so at a cost: she may not be able to save her teammates, the X-Men, who are in similar peril halfway around the world. Writer Chris Yost (X-FORCE, NEW X-MEN) and up-and-coming artist DIOGENES NEVES pose the question: Does Storm stand by the Black Panther or the X-Men?\r<br>Rated T+ ...$3.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22579",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/22579/x-men_worlds_apart_2008_2?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11892&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/6003",
+          "name": "X-Men: Worlds Apart (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-11-19T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-10-30T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-10-07T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/58bdf898edada",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/58bdf898edada",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4bb67e80c8ef3",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22579/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+              "name": "Jason Keith",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/670",
+              "name": "Raul Trevino",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8382",
+              "name": "Diogenes Neves",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/789",
+              "name": "David Yardin",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4538",
+              "name": "Edgar Tadeo",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+              "name": "Chris Yost",
+              "role": "writer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22579/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22579/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/50042",
+              "name": "4XLS 2 of 4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/50043",
+              "name": "4XLS 2 of 4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22579/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 22995,
+        "digitalId": 11893,
+        "title": "X-Men: Worlds Apart (2008) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "From the time she joined the X-Men, Storm has been called upon to fight mutants, aliens, demons and even gods...and she's triumphed. But how will she fare when she is forced to combat her own husband? It's the fight you've been waiting for: Storm, Queen of Wakanda, against the Black Panther! And with her kingdom and the lives of her teammates, the X-Men, on the line, Storm knows this is one fight she can't afford to lose...\r<br>Rated T+ ...$3.99\r<br>",
+        "modified": "2017-03-06T19:02:26-0500",
+        "isbn": "",
+        "upc": "5960606595-00311",
+        "diamondCode": "OCT082479",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "From the time she joined the X-Men, Storm has been called upon to fight mutants, aliens, demons and even gods...and she's triumphed. But how will she fare when she is forced to combat her own husband? It's the fight you've been waiting for: Storm, Queen of Wakanda, against the Black Panther! And with her kingdom and the lives of her teammates, the X-Men, on the line, Storm knows this is one fight she can't afford to lose...\r<br>Rated T+ ...$3.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22995",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/22995/x-men_worlds_apart_2008_3?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11893&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/6003",
+          "name": "X-Men: Worlds Apart (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-12-04T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-11-11T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/58bdf87d805e5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/58bdf87d805e5",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bb64a5406be5",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22995/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+              "name": "Mike Deodato",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8382",
+              "name": "Diogenes Neves",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+              "name": "Morry Hollowell",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/670",
+              "name": "Raul Trevino",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4538",
+              "name": "Edgar Tadeo",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+              "name": "Chris Yost",
+              "role": "writer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22995/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22995/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51033",
+              "name": "4XLS 3 of 4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51034",
+              "name": "4XLS 3 of 4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22995/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 22386,
+        "digitalId": 11891,
+        "title": "X-Men: Worlds Apart (2008) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Over the course of her life, STORM has been many things: A thief. A goddess. An X-Man. A Wife. A Queen.  But not until now have these roles come into conflict. When a mutant commits a mysterious murder in Wakanda, Storm takes it upon herself to investigate. And what she discovers will force her into a position where she must choose: Will she stand with the X-Men or with her husband? Writer Chris Yost (X-FORCE, NEW X-MEN) and up-and-coming artist Diogenes Neves bring you this first part of a limited series that will change Storm forever...\r<br>Rated T+ ...$3.99",
+        "modified": "2017-03-09T10:38:09-0500",
+        "isbn": "",
+        "upc": "5960606595-00111",
+        "diamondCode": "AUG082417",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Over the course of her life, STORM has been many things: A thief. A goddess. An X-Man. A Wife. A Queen.  But not until now have these roles come into conflict. When a mutant commits a mysterious murder in Wakanda, Storm takes it upon herself to investigate. And what she discovers will force her into a position where she must choose: Will she stand with the X-Men or with her husband? Writer Chris Yost (X-FORCE, NEW X-MEN) and up-and-coming artist Diogenes Neves bring you this first part of a limited series that will change Storm forever...\r<br>Rated T+ ...$3.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22386",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/22386/x-men_worlds_apart_2008_1?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11891&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/6003",
+          "name": "X-Men: Worlds Apart (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-10-15T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-09-25T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-09-23T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/58bdf8721a20b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/58bdf8721a20b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb6ccf199291",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22386/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11559",
+              "name": "Jeff Scott Campbell",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8382",
+              "name": "Diogenes Neves",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+              "name": "Edgar Delgado",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/670",
+              "name": "Raul Trevino",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4538",
+              "name": "Edgar Tadeo",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+              "name": "Chris Yost",
+              "role": "writer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22386/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22386/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/49278",
+              "name": "4XLS 1 of 4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/49279",
+              "name": "4XLS 1 of 4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22386/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 17698,
+        "digitalId": 0,
+        "title": "Young Avengers (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Collecting the complete first series in one deluxe hardcover!\r<br>In SIDEKICKS, in the wake of AVENGERS DISASSEMBLED, a mysterious new group of teen super heroes appears. But who are they? Where did they come from?  And what right do they have to call themselves the Young Avengers?  And in FAMILY MATTERS, the newly reconfigured Young Avengers prepare to make their public debut-but first they have to face a threat more powerful than Kang the Conqueror, more dangerous than Mr. Hyde and more cunning than the Masters of Evil: their parents. For these brand-new super heroes, fighting super villains is child's play compared to maintaining their alter egos!  Plus: The Young Avengers meet a familiar-looking teenage super human who just may be the key to their uncovering the truth about Wiccan's parentage and secret origin. Meanwhile, Hulkling's quest to discover the exact nature of his tie to the Avengers is interrupted when the Young Avengers finds themselves at war with one of the oldest and most powerful alien races in the Marvel Universe. And finally, discover the secret history of the Young Avengers when Jessica Jones and Kat Farrell investigate the kids' origins for a special issue of The Pulse. Who were they and what were their lives like before they met Iron Lad? And what is the future of the team without him?\r<br>Collecting YOUNG AVENGERS #1-12 and YOUNG AVENGERS SPECIAL.\r<br>RATED T+ ...$29.99\r<br>ISBN: 978-0-7851-2466-5\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960613033-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Collecting the complete first series in one deluxe hardcover!\r<br>In SIDEKICKS, in the wake of AVENGERS DISASSEMBLED, a mysterious new group of teen super heroes appears. But who are they? Where did they come from?  And what right do they have to call themselves the Young Avengers?  And in FAMILY MATTERS, the newly reconfigured Young Avengers prepare to make their public debut-but first they have to face a threat more powerful than Kang the Conqueror, more dangerous than Mr. Hyde and more cunning than the Masters of Evil: their parents. For these brand-new super heroes, fighting super villains is child's play compared to maintaining their alter egos!  Plus: The Young Avengers meet a familiar-looking teenage super human who just may be the key to their uncovering the truth about Wiccan's parentage and secret origin. Meanwhile, Hulkling's quest to discover the exact nature of his tie to the Avengers is interrupted when the Young Avengers finds themselves at war with one of the oldest and most powerful alien races in the Marvel Universe. And finally, discover the secret history of the Young Avengers when Jessica Jones and Kat Farrell investigate the kids' origins for a special issue of The Pulse. Who were they and what were their lives like before they met Iron Lad? And what is the future of the team without him?\r<br>Collecting YOUNG AVENGERS #1-12 and YOUNG AVENGERS SPECIAL.\r<br>RATED T+ ...$29.99\r<br>ISBN: 978-0-7851-2466-5\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17698",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/17698/young_avengers_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/3465",
+          "name": "Young Avengers (2008)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-01-30T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc33caa94446",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc33caa94446",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17698/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+              "name": "Jim Cheung",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/358",
+              "name": "Allan Heinberg",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/474",
+              "name": "Andrea Di Vito",
+              "role": "artist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17698/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010698",
+              "name": "Young Avengers"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17698/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37052",
+              "name": "Young Avengers 1-12, Special",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/37053",
+              "name": "Young Avengers 1-12, Special",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17698/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21401,
+        "digitalId": 11898,
+        "title": "Young Avengers Presents (2008) #6",
+        "issueNumber": 6,
+        "variantDescription": "",
+        "description": "Kate Bishop wants to be a hero.  Kate Bishop wants to be a leader.  Kate wants to be strong, and proud, and true to her calling.  Kate just wants to take care of everybody.  Kate just wants to be friends.  Kate wants to be stronger than all this.  Kate Bishop never wanted anything more than she wants to be a Young Avenger.  Kate Bishop wants to be Hawkeye.  Here, she finally comes face to face with Clint Barton.  Now Kate's gonna have to fight for each and every thing that she wants...especially her name.  Wanting something can be miles away from actually earning it.  By Matt Fraction\r<br>(INVINCIBLE IRON MAN, PUNISHER WAR JOURNAL) and the legendary Alan Davis (CLANDESTINE, EXCALIBUR).\r<br>Rated T+ ...$2.99\r<br>",
+        "modified": "2017-01-27T12:53:53-0500",
+        "isbn": "",
+        "upc": "5960606325-00611",
+        "diamondCode": "APR082311",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Kate Bishop wants to be a hero.  Kate Bishop wants to be a leader.  Kate wants to be strong, and proud, and true to her calling.  Kate just wants to take care of everybody.  Kate just wants to be friends.  Kate wants to be stronger than all this.  Kate Bishop never wanted anything more than she wants to be a Young Avenger.  Kate Bishop wants to be Hawkeye.  Here, she finally comes face to face with Clint Barton.  Now Kate's gonna have to fight for each and every thing that she wants...especially her name.  Wanting something can be miles away from actually earning it.  By Matt Fraction\r<br>(INVINCIBLE IRON MAN, PUNISHER WAR JOURNAL) and the legendary Alan Davis (CLANDESTINE, EXCALIBUR).\r<br>Rated T+ ...$2.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21401",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21401/young_avengers_presents_2008_6?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-Avengers-Presents-6/digital-comic/11898?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11898&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/11898?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/3424",
+          "name": "Young Avengers Presents (2008)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-06-25T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-06-05T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2010-02-16T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-07-02T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/588b891da37c4",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/588b891da37c4",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb7c7bc0c886",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21401/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+              "name": "Jim Cheung",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+              "name": "Alan Davis",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/359",
+              "name": "John Dell",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/440",
+              "name": "Mark Farmer",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+              "name": "Matt Fraction",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+              "name": "Justin Ponsor",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21401/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21401/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/47254",
+              "name": "6XLS 6 of 6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/47255",
+              "name": "6XLS 6 of 6",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21401/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 20710,
+        "digitalId": 11894,
+        "title": "Young Avengers Presents (2008) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "Teddy Altman thought he was just an average teenager with super strength and the ability to shapeshift. Then he discovered he was the son of a Skrull Princess and the Kree's most famed hero - Captain Marvel. Writer Brian Reed (CAPTAIN MARVEL, NEW AVENGERS: ILLUMINATI) and Harvey Tolibao (IRON MAN ANNUAL, STAR WARS) bring you the tale of the Hulkling's first meeting with the father he never knew.\r<br>Rated T+...$2.99 \r<br>",
+        "modified": "2017-01-27T12:52:55-0500",
+        "isbn": "",
+        "upc": "5960606325-00211",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Teddy Altman thought he was just an average teenager with super strength and the ability to shapeshift. Then he discovered he was the son of a Skrull Princess and the Kree's most famed hero - Captain Marvel. Writer Brian Reed (CAPTAIN MARVEL, NEW AVENGERS: ILLUMINATI) and Harvey Tolibao (IRON MAN ANNUAL, STAR WARS) bring you the tale of the Hulkling's first meeting with the father he never knew.\r<br>Rated T+...$2.99 \r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20710",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/20710/young_avengers_presents_2008_2?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-Avengers-Presents-2/digital-comic/11894?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11894&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/11894?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/3424",
+          "name": "Young Avengers Presents (2008)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-02-27T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-01-20T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-07-02T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/588b88e8ea2a3",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/588b88e8ea2a3",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/4c587a69ee5b6",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc3187d150da",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/20710/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+              "name": "Jim Cheung",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/721",
+              "name": "Brian Reed",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5631",
+              "name": "Harvey Talibao",
+              "role": "artist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/20710/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/20710/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/44415",
+              "name": "6XLS 2 of 6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/44416",
+              "name": "6XLS 2 of 6",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/20710/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 17663,
+        "digitalId": 10317,
+        "title": "Young Avengers Presents (2008) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "They're back at last!  Patriot, Hulkling, Wiccan, Vision, Stature and Hawkeye! Where have they been and what is their place in this new post-CIVIL WAR Marvel Universe? It will take six issues by six top creative teams to tell the tale!  In this first installment, featuring PATRIOT, the grandson of the black Captain America struggles with his unresolved feelings about the death of Steve Rogers, and seeks out the Winter Soldier hoping to find some guidance. But who he's looking for and who he finds may be two different things!  By Eisner and Harvey Award-Winning Best Writer Ed Brubaker and rising star Paco Medina.\r<br>32 PGS./Rated T+ ...$2.99 \r<br>",
+        "modified": "2017-01-27T12:53:12-0500",
+        "isbn": "",
+        "upc": "5960606325-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "They're back at last!  Patriot, Hulkling, Wiccan, Vision, Stature and Hawkeye! Where have they been and what is their place in this new post-CIVIL WAR Marvel Universe? It will take six issues by six top creative teams to tell the tale!  In this first installment, featuring PATRIOT, the grandson of the black Captain America struggles with his unresolved feelings about the death of Steve Rogers, and seeks out the Winter Soldier hoping to find some guidance. But who he's looking for and who he finds may be two different things!  By Eisner and Harvey Award-Winning Best Writer Ed Brubaker and rising star Paco Medina.\r<br>32 PGS./Rated T+ ...$2.99 \r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17663",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/17663/young_avengers_presents_2008_1?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-Avengers-Presents-1/digital-comic/10317?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=10317&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/10317?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/3424",
+          "name": "Young Avengers Presents (2008)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-01-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2008-12-09T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-07-02T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/80/588b88f459e21",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/80/588b88f459e21",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4bc33e511a5d4",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17663/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+              "name": "Ed Brubaker",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+              "name": "Jim Cheung",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/208",
+              "name": "Paco Medina",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/413",
+              "name": "Juan Vlasco",
+              "role": "inker"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17663/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009492",
+              "name": "Patriot"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17663/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/36972",
+              "name": "6XLS 1 of 6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/36973",
+              "name": "6XLS 1 of 6",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/17663/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 20903,
+        "digitalId": 11895,
+        "title": "Young Avengers Presents (2008) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "Wiccan & Speed: THE LOST BOYS\r<br>You're Wiccan, the Young Avengers' resident warlock. Your mother is one of the most reviled, misunderstood mutants in history: Wanda Maximoff, A.K.A. the Scarlet Witch, who's been M.I.A. for months. Even though you've never met her, she's been haunting your dreams lately...With your super-fast twin brother Speed in tow, you set out to find her, unaware that someone else is looking for Wanda, as well. A demon with a mountain-sized grudge against the Scarlet Witch: Master Pandemonium! And guess what? If Pandemonium can't find Wanda to destroy her, he'll happily destroy...YOU!\r<br>32 PGS./Rated T+ ...$2.99 \r<br>",
+        "modified": "2017-01-27T12:54:15-0500",
+        "isbn": "",
+        "upc": "5960606325-00311",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Wiccan & Speed: THE LOST BOYS\r<br>You're Wiccan, the Young Avengers' resident warlock. Your mother is one of the most reviled, misunderstood mutants in history: Wanda Maximoff, A.K.A. the Scarlet Witch, who's been M.I.A. for months. Even though you've never met her, she's been haunting your dreams lately...With your super-fast twin brother Speed in tow, you set out to find her, unaware that someone else is looking for Wanda, as well. A demon with a mountain-sized grudge against the Scarlet Witch: Master Pandemonium! And guess what? If Pandemonium can't find Wanda to destroy her, he'll happily destroy...YOU!\r<br>32 PGS./Rated T+ ...$2.99 \r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20903",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/20903/young_avengers_presents_2008_3?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-Avengers-Presents-3/digital-comic/11895?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11895&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/11895?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/3424",
+          "name": "Young Avengers Presents (2008)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-04-02T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-03-03T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-07-02T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/588b893304780",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/588b893304780",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4c7fe986b7577",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/4c587a646691e",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4c5707bb1795a",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/4bb88e0479685",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/20903/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4627",
+              "name": "Roberto Aguirre-Sacasa",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+              "name": "Jim Cheung",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8012",
+              "name": "Alina Urusov",
+              "role": "artist"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/20903/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/20903/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/44760",
+              "name": "6XLS 3 of 6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/44761",
+              "name": "6XLS 3 of 6",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/20903/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 22411,
+        "digitalId": 0,
+        "title": "Young Avengers Presents (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "They're back at last! Patriot, Hulkling, Wiccan, Vision, Stature and Hawkeye! Where have they been and what is their place\r<br>in this new post-Civil War Marvel Universe? Today's top creators tell the tale in six chapters! Collecting YOUNG AVENGERS PRESENTS #1-6.\r<br>Rated T+ ...$16.99\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-2975-2",
+        "upc": "5960612975-00111",
+        "diamondCode": "AUG082461",
+        "ean": "9780785 129752 51699",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 144,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "They're back at last! Patriot, Hulkling, Wiccan, Vision, Stature and Hawkeye! Where have they been and what is their place\r<br>in this new post-Civil War Marvel Universe? Today's top creators tell the tale in six chapters! Collecting YOUNG AVENGERS PRESENTS #1-6.\r<br>Rated T+ ...$16.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22411",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/22411/young_avengers_presents_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/6032",
+          "name": "Young Avengers Presents (2008)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-10-08T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-09-11T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 16.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/4bb6cb5cb0182",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/4bb6cb5cb0182",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22411/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22411/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22411/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/49336",
+              "name": "Young Avengers Presents 1-6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/49337",
+              "name": "Young Avengers Presents 1-6",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22411/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21038,
+        "digitalId": 11896,
+        "title": "Young Avengers Presents (2008) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "The Vision is going through changes.  He's a passionate man.  And an impulsive one, if his decision to go and visit Stature at her Initiative training camp is anything to go by.  He's got some important things to tell her.  But will getting intangibly stuck halfway through her body while A.I.M. are attacking put a damper on his ardour?\r<br>Rated T+ ...$2.99 \r<br>",
+        "modified": "2017-01-27T12:54:33-0500",
+        "isbn": "",
+        "upc": "5960606325-00411",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Vision is going through changes.  He's a passionate man.  And an impulsive one, if his decision to go and visit Stature at her Initiative training camp is anything to go by.  He's got some important things to tell her.  But will getting intangibly stuck halfway through her body while A.I.M. are attacking put a damper on his ardour?\r<br>Rated T+ ...$2.99 \r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21038",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21038/young_avengers_presents_2008_4?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-Avengers-Presents-4/digital-comic/11896?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11896&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/11896?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/3424",
+          "name": "Young Avengers Presents (2008)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-04-23T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-03-31T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-07-02T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/a0/588b894f971ae",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/a0/588b894f971ae",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4c57095e89859",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bb85d5aa244a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21038/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+              "name": "Mark Brooks",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+              "name": "Jim Cheung",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1092",
+              "name": "Paul Cornell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21038/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21038/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/45860",
+              "name": "6XLS 4 of 6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/45861",
+              "name": "6XLS 4 of 6",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21038/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21256,
+        "digitalId": 11897,
+        "title": "Young Avengers Presents (2008) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "Young Cassie Lang has an encounter with Kang's ubiquitous enforcer the GROWING MAN!  However, her ordeal ends in tragedy as someone close to her is gravely injured in the process.  And the effect on Cassie causes some unexpected problems from which she might never recover.  Can the Young Avengers help Stature before an even greater tragedy befalls her?\r<br>Rated T+ ...$2.99\r<br>",
+        "modified": "2017-01-27T13:42:00-0500",
+        "isbn": "",
+        "upc": "5960606325-00511",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Young Cassie Lang has an encounter with Kang's ubiquitous enforcer the GROWING MAN!  However, her ordeal ends in tragedy as someone close to her is gravely injured in the process.  And the effect on Cassie causes some unexpected problems from which she might never recover.  Can the Young Avengers help Stature before an even greater tragedy befalls her?\r<br>Rated T+ ...$2.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21256",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21256/young_avengers_presents_2008_5?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-Avengers-Presents-5/digital-comic/11897?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11897&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/11897?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/3424",
+          "name": "Young Avengers Presents (2008)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-05-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2010-02-02T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-07-02T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/588b896302d53",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/588b896302d53",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4c57052bbd6aa",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/4bb8287d5e7f7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21256/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/969",
+              "name": "Mitch Breitweiser",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+              "name": "Jim Cheung",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4990",
+              "name": "Kevin Grevioux",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/582",
+              "name": "Brian Reber",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21256/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21256/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46945",
+              "name": "6XLS 5 of 6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46946",
+              "name": "6XLS 5 of 6",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21256/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21833,
+        "digitalId": 0,
+        "title": "Young Inhumans (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The next generation of Inhumans star in this atmospheric ensemble drama, collected for the first time in one trade paperback! They're just ordinary exchange students from a far-off land, here to learn about our culture - except their home is a mysterious city on the moon, and they each possess fabulous, exotic abilities and appearances. The product of experiments on humanity by an alien culture millennia ago, the Inhumans are a race governed by the laws of genetics. Here as nowhere else, diversity and individuality are prized beyond compare. The Inhumans have flourished in isolation from humanity within their kingdom of Attilan on the surface of the moon, but what happens when their king decides to send some of his subjects to Earth to learn about humans? Will they be able to integrate into human culture? More important, will they even try? Collecting INHUMANS #1-12.\r<br>Rated A ...$24.99\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3382-7",
+        "upc": "5960613382-00111",
+        "diamondCode": "JUN082437",
+        "ean": "9780785 133827 51999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 272,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The next generation of Inhumans star in this atmospheric ensemble drama, collected for the first time in one trade paperback! They're just ordinary exchange students from a far-off land, here to learn about our culture - except their home is a mysterious city on the moon, and they each possess fabulous, exotic abilities and appearances. The product of experiments on humanity by an alien culture millennia ago, the Inhumans are a race governed by the laws of genetics. Here as nowhere else, diversity and individuality are prized beyond compare. The Inhumans have flourished in isolation from humanity within their kingdom of Attilan on the surface of the moon, but what happens when their king decides to send some of his subjects to Earth to learn about humans? Will they be able to integrate into human culture? More important, will they even try? Collecting INHUMANS #1-12.\r<br>Rated A ...$24.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21833",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/21833/young_inhumans_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-Inhumans-0/digital-comic/33202?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/5417",
+          "name": "Young Inhumans (2008)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-08-20T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-07-24T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4c36161848df5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4c36161848df5",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21833/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21833/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21833/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/47986",
+              "name": "Inhumans 1-12",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/47987",
+              "name": "Inhumans 1-12",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21833/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21403,
+        "digitalId": 11900,
+        "title": "Young X-Men (2008) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "It's the Young X-Men vs. the new Brotherhood of Evil Mutants! A traitor is revealed and the casualties mount as the team goes to battle. We hope there are Young X-Men left when the smoke clears.",
+        "modified": "2012-09-05T15:53:34-0400",
+        "isbn": "",
+        "upc": "5960606338-00311",
+        "diamondCode": "APR082322",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "It's the Young X-Men vs. the new Brotherhood of Evil Mutants! A traitor is revealed and the casualties mount as the team goes to battle. We hope there are Young X-Men left when the smoke clears."
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It's the Young X-Men vs. the new Brotherhood of Evil Mutants!  A traitor is revealed and the casualties mount as the team goes to battle.  We hope there are Young X-Men left when the smoke clears.\r<br>Rated A ...$2.99 \r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21403",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21403/young_x-men_2008_3?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-X-Men-3/digital-comic/11900?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11900&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/11900?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4443",
+          "name": "Young X-Men (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-06-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-05-15T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-05-27T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-09-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/518d25fba5dc1",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/518d25fba5dc1",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb7c7b1704d7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21403/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/592",
+              "name": "Rachel Dodson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/647",
+              "name": "Kris Justice",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4567",
+              "name": "Ray Snyder",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1129",
+              "name": "Yanick Paquette",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/581",
+              "name": "Rob Schwager",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21403/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011277",
+              "name": "Young X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21403/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/47258",
+              "name": "3 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/47259",
+              "name": "3 of 5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21403/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21576,
+        "digitalId": 11901,
+        "title": "Young X-Men (2008) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "It's the Young X-Men vs. the Hellfire Club! Will the kids survive? ",
+        "modified": "2012-09-05T15:53:51-0400",
+        "isbn": "",
+        "upc": "5960606338-00411",
+        "diamondCode": "MAY082330",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "It's the Young X-Men vs. the Hellfire Club! Will the kids survive? "
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"NEW GENESIS,\" part 4 (of 5)\r<br>It's the Young X-Men vs. the Hellfire Club!  Will the kids survive?  Marc Guggenheim (AMAZING SPIDER-MAN, WOLVERINE, Eli Stone) and Yanick Paquette (ULTIMATE X-MEN) pack more surprises than you can handle into this issue.  Do not miss this!\r<br>Rated T+ ...$2.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21576",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21576/young_x-men_2008_4?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-X-Men-4/digital-comic/11901?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11901&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/11901?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4443",
+          "name": "Young X-Men (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-07-09T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-06-19T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-06-03T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-09-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/518d25ef15987",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/518d25ef15987",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4bb795f593ccc",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21576/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/592",
+              "name": "Rachel Dodson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4567",
+              "name": "Ray Snyder",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1129",
+              "name": "Yanick Paquette",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/581",
+              "name": "Rob Schwager",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/670",
+              "name": "Raul Trevino",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21576/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011277",
+              "name": "Young X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21576/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/47558",
+              "name": "4 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/47559",
+              "name": "4 of 5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21576/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 22940,
+        "digitalId": 11906,
+        "title": "Young X-Men (2008) #9",
+        "issueNumber": 9,
+        "variantDescription": "",
+        "description": "The Young X-Men face the next generation of super-powered villains. Who could be more threatening than evil mutants? You'll have to read this issue to find out!",
+        "modified": "2012-09-05T15:57:35-0400",
+        "isbn": "",
+        "upc": "5960606338-00911",
+        "diamondCode": "OCT082470",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "The Young X-Men face the next generation of super-powered villains. Who could be more threatening than evil mutants? You'll have to read this issue to find out!"
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The two-part juggernaut, \"The Y-Men\" concludes as the Young X-Men face the next generation of super-powered villains.  Who could be more threatening than evil mutants?  You'll have to read this issue to find out!\r<br>Rated T+ ...$2.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22940",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/22940/young_x-men_2008_9?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-X-Men-9/digital-comic/11906?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11906&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/11906?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4443",
+          "name": "Young X-Men (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-12-11T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-11-18T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-09-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/518d27034114f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/518d27034114f",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4bb64b1e77675",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22940/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/498",
+              "name": "Greg Adams",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9368",
+              "name": "Roger Bonet",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/802",
+              "name": "Jaime Mendoza",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5158",
+              "name": "Rafa Sandoval",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8836",
+              "name": "Jose Villarrubia",
+              "role": "colorist"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22940/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011277",
+              "name": "Young X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22940/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/50929",
+              "name": "4 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/50930",
+              "name": "4 of 5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22940/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21041,
+        "digitalId": 10607,
+        "title": "Young X-Men (2008) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "In the wake of MESSIAH COMPLEX, there are no X-Men and young mutants Rockslide, Blindfold and Dust are alone and directionless. Until the day Cyclops recruits them to hunt the new incarnation of the Brotherhood â€\" and kill them.",
+        "modified": "2013-05-24T13:49:36-0400",
+        "isbn": "",
+        "upc": "5960606338-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "In the wake of MESSIAH COMPLEX, there are no X-Men and young mutants Rockslide, Blindfold and Dust are alone and directionless. Until the day Cyclops recruits them to hunt the new incarnation of the Brotherhood â€\" and kill them."
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "In the wake of Messiah CompleX, there are no X-Men and young mutants Rockslide, Blindfold and Dust are alone and directionless. Until the day Cyclops recruits them to hunt the new incarnation of the Brotherhood - and kill them. Joined by a pair of new recruits, the young X-Men learn a hard truth about the world post-Messiah CompleX: sometimes old allies make for deadly enemies. \r<br>Rated A ...$2.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21041",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21041/young_x-men_2008_1?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-X-Men-1/digital-comic/10607?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=10607&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/10607?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4443",
+          "name": "Young X-Men (2008 - 2009)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21040",
+            "name": "Young X-Men (2008) #1 (SILVESTRI VARIANT)"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-04-02T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2008-11-26T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-09-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/518d260b14572",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/518d260b14572",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/4bb85d4f596ce",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21041/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7843",
+              "name": "Todd Klein",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9437",
+              "name": "Serge LaPointe",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1129",
+              "name": "Yanick Paquette",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1131",
+              "name": "Stephane Peru",
+              "role": "colorist"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21041/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011277",
+              "name": "Young X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21041/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/45876",
+              "name": "1 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/45877",
+              "name": "1 of 5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21041/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 22007,
+        "digitalId": 11903,
+        "title": "Young X-Men (2008) #6",
+        "issueNumber": 6,
+        "variantDescription": "",
+        "description": "One Young X-Man is dead! But there are still more than ten mutants vying for membership. Who will be joining the team?",
+        "modified": "2012-09-05T15:55:29-0400",
+        "isbn": "",
+        "upc": "5960606338-00611",
+        "diamondCode": "JUL082351",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "One Young X-Man is dead! But there are still more than ten mutants vying for membership. Who will be joining the team?"
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "One Young X-Man (or X-Woman, we're not telling!) is dead!  But there are still more than ten mutants (you read that right) vying for membership on the team.  Who will be left to carry on the X-Torch? Marc (AMAZING SPIDER-MAN, Eli Stone) Guggenheim and Yanick (ULTIMATE X-MEN) Paquette aren't telling -- except in this self-contained issue perfect for new readers!\r<br>Rated T+ ...$2.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22007",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/22007/young_x-men_2008_6?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-X-Men-6/digital-comic/11903?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11903&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/11903?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4443",
+          "name": "Young X-Men (2008 - 2009)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22006",
+            "name": "Young X-Men (2008) #6 (MONKEY VARIANT (1 FOR 10))"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-09-17T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-08-28T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2010-02-24T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-09-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/518d2717eced1",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/518d2717eced1",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bb717223f6a4",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22007/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/592",
+              "name": "Rachel Dodson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/554",
+              "name": "Ben Oliver",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8836",
+              "name": "Jose Villarrubia",
+              "role": "colorist"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22007/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011277",
+              "name": "Young X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22007/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48487",
+              "name": "1 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48488",
+              "name": "1 of 5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22007/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21258,
+        "digitalId": 11899,
+        "title": "Young X-Men (2008) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "Who are the New Brotherhood of Evil Mutants and what do Dani Moonstar and Magma have to do with it? Whatever their plan is, Cyclops has put together the Young X-Men to stop them. But can they survive? ",
+        "modified": "2012-09-05T15:53:15-0400",
+        "isbn": "",
+        "upc": "5960606338-00211",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Who are the New Brotherhood of Evil Mutants and what do Dani Moonstar and Magma have to do with it? Whatever their plan is, Cyclops has put together the Young X-Men to stop them. But can they survive? "
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Who are the New Brotherhood of Evil Mutants and what do Dani Moonstar and Magma have to do with it?  Whatever their plan is, Cyclops has put together the Young X-Men to stop them.  But can they survive?\r<br>Rated A ...$2.99 \r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21258",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21258/young_x-men_2008_2?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-X-Men-2/digital-comic/11899?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11899&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/11899?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4443",
+          "name": "Young X-Men (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-05-07T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-04-29T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-09-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/518d25fe7973c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/518d25fe7973c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4bb8286cf1950",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21258/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1129",
+              "name": "Yanick Paquette",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1131",
+              "name": "Stephane Peru",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4567",
+              "name": "Ray Snyder",
+              "role": "inker"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21258/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011277",
+              "name": "Young X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21258/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46949",
+              "name": "2 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46950",
+              "name": "2 of 5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21258/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 22337,
+        "digitalId": 11904,
+        "title": "Young X-Men (2008) #7",
+        "issueNumber": 7,
+        "variantDescription": "",
+        "description": "The Young X-Men have a brand new line-up... but one of them isn't a mutant, and doesn't know it yet! Secrets are revealed and discovered in this explosive issue!",
+        "modified": "2012-09-05T15:56:38-0400",
+        "isbn": "",
+        "upc": "5960606338-00711",
+        "diamondCode": "AUG082418",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "The Young X-Men have a brand new line-up... but one of them isn't a mutant, and doesn't know it yet! Secrets are revealed and discovered in this explosive issue!"
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Young X-Men have a brand new line-up... but one of them isn't a mutant!  And doesn't know it!  Secrets are revealed and discovered in this self-contained issue perfect for new readers and fans of the new Manifest Destiny X-Status Quo!\r<br>Rated T+ ...$2.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22337",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/22337/young_x-men_2008_7?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-X-Men-7/digital-comic/11904?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11904&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/11904?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4443",
+          "name": "Young X-Men (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-10-15T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-09-25T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-09-30T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-09-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/518d2711003b5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/518d2711003b5",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/4bb6cf958bd9a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22337/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/592",
+              "name": "Rachel Dodson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/554",
+              "name": "Ben Oliver",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8836",
+              "name": "Jose Villarrubia",
+              "role": "colorist"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22337/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011277",
+              "name": "Young X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22337/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/49177",
+              "name": "2 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/49178",
+              "name": "2 of 5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22337/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21040,
+        "digitalId": 0,
+        "title": "Young X-Men (2008) #1 (SILVESTRI VARIANT)",
+        "issueNumber": 1,
+        "variantDescription": "SILVESTRI VARIANT",
+        "description": "To be revealed 1/24/2008.",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960606338-00121",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "To be revealed 1/24/2008."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21040",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21040/young_x-men_2008_1_silvestri_variant/silvestri_variant?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4443",
+          "name": "Young X-Men (2008 - 2009)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21041",
+            "name": "Young X-Men (2008) #1"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-04-02T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bb7c92b46061",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bb7c92b46061",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21040/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5044",
+              "name": "Marc Silvestri",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21040/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011277",
+              "name": "Young X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21040/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/45874",
+              "name": "1 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/45875",
+              "name": "1 of 5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21040/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21771,
+        "digitalId": 11902,
+        "title": "Young X-Men (2008) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "It's Marvel's youngest mutants' biggest test to date...and one of them won't be walking away from it.",
+        "modified": "2012-09-05T15:54:30-0400",
+        "isbn": "",
+        "upc": "5960606338-00511",
+        "diamondCode": "JUN082390",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "It's Marvel's youngest mutants' biggest test to date...and one of them won't be walking away from it."
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The numbers are in and it's official:  Young X-Men is Mighty Marvel's newest hit!!!  It's Marvel's youngest mutants in their final showdown with  and one of them won't be walking away from it.  The Young X-Men's first story arc ends here and nothing will ever be the same again.  Yeah, we know lots of books make that claim, but with Marc (Eli Stone, AMAZING SPIDER-MAN) Guggenheim and Yanick (ULTIMATE X-MEN) Paquette delivering the goods, you know this one's for real!\r<br>Rated T+ ...$2.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21771",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21771/young_x-men_2008_5?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-X-Men-5/digital-comic/11902?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11902&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/11902?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4443",
+          "name": "Young X-Men (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-08-20T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-07-31T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2010-02-10T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-09-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/518d25e8190e7",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/518d25e8190e7",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4c7d44f29ef10",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21771/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/592",
+              "name": "Rachel Dodson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4567",
+              "name": "Ray Snyder",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1129",
+              "name": "Yanick Paquette",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/581",
+              "name": "Rob Schwager",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21771/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011277",
+              "name": "Young X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21771/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/47852",
+              "name": "5 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/47853",
+              "name": "5 of 5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21771/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 22006,
+        "digitalId": 0,
+        "title": "Young X-Men (2008) #6 (MONKEY VARIANT (1 FOR 10))",
+        "issueNumber": 6,
+        "variantDescription": "MONKEY VARIANT (1 FOR 10)",
+        "description": "One Young X-Man (or X-Woman, we're not telling!) is dead!  But there are still more than ten mutants (you read that right) vying for membership on the team.  Who will be left to carry on the X-Torch? Marc (AMAZING SPIDER-MAN, Eli Stone) Guggenheim and Yanick (ULTIMATE X-MEN) Paquette aren't telling -- except in this self-contained issue perfect for new readers!\r<br>Rated T+ ...$2.99\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960606338-00621",
+        "diamondCode": "JUL082352",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "One Young X-Man (or X-Woman, we're not telling!) is dead!  But there are still more than ten mutants (you read that right) vying for membership on the team.  Who will be left to carry on the X-Torch? Marc (AMAZING SPIDER-MAN, Eli Stone) Guggenheim and Yanick (ULTIMATE X-MEN) Paquette aren't telling -- except in this self-contained issue perfect for new readers!\r<br>Rated T+ ...$2.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22006",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/22006/young_x-men_2008_6_monkey_variant_1_for_10/monkey_variant_1_for_10?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4443",
+          "name": "Young X-Men (2008 - 2009)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22007",
+            "name": "Young X-Men (2008) #6"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-09-17T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-08-28T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bb65aa3bcd94",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4bb65aa3bcd94",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22006/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+              "name": "Edgar Delgado",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+              "name": "Humberto Ramos",
+              "role": "inker"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22006/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011277",
+              "name": "Young X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22006/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48485",
+              "name": "1 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48486",
+              "name": "1 of 5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22006/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 22532,
+        "digitalId": 11905,
+        "title": "Young X-Men (2008) #8",
+        "issueNumber": 8,
+        "variantDescription": "",
+        "description": "Discover the secret origin of Ink. The bad-boy of the Young X-Men has been shrouded in mystery, but that ends here, and the truth will shake the team of young mutants.",
+        "modified": "2012-09-05T15:59:30-0400",
+        "isbn": "",
+        "upc": "5960606338-00811",
+        "diamondCode": "SEP082394",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Discover the secret origin of Ink. The bad-boy of the Young X-Men has been shrouded in mystery, but that ends here, and the truth will shake the team of young mutants."
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Discover the secret origin of Ink.  The bad-boy of the Young\n<br>X-Men has been shrouded in mystery, but that ends here, and the truth will shake the team of young mutants.\n<br>Rated T+ '$2.99\n<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22532",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/22532/young_x-men_2008_8?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-X-Men-8/digital-comic/11905?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11905&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/11905?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4443",
+          "name": "Young X-Men (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2008-11-19T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-10-30T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-05-04T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-09-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/518d27242cc4b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/518d27242cc4b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22532/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9368",
+              "name": "Roger Bonet",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/434",
+              "name": "Michael Ryan",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5158",
+              "name": "Rafa Sandoval",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/627",
+              "name": "Christina Strain",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8836",
+              "name": "Jose Villarrubia",
+              "role": "colorist"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22532/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011277",
+              "name": "Young X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22532/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/49944",
+              "name": "3 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/49945",
+              "name": "3 of 5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22532/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

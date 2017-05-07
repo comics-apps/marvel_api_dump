@@ -1,0 +1,3944 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "afa3dc1e3fe57523a70c7899b52984a9be6121b1",
+  "data": {
+    "offset": 2500,
+    "limit": 100,
+    "total": 2528,
+    "count": 28,
+    "results": [
+      {
+        "id": 23162,
+        "digitalId": 13191,
+        "title": "X-Men: Manifest Destiny (2008) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "The final issue of the hit X-Men anthology mini-series is here!  See the pulse pounding conclusion of Mike Carey (X-MEN: LEGACY) and Michael Ryan's (RUNAWAYS) Iceman story?  What does Mystique want and why is she coming to Iceman?  Also stories featuring the return of Avalanche and a rockin' story starring your favorite glam-X-lady Dazzler!\r<br>Rated T+ ...$3.99\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960606564-00511",
+        "diamondCode": "NOV088101",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The final issue of the hit X-Men anthology mini-series is here!  See the pulse pounding conclusion of Mike Carey (X-MEN: LEGACY) and Michael Ryan's (RUNAWAYS) Iceman story?  What does Mystique want and why is she coming to Iceman?  Also stories featuring the return of Avalanche and a rockin' story starring your favorite glam-X-lady Dazzler!\r<br>Rated T+ ...$3.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23162",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23162/x-men_manifest_destiny_2008_5?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-Manifest-Destiny-5/digital-comic/13191?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=13191&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/13191?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/5750",
+          "name": "X-Men: Manifest Destiny (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-01-07T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-12-18T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-07-23T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-01-01T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/58c167bd0f697",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/58c167bd0f697",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 14,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23162/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/366",
+              "name": "Mike Carey",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+              "name": "Kieron Gillen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/91",
+              "name": "Frank Tieri",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+              "name": "Frank D'Armata",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/582",
+              "name": "Brian Reber",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+              "name": "Chris Sotomayor",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/627",
+              "name": "Christina Strain",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/447",
+              "name": "Victor Olazaba",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/554",
+              "name": "Ben Oliver",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9408",
+              "name": "Sara Pichelli",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+              "name": "Humberto Ramos",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/434",
+              "name": "Michael Ryan",
+              "role": "penciller"
+            }
+          ],
+          "returned": 14
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23162/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+              "name": "Dazzler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23162/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51365",
+              "name": "X-Men: Manifest Destiny (2008) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51366",
+              "name": "5XLS 5 of 5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23162/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 27357,
+        "digitalId": 0,
+        "title": "X-Men: Manifest Destiny (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "When you move, you have to take your baggage with you. Joining the rest of the X-Men, Wolverine makes the trek to their new home in San Francisco, California. For much of his life, Logan's past has been a mystery, but now, after regaining his memories, Wolverine has more baggage than he can carry. Upon arriving, Logan goes to the center of San Francisco's legendary Chinatown to resolve a mysterious incident from his past. Although his last visit to the neighborhood was a full 50 years ago, Wolverine isn't the only one who remembers. As another piece of his violent past is unearthed, the mutant finds himself facing off against the deadly Black Dragon Death Squad. Collecting WOLVERINE: MANIFEST DESTINY #1-4, X-MEN MANIFEST DESTINY: NIGHTCRAWLER #1 and X-MEN: MANIFEST DESTINY: ICEMAN, NIGHTCRAWLER, BOOM-BOOM & AVALANCHE.\r\nRated T  ...$24.99\r\nISBN: 978-0-7851-3951-5",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3951-5",
+        "upc": "5960613951-00111",
+        "diamondCode": "SEP090538",
+        "ean": "9780785 139515 52499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 200,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "When you move, you have to take your baggage with you. Joining the rest of the X-Men, Wolverine makes the trek to their new home in San Francisco, California. For much of his life, Logan's past has been a mystery, but now, after regaining his memories, Wolverine has more baggage than he can carry. Upon arriving, Logan goes to the center of San Francisco's legendary Chinatown to resolve a mysterious incident from his past. Although his last visit to the neighborhood was a full 50 years ago, Wolverine isn't the only one who remembers. As another piece of his violent past is unearthed, the mutant finds himself facing off against the deadly Black Dragon Death Squad. Collecting WOLVERINE: MANIFEST DESTINY #1-4, X-MEN MANIFEST DESTINY: NIGHTCRAWLER #1 and X-MEN: MANIFEST DESTINY: ICEMAN, NIGHTCRAWLER, BOOM-BOOM & AVALANCHE.\r\nRated T  ...$24.99\r\nISBN: 978-0-7851-3951-5"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27357",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/27357/x-men_manifest_destiny_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/8709",
+          "name": "X-Men: Manifest Destiny (2009 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-11-11T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-10-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 24.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4bb4024746a37",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4bb4024746a37",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27357/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27357/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27357/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60032",
+              "name": "Cover #60032",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60033",
+              "name": "Interior #60033",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27357/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 27359,
+        "digitalId": 0,
+        "title": "X-Men: Original Sin (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Wolverine and Professor Xavier. Two of the oldest fighters in mutantkind's struggle for equality. Men with long histories and much blood on their hands. Now, they've joined together to save a member of mutantkind's next generation. Daken, Wolverine's estranged son, was gifted with bone claws, a healing factor and the savage ferocity of his father. He had the tools to become a great hero - but after years of torturous brainwashing and homicidal reprogramming at the hands of the mysterious Romulus, he has little control over his wrathful impulses. He'll need the help of these legendary X-Men to rebuild his psyche, or risk losing himself to the animalistic urges that nearly consumed his father. Collecting X-MEN: LEGACY #217-218, WOLVERINE: ORIGINS #28-30 and X-MEN ORIGINAL SIN ONE-SHOT.\r\nParental Advisory ...$14.99\r\nISBN: 978-0-7851-2956-1",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-2956-1",
+        "upc": "5960612956-00111",
+        "diamondCode": "MAY090605",
+        "ean": "9780785 129561 51499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 144,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Wolverine and Professor Xavier. Two of the oldest fighters in mutantkind's struggle for equality. Men with long histories and much blood on their hands. Now, they've joined together to save a member of mutantkind's next generation. Daken, Wolverine's estranged son, was gifted with bone claws, a healing factor and the savage ferocity of his father. He had the tools to become a great hero - but after years of torturous brainwashing and homicidal reprogramming at the hands of the mysterious Romulus, he has little control over his wrathful impulses. He'll need the help of these legendary X-Men to rebuild his psyche, or risk losing himself to the animalistic urges that nearly consumed his father. Collecting X-MEN: LEGACY #217-218, WOLVERINE: ORIGINS #28-30 and X-MEN ORIGINAL SIN ONE-SHOT.\r\nParental Advisory ...$14.99\r\nISBN: 978-0-7851-2956-1"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27359",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/27359/x-men_original_sin_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-Original-Sin-0/digital-comic/28246?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/8920",
+          "name": "X-Men: Original Sin (2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22387",
+            "name": "X-Men: Original Sin (2008) #1"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-08-05T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-07-02T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 14.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bb6ccd998f72",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bb6ccd998f72",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/4bb4c1322334c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27359/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/520",
+              "name": "Rainier Beredo",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/366",
+              "name": "Mike Carey",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+              "name": "Daniel Way",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+              "name": "Mike Deodato",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/548",
+              "name": "Andrew Hennessy",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5106",
+              "name": "Scot Eaton",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5140",
+              "name": "Francis Tsai",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9307",
+              "name": "Rian Hughes",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+              "name": "Jason Keith",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 12
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27359/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27359/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/49280",
+              "name": "1 of 1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/49281",
+              "name": "1 of 1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60036",
+              "name": "Cover #60036",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60037",
+              "name": "Interior #60037",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27359/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 23198,
+        "digitalId": 0,
+        "title": "X-Men: Original Sin Premiere (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "After his bruising encounter with Cyclops and Emma Frost, Professor X is forced to revisit the biggest challenge and the biggest failure of his career: Logan. But the layers of lies hide one last, deadly secret which goes back to the days of the X-Men's founding, and the Professor's timing couldn't possibly be worse... Collecting X-MEN: LEGACY #217-218, WOLVERINE: ORIGINS #28-30 and X-MEN ORIGINAL SIN ONE-SHOT.\r<br>Parental Advisory ...$24.99\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3038-3",
+        "upc": "5960613038-00111",
+        "diamondCode": "NOV082445",
+        "ean": "9780785 130383 52499",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 144,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "After his bruising encounter with Cyclops and Emma Frost, Professor X is forced to revisit the biggest challenge and the biggest failure of his career: Logan. But the layers of lies hide one last, deadly secret which goes back to the days of the X-Men's founding, and the Professor's timing couldn't possibly be worse... Collecting X-MEN: LEGACY #217-218, WOLVERINE: ORIGINS #28-30 and X-MEN ORIGINAL SIN ONE-SHOT.\r<br>Parental Advisory ...$24.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23198",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/23198/x-men_original_sin_premiere_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/6627",
+          "name": "X-Men: Original Sin Premiere (2009 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-01-28T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2008-12-18T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 24.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4bb602ffbc7ab",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4bb602ffbc7ab",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23198/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9965",
+              "name": "Will Panzo",
+              "role": "other"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23198/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23198/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51444",
+              "name": "X-Men: Legacy 217-218, Wolverine: Origins 28-30, X-Men Original Sin One-Shot",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51445",
+              "name": "X-Men: Legacy 217-218, Wolverine: Origins 28-30, X-Men Original Sin One-Shot",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23198/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 27360,
+        "digitalId": 0,
+        "title": "X-Men: Phoenix Rising (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "She was a mutant. She was a telepath. She was dead. PHOENIX. Now, Jean Grey walks the earth again. How will her friends, her enemies, and her one true love react to the fiery spectacle of Phoenix Rising? Collecting AVENGERS #263, FANTASTIC FOUR #286, X-FACTOR #1 and material from CLASSIC X-MEN #8 & #43.\r\n/Rated T  ...$19.99\r\nISBN: 978-0-7851-3948-5\r\nTrim size: standard",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3948-5",
+        "upc": "5960613948-00111",
+        "diamondCode": "JAN092580",
+        "ean": "9780785 139485 51999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 144,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "She was a mutant. She was a telepath. She was dead. PHOENIX. Now, Jean Grey walks the earth again. How will her friends, her enemies, and her one true love react to the fiery spectacle of Phoenix Rising? Collecting AVENGERS #263, FANTASTIC FOUR #286, X-FACTOR #1 and material from CLASSIC X-MEN #8 & #43.\r\n/Rated T  ...$19.99\r\nISBN: 978-0-7851-3948-5\r\nTrim size: standard"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27360",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/27360/x-men_phoenix_rising_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/8711",
+          "name": "X-Men: Phoenix Rising (2009 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-06-10T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-03-19T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bb4f7dde48a5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bb4f7dde48a5",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27360/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/887",
+              "name": "Ronald Byrd",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1066",
+              "name": "Tom Smith",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+              "name": "Chris Sotomayor",
+              "role": "colorist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27360/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27360/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60038",
+              "name": "Cover #60038",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60039",
+              "name": "Interior #60039",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27360/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 27361,
+        "digitalId": 0,
+        "title": "X-Men: Phoenix Rising (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "DM ONLY",
+        "description": "She was a mutant. She was a telepath. She was dead. PHOENIX. Now, Jean Grey walks the earth again. How will her friends, her enemies, and her one true love react to the fiery spectacle of Phoenix Rising? Collecting AVENGERS #263, FANTASTIC FOUR #286, X-FACTOR #1 and material from CLASSIC X-MEN #8 & #43.\r\n/Rated T  ...$19.99\r\nISBN: 978-0-7851-3948-5\r\nTrim size: standard",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3949-2",
+        "upc": "5960613949-00111",
+        "diamondCode": "JAN092581",
+        "ean": "9780785 139492 51999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 144,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "She was a mutant. She was a telepath. She was dead. PHOENIX. Now, Jean Grey walks the earth again. How will her friends, her enemies, and her one true love react to the fiery spectacle of Phoenix Rising? Collecting AVENGERS #263, FANTASTIC FOUR #286, X-FACTOR #1 and material from CLASSIC X-MEN #8 & #43.\r\n/Rated T  ...$19.99\r\nISBN: 978-0-7851-3948-5\r\nTrim size: standard"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27361",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/27361/x-men_phoenix_rising_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/7808",
+          "name": "X-Men: Phoenix Rising (2009 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-06-10T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-03-19T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4bb4f7d89eac5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4bb4f7d89eac5",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27361/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27361/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27361/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60040",
+              "name": "Cover #60040",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60041",
+              "name": "Interior #60041",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27361/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 23898,
+        "digitalId": 0,
+        "title": "X-Men: Proteus (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "DM ONLY",
+        "description": "One of the X-Men's greatest allies must face her darkest secret when a child born of violence bends reality to his whims! The\r<br>paranormal Proteus battles the X-Men in body and soul, shaking the psyches of even their strongest! But as Marvel's\r<br>mightiest mutants face one world-threatening wonder, an even worse one awaits as the stage is set for the debut of Dark Phoenix!\r<br>Collecting X-MEN #125-128, and CLASSIC X-MEN #32-33 and #36.\r<br>Rated T+ ...$19.99\r<br>ISBN: 978-0-7851-3769-6\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3769-6",
+        "upc": "5960613769-00111",
+        "diamondCode": "NOV082454",
+        "ean": "9780785 137696 51999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 128,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "One of the X-Men's greatest allies must face her darkest secret when a child born of violence bends reality to his whims! The\r<br>paranormal Proteus battles the X-Men in body and soul, shaking the psyches of even their strongest! But as Marvel's\r<br>mightiest mutants face one world-threatening wonder, an even worse one awaits as the stage is set for the debut of Dark Phoenix!\r<br>Collecting X-MEN #125-128, and CLASSIC X-MEN #32-33 and #36.\r<br>Rated T+ ...$19.99\r<br>ISBN: 978-0-7851-3769-6\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23898",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/23898/x-men_proteus_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/7065",
+          "name": "X-Men: Proteus (2009 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-04-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-02-05T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bb59607e1be0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bb59607e1be0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23898/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23898/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23898/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53022",
+              "name": "X-Men 125-128, Classic X-Men 32-33 and 36: Vol. 21",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53023",
+              "name": "X-Men 125-128, Classic X-Men 32-33 and 36: Vol. 21",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23898/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 23897,
+        "digitalId": 0,
+        "title": "X-Men: Proteus Premiere (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "One of the X-Men's greatest allies must face her darkest secret when a child born of violence bends reality to his whims! The\r<br>paranormal Proteus battles the X-Men in body and soul, shaking the psyches of even their strongest! But as Marvel's\r<br>mightiest mutants face one world-threatening wonder, an even worse one awaits as the stage is set for the debut of Dark Phoenix!\r<br>Collecting X-MEN #125-128, and CLASSIC X-MEN #32-33 and #36.\r<br>Rated T+ ...$19.99\r<br>ISBN: 978-0-7851-3768-9\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3768-9",
+        "upc": "5960613768-00111",
+        "diamondCode": "NOV082453",
+        "ean": "9780785 137689 51999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 128,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "One of the X-Men's greatest allies must face her darkest secret when a child born of violence bends reality to his whims! The\r<br>paranormal Proteus battles the X-Men in body and soul, shaking the psyches of even their strongest! But as Marvel's\r<br>mightiest mutants face one world-threatening wonder, an even worse one awaits as the stage is set for the debut of Dark Phoenix!\r<br>Collecting X-MEN #125-128, and CLASSIC X-MEN #32-33 and #36.\r<br>Rated T+ ...$19.99\r<br>ISBN: 978-0-7851-3768-9\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23897",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/23897/x-men_proteus_premiere_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-Proteus-Premiere-0/digital-comic/32020?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/7064",
+          "name": "X-Men: Proteus Premiere (2009 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-04-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-02-05T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bb5960d4324b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bb5960d4324b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23897/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/887",
+              "name": "Ronald Byrd",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1066",
+              "name": "Tom Smith",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1244",
+              "name": "Tom Ziuko",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+              "name": "Morry Hollowell",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+              "name": "Chris Sotomayor",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23897/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23897/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53021",
+              "name": "X-Men 125-128, Classic X-Men 32-33 and 36",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60042",
+              "name": "Cover #60042",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23897/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 23849,
+        "digitalId": 40761,
+        "title": "X-Men: Quitting Time (2009) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Since the move to San Francisco and after the events of X-Infernus, Nightcrawler realizes a hard truth-he has to quit the X-Men. Kurt has realized that the X-Men just don't need him anymore. He hasn't been operating at his highest levels and even the biggest strength he has-teleportation-has been made redundant by Pixie who can do it better and more efficiently. Don't miss the departure of one of the most important characters in X-Men history.\r<br>One-Shot/Rated T+ ...$3.99\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960606828-00111",
+        "diamondCode": "JAN092550",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Since the move to San Francisco and after the events of X-Infernus, Nightcrawler realizes a hard truth-he has to quit the X-Men. Kurt has realized that the X-Men just don't need him anymore. He hasn't been operating at his highest levels and even the biggest strength he has-teleportation-has been made redundant by Pixie who can do it better and more efficiently. Don't miss the departure of one of the most important characters in X-Men history.\r<br>One-Shot/Rated T+ ...$3.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23849",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23849/x-men_quitting_time_2009_1?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=40761&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/7007",
+          "name": "X-Men: Quitting Time (2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-03-11T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-02-19T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2015-12-07T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5661d49ba0a4b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5661d49ba0a4b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb597b573f1c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23849/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8658",
+              "name": "James Asmus",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5149",
+              "name": "Vicente Cifuentes",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/447",
+              "name": "Victor Olazaba",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/974",
+              "name": "Jeff Eckleberry",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8825",
+              "name": "Jorge Molina",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/532",
+              "name": "Brandon Peterson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9729",
+              "name": "Ardian Sayif",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1143",
+              "name": "John Rauch",
+              "role": "colorist"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23849/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23849/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52910",
+              "name": "1 of 1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52911",
+              "name": "1 of 1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23849/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 23770,
+        "digitalId": 19874,
+        "title": "X-Men: Sword of the Braddocks (2009) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Before she can come home to the X-Men, Betsy Braddock has one final mission-settle the score once and for all with the man who's been hunting her across the multiverse.  If she hopes to survive, Psylocke's going to have to use every weapon at her disposal----and possibly cross a line no X-Man ever has before...\r<br>One-Shot/Rated T+ ...$3.99\r<br>",
+        "modified": "2016-10-25T13:21:16-0400",
+        "isbn": "",
+        "upc": "5960606176-00111",
+        "diamondCode": "JAN092553",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Before she can come home to the X-Men, Betsy Braddock has one final mission-settle the score once and for all with the man who's been hunting her across the multiverse.  If she hopes to survive, Psylocke's going to have to use every weapon at her disposal----and possibly cross a line no X-Man ever has before...\r<br>One-Shot/Rated T+ ...$3.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23770",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23770/x-men_sword_of_the_braddocks_2009_1?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=19874&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/6921",
+          "name": "X-Men: Sword of the Braddocks (2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-03-25T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-03-05T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2015-04-21T09:37:05-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/58c1875ed256c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/58c1875ed256c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23770/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3999",
+              "name": "Scott Clark",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8003",
+              "name": "Alex Garner",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+              "name": "Tom Orzechowski",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23770/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23770/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52741",
+              "name": "1 of 1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52742",
+              "name": "1 of 1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23770/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 27363,
+        "digitalId": 0,
+        "title": "X-Men: The End Trilogy (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The epic finale to the story of the Children of the Atom! Renowned X-Men scribe Chris Claremont (Uncanny X-Men) joins with star artist Sean Chen (Wolverine) for a trilogy in the style of the Lord of the Rings movies, one that spans the length and breadth of the X-Men canon and brings the saga of Marvel's mutants to a climax! Collecting X-MEN: THE END - DREAMERS AND DEMONS #1-6, HEROES AND MARTYRS #1-6 and MEN AND X-MEN #1-6.\r\nRated T  ...$34.99\r\nISBN: 978-0-7851-3737-5",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3737-5",
+        "upc": "5960613737-00111",
+        "diamondCode": "APR090586",
+        "ean": "9780785 137375 53499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 448,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The epic finale to the story of the Children of the Atom! Renowned X-Men scribe Chris Claremont (Uncanny X-Men) joins with star artist Sean Chen (Wolverine) for a trilogy in the style of the Lord of the Rings movies, one that spans the length and breadth of the X-Men canon and brings the saga of Marvel's mutants to a climax! Collecting X-MEN: THE END - DREAMERS AND DEMONS #1-6, HEROES AND MARTYRS #1-6 and MEN AND X-MEN #1-6.\r\nRated T  ...$34.99\r\nISBN: 978-0-7851-3737-5"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27363",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/27363/x-men_the_end_trilogy_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/8713",
+          "name": "X-Men: The End Trilogy (2009 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-06-10T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-05-14T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 34.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bb4f78570190",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bb4f78570190",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27363/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27363/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27363/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60045",
+              "name": "Cover #60045",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60046",
+              "name": "Interior #60046",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27363/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 24054,
+        "digitalId": 15240,
+        "title": "X-Men: The Lives and Times of Lucas Bishop (2009) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "\"Memories of the Monster\"\r<br>By now you know that Lucas Bishop-former cop, renegade X-Man-refuses to rest until he's killed the so-called \"mutant messiah.\"  But do you know why?  To answer that question you have to look into Bishop's past...which actually means jumping 50 years into the future, when his parents barely escaped a nuclear holocaust, only to land in the most brutal \"mutant relocation\" camp in the world.  There, a young Bishop first heard the horror stories about the green-eyed monster that ushered in the the downfall of mutantkind, and swore vengeance -- embarking on a life-long, time-hopping mission that begins here, in this special three-part mini-series.  You haven't heard the \"Messiah Complex\" story until you've heard Bishop's side of the story...\r<br>Rated T+... $3.99\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960606795-00311",
+        "diamondCode": "FEB092588",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"Memories of the Monster\"\r<br>By now you know that Lucas Bishop-former cop, renegade X-Man-refuses to rest until he's killed the so-called \"mutant messiah.\"  But do you know why?  To answer that question you have to look into Bishop's past...which actually means jumping 50 years into the future, when his parents barely escaped a nuclear holocaust, only to land in the most brutal \"mutant relocation\" camp in the world.  There, a young Bishop first heard the horror stories about the green-eyed monster that ushered in the the downfall of mutantkind, and swore vengeance -- embarking on a life-long, time-hopping mission that begins here, in this special three-part mini-series.  You haven't heard the \"Messiah Complex\" story until you've heard Bishop's side of the story...\r<br>Rated T+... $3.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24054",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/24054/x-men_the_lives_and_times_of_lucas_bishop_2009_3?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=15240&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/6815",
+          "name": "X-Men: The Lives and Times of Lucas Bishop (2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-04-22T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-04-02T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-08-01T11:38:01-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb574e71ef2d",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb574e71ef2d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/4bb4bbb67a2bb",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/4bb4bbb15b9ca",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bb4bbac2f617",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4bb4bba6cf018",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/4bb4bba1a5b48",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bb4bb9c65b2a",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bb4bb91ec9e6",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/24054/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/440",
+              "name": "Mark Farmer",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/470",
+              "name": "Robert Stull",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9539",
+              "name": "Thomas Mason",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+              "name": "Ariel Olivetti",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1246",
+              "name": "Larry Stroman",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5625",
+              "name": "Duane Swierczynski",
+              "role": "writer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/24054/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/24054/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53332",
+              "name": "Cover #53332",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53333",
+              "name": "Interior #53333",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/24054/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 23667,
+        "digitalId": 21545,
+        "title": "X-Men: The Lives and Times of Lucas Bishop (2009) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "\"Memories of the Monster\"\r<br>By now you know that Lucas Bishop-former cop, renegade X-Man-refuses to rest until he's killed the so-called \"mutant messiah.\"  But do you know why?  To answer that question you have to look into Bishop's past...which actually means jumping 50 years into the future, when his parents barely escaped a nuclear holocaust, only to land in the most brutal \"mutant relocation\" camp in the world.  There, a young Bishop first heard the horror stories about the green-eyed monster that ushered in the the downfall of mutantkind, and swore vengeance -- embarking on a life-long, time-hopping mission that begins here, in this special three-part mini-series.  You haven't heard the \"Messiah Complex\" story until you've heard Bishop's side of the story...\r<br>Rated T+... $3.99\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960606795-00111",
+        "diamondCode": "DEC082406",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"Memories of the Monster\"\r<br>By now you know that Lucas Bishop-former cop, renegade X-Man-refuses to rest until he's killed the so-called \"mutant messiah.\"  But do you know why?  To answer that question you have to look into Bishop's past...which actually means jumping 50 years into the future, when his parents barely escaped a nuclear holocaust, only to land in the most brutal \"mutant relocation\" camp in the world.  There, a young Bishop first heard the horror stories about the green-eyed monster that ushered in the the downfall of mutantkind, and swore vengeance -- embarking on a life-long, time-hopping mission that begins here, in this special three-part mini-series.  You haven't heard the \"Messiah Complex\" story until you've heard Bishop's side of the story...\r<br>Rated T+... $3.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23667",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23667/x-men_the_lives_and_times_of_lucas_bishop_2009_1?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=21545&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/6815",
+          "name": "X-Men: The Lives and Times of Lucas Bishop (2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-02-04T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-01-15T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-08-01T11:37:20-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb5d236e8d0b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb5d236e8d0b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23667/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/440",
+              "name": "Mark Farmer",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+              "name": "Matt Milla",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+              "name": "Ariel Olivetti",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1246",
+              "name": "Larry Stroman",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5625",
+              "name": "Duane Swierczynski",
+              "role": "writer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23667/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23667/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52408",
+              "name": "Cover #52408",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52409",
+              "name": "Interior #52409",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23667/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 23848,
+        "digitalId": 13187,
+        "title": "X-Men: The Lives and Times of Lucas Bishop (2009) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "The untold story of Lucas Bishop, renegade X-Man, continues here!  Seventy years in the future, a young Bishop makes the hard journey from petty street thief to hero cop-but along the way, learns more about the green-eyed girl who damned mutants everywhere to a life of suffering and death.  But when a time portal opens up, Bishop is given a glimpse of mutant life in the past... and a glimmer of hope in an otherwise murky future.\r<br>Rated T+...$3.99\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960606795-00211",
+        "diamondCode": "JAN092545",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The untold story of Lucas Bishop, renegade X-Man, continues here!  Seventy years in the future, a young Bishop makes the hard journey from petty street thief to hero cop-but along the way, learns more about the green-eyed girl who damned mutants everywhere to a life of suffering and death.  But when a time portal opens up, Bishop is given a glimpse of mutant life in the past... and a glimmer of hope in an otherwise murky future.\r<br>Rated T+...$3.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23848",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23848/x-men_the_lives_and_times_of_lucas_bishop_2009_2?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=13187&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/6815",
+          "name": "X-Men: The Lives and Times of Lucas Bishop (2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-03-25T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-03-05T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-07-23T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bb597bab2431",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bb597bab2431",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23848/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/440",
+              "name": "Mark Farmer",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+              "name": "Matt Milla",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+              "name": "Ariel Olivetti",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1246",
+              "name": "Larry Stroman",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5625",
+              "name": "Duane Swierczynski",
+              "role": "writer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23848/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23848/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52908",
+              "name": "Cover #52908",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52909",
+              "name": "Interior #52909",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23848/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 27364,
+        "digitalId": 0,
+        "title": "X-Men: The Shattering (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The X-Men have stayed together in the face of countless threats, but what happens when the team's leader simply disbands it? Marvel's mightiest mutant mind snaps the team into pieces - but an unholy alliance of ancient and alien evils isn't calling it quits, so neither will the X-Men! Plus: Colossus and Marrow face a shared friend and foe, Rogue discovers the Destiny Journals, and Wolverine stares Death in the face - but which is which? Also featuring Cannonball, Moonstar, Nate Grey the X-Man and more! Collecting UNCANNY X-MEN #372-375, X-MEN #92-95, ASTONISHING X-MEN #1-3 and X-MEN 1999 YEARBOOK.\r\nRated T  ...$34.99 \r\nISBN: 978-0-7851-3733-7",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3733-7",
+        "upc": "5960613733-00111",
+        "diamondCode": "MAY090603",
+        "ean": "9780785 137337 53499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 288,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The X-Men have stayed together in the face of countless threats, but what happens when the team's leader simply disbands it? Marvel's mightiest mutant mind snaps the team into pieces - but an unholy alliance of ancient and alien evils isn't calling it quits, so neither will the X-Men! Plus: Colossus and Marrow face a shared friend and foe, Rogue discovers the Destiny Journals, and Wolverine stares Death in the face - but which is which? Also featuring Cannonball, Moonstar, Nate Grey the X-Man and more! Collecting UNCANNY X-MEN #372-375, X-MEN #92-95, ASTONISHING X-MEN #1-3 and X-MEN 1999 YEARBOOK.\r\nRated T  ...$34.99 \r\nISBN: 978-0-7851-3733-7"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27364",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/27364/x-men_the_shattering_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-The-Shattering-0/digital-comic/34416?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/8714",
+          "name": "X-Men: The Shattering (2009 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-07-08T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-06-11T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 34.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/4bb4bdb7ec33c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/4bb4bdb7ec33c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27364/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8813",
+              "name": "Jon Ennis",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1958",
+              "name": "Jeff Powell",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "other"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27364/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27364/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60047",
+              "name": "Cover #60047",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60048",
+              "name": "Interior #60048",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27364/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 27161,
+        "digitalId": 0,
+        "title": "X-Men: Wolverine/Gambit - Victims (DM Only) (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "DM ONLY",
+        "description": "The feral X-Man and the ragin' Cajun - as interpreted by Jeph Loeb and Tim Sale, the award-winning creators of Daredevil: Yellow, Superman: For All Seasons and Batman: Dark Victory! Warrior. Ronin. Soldier. Mutant. Logan knows little of his past, save that it was fraught with pain and loss. Long ago, he was trained as a samurai in Japan; later, he became Weapon X, a covert operative for the Canadian government. Today, Wolverine is an X-Man -- using his animal-keen senses, accelerated healing factor and razor-sharp claws to help protect a world that fears and hates mutants! Always an outsider, Gambit was shunned as a youth because of his strange, burning-red eyes. Eventually, Remy LeBeau realized he was a mutant, possessed of the ability to charge inanimate objects with explosively released biokinetic energy. A reformed thief and charming scoundrel, the ragin' Cajun always has a card up his sleeve! Now, these two outlaw heroes have been drawn together by a string of brutal slayings that may mark the return of the 19th-century serial killer called Jack the Ripper! Is it merely coincidence that finds Remy and Logan in London, or does one of these enigmatic outsiders have an ulterior motive? Collecting WOLVERINE/GAMBIT: VICTIMS #1-4.\r\n112 PGS./Rated T  ...$19.99\r\nISBN: 978-0-7851-3803-7",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3803-7",
+        "upc": "5960613803-00111",
+        "diamondCode": "MAY090585",
+        "ean": "9780785 138037 51999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 112,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The feral X-Man and the ragin' Cajun - as interpreted by Jeph Loeb and Tim Sale, the award-winning creators of Daredevil: Yellow, Superman: For All Seasons and Batman: Dark Victory! Warrior. Ronin. Soldier. Mutant. Logan knows little of his past, save that it was fraught with pain and loss. Long ago, he was trained as a samurai in Japan; later, he became Weapon X, a covert operative for the Canadian government. Today, Wolverine is an X-Man -- using his animal-keen senses, accelerated healing factor and razor-sharp claws to help protect a world that fears and hates mutants! Always an outsider, Gambit was shunned as a youth because of his strange, burning-red eyes. Eventually, Remy LeBeau realized he was a mutant, possessed of the ability to charge inanimate objects with explosively released biokinetic energy. A reformed thief and charming scoundrel, the ragin' Cajun always has a card up his sleeve! Now, these two outlaw heroes have been drawn together by a string of brutal slayings that may mark the return of the 19th-century serial killer called Jack the Ripper! Is it merely coincidence that finds Remy and Logan in London, or does one of these enigmatic outsiders have an ulterior motive? Collecting WOLVERINE/GAMBIT: VICTIMS #1-4.\r\n112 PGS./Rated T  ...$19.99\r\nISBN: 978-0-7851-3803-7"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27161",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/27161/x-men_wolverinegambit_-_victims_dm_only_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/7706",
+          "name": "X-Men: Wolverine/Gambit - Victims (DM Only) (2009 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-11-11T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-06-11T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb4b692ad2e5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb4b692ad2e5",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27161/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+              "name": "Jeph Loeb",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/19",
+              "name": "Tim Sale",
+              "role": "penciller"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27161/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27161/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/59635",
+              "name": "Cover #59635",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/59636",
+              "name": "Interior #59636",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27161/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 27160,
+        "digitalId": 0,
+        "title": "X-Men: Wolverine/Gambit: Victims (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The feral X-Man and the ragin' Cajun - as interpreted by Jeph Loeb and Tim Sale, the award-winning creators of Daredevil: Yellow, Superman: For All Seasons and Batman: Dark Victory! Warrior. Ronin. Soldier. Mutant. Logan knows little of his past, save that it was fraught with pain and loss. Long ago, he was trained as a samurai in Japan; later, he became Weapon X, a covert operative for the Canadian government. Today, Wolverine is an X-Man -- using his animal-keen senses, accelerated healing factor and razor-sharp claws to help protect a world that fears and hates mutants! Always an outsider, Gambit was shunned as a youth because of his strange, burning-red eyes. Eventually, Remy LeBeau realized he was a mutant, possessed of the ability to charge inanimate objects with explosively released biokinetic energy. A reformed thief and charming scoundrel, the ragin' Cajun always has a card up his sleeve! Now, these two outlaw heroes have been drawn together by a string of brutal slayings that may mark the return of the 19th-century serial killer called Jack the Ripper! Is it merely coincidence that finds Remy and Logan in London, or does one of these enigmatic outsiders have an ulterior motive? Collecting WOLVERINE/GAMBIT: VICTIMS #1-4.\r\nRated T  ...$19.99\r\nISBN: 978-0-7851-3802-0\r\nTrim size: standard",
+        "modified": "2017-02-02T14:30:30-0500",
+        "isbn": "978-0-7851-3802-0",
+        "upc": "5960613802-00111",
+        "diamondCode": "MAY090584",
+        "ean": "9780785 138020 51999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 112,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The feral X-Man and the ragin' Cajun - as interpreted by Jeph Loeb and Tim Sale, the award-winning creators of Daredevil: Yellow, Superman: For All Seasons and Batman: Dark Victory! Warrior. Ronin. Soldier. Mutant. Logan knows little of his past, save that it was fraught with pain and loss. Long ago, he was trained as a samurai in Japan; later, he became Weapon X, a covert operative for the Canadian government. Today, Wolverine is an X-Man -- using his animal-keen senses, accelerated healing factor and razor-sharp claws to help protect a world that fears and hates mutants! Always an outsider, Gambit was shunned as a youth because of his strange, burning-red eyes. Eventually, Remy LeBeau realized he was a mutant, possessed of the ability to charge inanimate objects with explosively released biokinetic energy. A reformed thief and charming scoundrel, the ragin' Cajun always has a card up his sleeve! Now, these two outlaw heroes have been drawn together by a string of brutal slayings that may mark the return of the 19th-century serial killer called Jack the Ripper! Is it merely coincidence that finds Remy and Logan in London, or does one of these enigmatic outsiders have an ulterior motive? Collecting WOLVERINE/GAMBIT: VICTIMS #1-4.\r\nRated T  ...$19.99\r\nISBN: 978-0-7851-3802-0\r\nTrim size: standard"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27160",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/27160/x-men_wolverinegambit_victims_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/8628",
+          "name": "X-Men: Wolverine/Gambit: Victims (2009 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-11-11T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-06-11T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/589388b2ab686",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/589388b2ab686",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4bb4b69734680",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27160/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8123",
+              "name": "Bob Greenberger",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+              "name": "Jeph Loeb",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/19",
+              "name": "Tim Sale",
+              "role": "penciller"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27160/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27160/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/59633",
+              "name": "Cover #59633",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/59634",
+              "name": "Interior #59634",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27160/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 27366,
+        "digitalId": 0,
+        "title": "X-Men: Worlds Apart (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Can the Queen of Wakanda weather this storm? Life is never easy for a member of the X-Men, but for Ororo Iqadi T'Challa - the mutant known as Storm - it's even tougher, since she is also the queen of the African nation of Wakanda. When Ororo is called away from her duties with the X-Men to deal with a murder in Wakanda, she finds her former student, Nezhno, faced with seemingly airtight murder charges. Storm remains suspicious, however, and her fears are confirmed when her husband, the Black Panther, returns, speaking harsh words against his bride. As the Panther moves against her, Storm is confronted with the terrible truth: One of the X-Men's most fearsome enemies has returned - the devious telepath known as the Shadow King - and he's gunning for Ororo on all fronts. Plus, relive the beginnings of the Black Panther and Storm romance with reprints of landmark issues MARVEL TEAM-UP #100 and BLACK PANTHER #26. Collecting X-MEN: WORLDS APART #1-4.\r\nRated T  ...$15.99",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3533-3",
+        "upc": "5960613533-00111",
+        "diamondCode": "SEP090542",
+        "ean": "9780785 135333 51599",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 128,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Can the Queen of Wakanda weather this storm? Life is never easy for a member of the X-Men, but for Ororo Iqadi T'Challa - the mutant known as Storm - it's even tougher, since she is also the queen of the African nation of Wakanda. When Ororo is called away from her duties with the X-Men to deal with a murder in Wakanda, she finds her former student, Nezhno, faced with seemingly airtight murder charges. Storm remains suspicious, however, and her fears are confirmed when her husband, the Black Panther, returns, speaking harsh words against his bride. As the Panther moves against her, Storm is confronted with the terrible truth: One of the X-Men's most fearsome enemies has returned - the devious telepath known as the Shadow King - and he's gunning for Ororo on all fronts. Plus, relive the beginnings of the Black Panther and Storm romance with reprints of landmark issues MARVEL TEAM-UP #100 and BLACK PANTHER #26. Collecting X-MEN: WORLDS APART #1-4.\r\nRated T  ...$15.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27366",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/27366/x-men_worlds_apart_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/8715",
+          "name": "X-Men: Worlds Apart (2009 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-11-25T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-10-29T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 15.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/20/4bb406aaa2253",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/20/4bb406aaa2253",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27366/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27366/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27366/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60051",
+              "name": "Cover #60051",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60052",
+              "name": "Interior #60052",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27366/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 23170,
+        "digitalId": 13185,
+        "title": "X-Men: Worlds Apart (2008) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "On one hand, her husband. On the other, her teammates. While Storm races to save the lives of the Black Panther and the X-Men, she recognizes a third option: take down the one responsible for making her choose in the first place. And to do it, she just might get some help from an unlikely source...\r<br>Rated T+ ...$3.99\r<br>",
+        "modified": "2017-03-06T19:03:02-0500",
+        "isbn": "",
+        "upc": "5960606595-00411",
+        "diamondCode": "NOV082417",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "On one hand, her husband. On the other, her teammates. While Storm races to save the lives of the Black Panther and the X-Men, she recognizes a third option: take down the one responsible for making her choose in the first place. And to do it, she just might get some help from an unlikely source...\r<br>Rated T+ ...$3.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23170",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23170/x-men_worlds_apart_2008_4?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=13185&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/6003",
+          "name": "X-Men: Worlds Apart (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-01-28T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-01-08T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-01-01T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/58bdf8a2a4474",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/58bdf8a2a4474",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bb60447aaeae",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23170/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8382",
+              "name": "Diogenes Neves",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9458",
+              "name": "Stephan Roux",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/670",
+              "name": "Raul Trevino",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4538",
+              "name": "Edgar Tadeo",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+              "name": "Chris Yost",
+              "role": "writer"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23170/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23170/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51380",
+              "name": "4XLS 4 of 4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51381",
+              "name": "4XLS 4 of 4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23170/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 24320,
+        "digitalId": 0,
+        "title": "X-Men: Worlds Apart (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Over the course of her life, STORM has been many things: A thief. A goddess. An X-Man. A Wife. A Queen. But not until now have these roles come into conflict. When a mutant commits a mysterious murder in Wakanda, Storm takes it upon herself to investigate. And what she discovers will force her into a position where she must choose: Will she stand with the X-Men or with her husband? Writer Chris Yost (X-FORCE, NEW X-MEN) and up-and-coming artist Diogenes Neves bring you the series that will change Storm forever. Plus, relive the beginnings of the Black Panther and Storm romance with reprints of landmark issues MARVEL TEAM-UP #100 and BLACK PANTHER #26. Collecting X-MEN: WORLDS APART #1-4.\r<br>Rated T+ ...$19.99\r<br>ISBN: 978-0-7851-4030-6\r<br>Trim size: oversized\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-4030-6",
+        "upc": "5960614030-00111",
+        "diamondCode": "MAR092626",
+        "ean": "9780785 140306 51999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 128,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Over the course of her life, STORM has been many things: A thief. A goddess. An X-Man. A Wife. A Queen. But not until now have these roles come into conflict. When a mutant commits a mysterious murder in Wakanda, Storm takes it upon herself to investigate. And what she discovers will force her into a position where she must choose: Will she stand with the X-Men or with her husband? Writer Chris Yost (X-FORCE, NEW X-MEN) and up-and-coming artist Diogenes Neves bring you the series that will change Storm forever. Plus, relive the beginnings of the Black Panther and Storm romance with reprints of landmark issues MARVEL TEAM-UP #100 and BLACK PANTHER #26. Collecting X-MEN: WORLDS APART #1-4.\r<br>Rated T+ ...$19.99\r<br>ISBN: 978-0-7851-4030-6\r<br>Trim size: oversized\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24320",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/24320/x-men_worlds_apart_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/7519",
+          "name": "X-Men: Worlds Apart (2009 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-05-28T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-04-23T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb52a89c3c09",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb52a89c3c09",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/24320/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5249",
+              "name": "Aubrey Sitterson",
+              "role": "other"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/24320/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/24320/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53880",
+              "name": "X-Men: Worlds Apart 1-4, Black Panther 26, Marvel Team-Up 100 (backup)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53881",
+              "name": "X-Men: Worlds Apart 1-4, Black Panther 26, Marvel Team-Up 100 (backup)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/24320/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 27384,
+        "digitalId": 0,
+        "title": "Young Allies Comics 70th Anniversary Special (2009) #1 (MARTIN VARIANT)",
+        "issueNumber": 1,
+        "variantDescription": "MARTIN VARIANT",
+        "description": "Before they were Invaders, Bucky Barnes and Toro the Flaming Kid joined forces with four teen-age friends to battle the Third Reich as the Young Allies!  Their fictionalized adventures thrilled readers on the Home Front throughout World War II, but their real story has never been told -- until now!  Discover the truth behind comics' original kid gang!  Action! Intrigue! Adventure!  All in a timely tale by Roger Stern (Amazing Spider-Man) and Paolo Rivera (Mythos). And in a bonus back-up, take another trip to the Golden Age with a classic reprint from the Timely Era!\r\nNew and Reprints/Rated A ...$3.99",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960606762-00121",
+        "diamondCode": "APR090435",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 48,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Before they were Invaders, Bucky Barnes and Toro the Flaming Kid joined forces with four teen-age friends to battle the Third Reich as the Young Allies!  Their fictionalized adventures thrilled readers on the Home Front throughout World War II, but their real story has never been told -- until now!  Discover the truth behind comics' original kid gang!  Action! Intrigue! Adventure!  All in a timely tale by Roger Stern (Amazing Spider-Man) and Paolo Rivera (Mythos). And in a bonus back-up, take another trip to the Golden Age with a classic reprint from the Timely Era!\r\nNew and Reprints/Rated A ...$3.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27384",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/27384/young_allies_comics_70th_anniversary_special_2009_1_martin_variant/martin_variant?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/8732",
+          "name": "Young Allies Comics 70th Anniversary Special (2009)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/27383",
+            "name": "Young Allies Comics 70th Anniversary Special (2009) #1"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-06-17T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-05-28T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bb45e7130005",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bb45e7130005",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27384/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/894",
+              "name": "Marcos Martin",
+              "role": "penciller"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27384/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27384/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60087",
+              "name": "Cover #60087",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60088",
+              "name": "Interior #60088",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27384/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 27383,
+        "digitalId": 15766,
+        "title": "Young Allies Comics 70th Anniversary Special (2009) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Before they were Invaders, Bucky Barnes and Toro the Flaming Kid joined forces with four teen-age friends to battle the Third Reich as the Young Allies!  Their fictionalized adventures thrilled readers on the Home Front throughout World War II, but their real story has never been told -- until now!  Discover the truth behind comics' original kid gang!  Action! Intrigue! Adventure!  All in a timely tale by Roger Stern (Amazing Spider-Man) and Paolo Rivera (Mythos). And in a bonus back-up, take another trip to the Golden Age with a classic reprint from the Timely Era!\r\nNew and Reprints/Rated A ...$3.99",
+        "modified": "2010-11-09T17:34:58-0500",
+        "isbn": "",
+        "upc": "5960606762-00111",
+        "diamondCode": "APR090434",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 48,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Before they were Invaders, Bucky Barnes and Toro the Flaming Kid joined forces with four teen-age friends to battle the Third Reich as the Young Allies!  Their fictionalized adventures thrilled readers on the Home Front throughout World War II, but their real story has never been told -- until now!  Discover the truth behind comics' original kid gang!  Action! Intrigue! Adventure!  All in a timely tale by Roger Stern (Amazing Spider-Man) and Paolo Rivera (Mythos). And in a bonus back-up, take another trip to the Golden Age with a classic reprint from the Timely Era!\r\nNew and Reprints/Rated A ...$3.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27383",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/27383/young_allies_comics_70th_anniversary_special_2009_1?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=15766&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/8732",
+          "name": "Young Allies Comics 70th Anniversary Special (2009)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/27384",
+            "name": "Young Allies Comics 70th Anniversary Special (2009) #1 (MARTIN VARIANT)"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-06-17T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-05-28T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2011-04-01T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bb4f604eac45",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bb4f604eac45",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27383/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8678",
+              "name": "Jared Fletcher",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7843",
+              "name": "Todd Klein",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/272",
+              "name": "Paolo Rivera",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/958",
+              "name": "Roger Stern",
+              "role": "writer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27383/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27383/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60085",
+              "name": "Cover #60085",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60086",
+              "name": "Interior #60086",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27383/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 25313,
+        "digitalId": 0,
+        "title": "Young Allies Comics 70th Anniversary Special (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3339-1",
+        "upc": "5960613339-00111",
+        "diamondCode": "JUL090618",
+        "ean": "9780785 133391 51999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 144,
+        "textObjects": [
+
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25313",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/25313/young_allies_comics_70th_anniversary_special_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/7828",
+          "name": "Young Allies Comics 70th Anniversary Special (2009 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-09-09T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-04-23T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [
+
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/25313/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/25313/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/25313/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/55862",
+              "name": "Cover #55862",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/55863",
+              "name": "Interior #55863",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/25313/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 23669,
+        "digitalId": 12186,
+        "title": "Young Guns Sketchbook (2009) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "A new group of artists are on the rise ready to shake up Marvel, just as their Young Gun predecessors have.  But who makes up this next dynamic group of Young Guns?  This free sketchbook is your first look at the artists on the cusp of superstardom and the MAJOR projects they are working on in 2009.  Don't miss out!\r\n<br>Rated T ...FREE! \r\n<br>*see upcoming Marvel Mailers for ordering information\r\n<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960606814-00211",
+        "diamondCode": "NOV088030",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "A new group of artists are on the rise ready to shake up Marvel, just as their Young Gun predecessors have.  But who makes up this next dynamic group of Young Guns?  This free sketchbook is your first look at the artists on the cusp of superstardom and the MAJOR projects they are working on in 2009.  Don't miss out!\r\n<br>Rated T ...FREE! \r\n<br>*see upcoming Marvel Mailers for ordering information\r\n<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23669",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23669/young_guns_sketchbook_2009_2?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=12186&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/6817",
+          "name": "Young Guns Sketchbook (2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-02-04T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-01-15T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-02-06T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb589dc7b40b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb589dc7b40b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23669/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9378",
+              "name": "Rommel Alama",
+              "role": "other"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23669/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23669/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52412",
+              "name": "Interior #52412",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60093",
+              "name": "Cover #60093",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23669/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 23135,
+        "digitalId": 13178,
+        "title": "Young X-Men (2008) #10",
+        "issueNumber": 10,
+        "variantDescription": "",
+        "description": "A mysterious \"secret\" X-Man joins the team, as Dust faces a shocking revelation!",
+        "modified": "2012-09-05T15:57:59-0400",
+        "isbn": "",
+        "upc": "5960606338-01011",
+        "diamondCode": "NOV082416",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "A mysterious \"secret\" X-Man joins the team, as Dust faces a shocking revelation!"
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "YOUNG X-MEN #10\r<br>Written by MARC GUGGENHEIM \r<br>Pencils by BEN OLIVER \r<br>Cover by BILLY TAN \r<br>You think you know everything there is to know about YOUNG X-MEN?  Think again.  One shocker has been\r<br>brewing since #1 and the pot peaks with #10.  Don't miss this landmark issue of Young X-Men.\r<br>Rated T+ ...$2.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23135",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23135/young_x-men_2008_10?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-X-Men-10/digital-comic/13178?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=13178&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/13178?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4443",
+          "name": "Young X-Men (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-01-28T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-01-08T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-07-23T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-09-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/518d27b1c5110",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/518d27b1c5110",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb605a0e894e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23135/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9628",
+              "name": "Ulises Arreola",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/582",
+              "name": "Brian Reber",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/554",
+              "name": "Ben Oliver",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/448",
+              "name": "Billy Tan",
+              "role": "penciller"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23135/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011277",
+              "name": "Young X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23135/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51303",
+              "name": "5 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51304",
+              "name": "5 of 5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23135/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 23626,
+        "digitalId": 13179,
+        "title": "Young X-Men (2008) #11",
+        "issueNumber": 11,
+        "variantDescription": "",
+        "description": "Dust is dying. Ever since she was turned to glass, things haven't been right, and they're only getting worse. Why does she think that Donald Pierce may hold the answer?",
+        "modified": "2012-09-05T15:58:25-0400",
+        "isbn": "",
+        "upc": "5960606338-01111",
+        "diamondCode": "DEC082400",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Dust is dying. Ever since she was turned to glass, things haven't been right, and they're only getting worse. Why does she think that Donald Pierce may hold the answer?"
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Dust is dying. Ever since she was turned to glass in YOUNG X-MEN #3, things haven't been right, and they're only getting worse. Why does she think that Donald Pierce may hold the answer?\r<br>Rated T+ ...$2.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23626",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23626/young_x-men_2008_11?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-X-Men-11/digital-comic/13179?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=13179&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/13179?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4443",
+          "name": "Young X-Men (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-02-18T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-01-29T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-07-23T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-09-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/518d27a446d3f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/518d27a446d3f",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bb5d395bd13e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23626/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1004",
+              "name": "Daniel Acuna",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5158",
+              "name": "Rafa Sandoval",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9628",
+              "name": "Ulises Arreola",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+              "name": "Justin Ponsor",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9368",
+              "name": "Roger Bonet",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/365",
+              "name": "Pasqual Ferry",
+              "role": "other"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23626/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011277",
+              "name": "Young X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23626/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52318",
+              "name": "Cover #52318",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52319",
+              "name": "Interior #52319",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23626/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 23782,
+        "digitalId": 13182,
+        "title": "Young X-Men (2008) #12",
+        "issueNumber": 12,
+        "variantDescription": "",
+        "description": "The final issue! See the conclusion to the END OF DAYS storyline as the Young X-Men look towards the future!",
+        "modified": "2012-09-05T15:58:49-0400",
+        "isbn": "",
+        "upc": "5960606338-01211",
+        "diamondCode": "JAN092555",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "The final issue! See the conclusion to the END OF DAYS storyline as the Young X-Men look towards the future!"
+          },
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Dust fights for her life and the team is in the fight of theirs.  Everything comes full circle in their final confrontation with the X-Baddie who started it all:  Donald Pierce.  \r<br>Rated T+ ...$2.99\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23782",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23782/young_x-men_2008_12?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-X-Men-12/digital-comic/13182?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=13182&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/13182?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/4443",
+          "name": "Young X-Men (2008 - 2009)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-03-18T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-02-26T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2009-07-23T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-09-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/518d279dc104c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/518d279dc104c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4bb599741140a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23782/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1004",
+              "name": "Daniel Acuna",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5158",
+              "name": "Rafa Sandoval",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9628",
+              "name": "Ulises Arreola",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/582",
+              "name": "Brian Reber",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9368",
+              "name": "Roger Bonet",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/365",
+              "name": "Pasqual Ferry",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23782/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011277",
+              "name": "Young X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23782/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52772",
+              "name": "Cover #52772",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52773",
+              "name": "Interior #52773",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/23782/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 24281,
+        "digitalId": 0,
+        "title": "Young X-Men Vol. 2: Book of Revelations (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The Young X-Men have a brand new line-up... but one of them isn't a mutant! And doesn't know it! Secrets are revealed and discovered Also, Discover the secret origin of Ink.  The bad-boy of the Young X-Men has been shrouded in mystery, but that ends here, and the truth will shake the team of young mutants. Plus, the Young X-Men face the next generation of super-powered villains! Finally, everything comes full circle when the team has their final confrontation with the X-Baddie who started it all: Donald Pierce. Collecting YOUNG X-MEN #6-12 and MANIFEST DESTINY: GRAYMALKIN.\r<br>Rated T+ ...$19.99\r<br>ISBN: 978-0-7851-3165-6\r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "978-0-7851-3165-6",
+        "upc": "5960613165-00111",
+        "diamondCode": "MAR092661",
+        "ean": "9780785 131656 51999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 176,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Young X-Men have a brand new line-up... but one of them isn't a mutant! And doesn't know it! Secrets are revealed and discovered Also, Discover the secret origin of Ink.  The bad-boy of the Young X-Men has been shrouded in mystery, but that ends here, and the truth will shake the team of young mutants. Plus, the Young X-Men face the next generation of super-powered villains! Finally, everything comes full circle when the team has their final confrontation with the X-Baddie who started it all: Donald Pierce. Collecting YOUNG X-MEN #6-12 and MANIFEST DESTINY: GRAYMALKIN.\r<br>Rated T+ ...$19.99\r<br>ISBN: 978-0-7851-3165-6\r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24281",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/24281/young_x-men_vol_2_book_of_revelations_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/7477",
+          "name": "Young X-Men Vol. 2: Book of Revelations (2009 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2009-05-20T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-04-23T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/4bb52b1e2eda1",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/4bb52b1e2eda1",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/24281/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/24281/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/24281/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53796",
+              "name": "Young X-Men 6-12, X-Men: Manifest Destiny 3 (Graymalkin)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53797",
+              "name": "Young X-Men 6-12, X-Men: Manifest Destiny 3 (Graymalkin)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/24281/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

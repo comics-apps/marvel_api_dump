@@ -1,0 +1,699 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "08690715f8c5a78b8130e47ac50fb0301f703771",
+  "data": {
+    "offset": 800,
+    "limit": 100,
+    "total": 805,
+    "count": 5,
+    "results": [
+      {
+        "id": 10597,
+        "digitalId": 2924,
+        "title": "X-Treme X-Men: Mekanix (2001) #6",
+        "issueNumber": 6,
+        "variantDescription": "",
+        "description": "Multiple Sentinels are attacking the student union! It's up to Kitty and her two mutant classmates to save the University and protect the students.\n",
+        "modified": "2015-07-22T11:05:55-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Multiple Sentinels are attacking the student union! It's up to Kitty and her two mutant classmates to save the University and protect the students.\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10597",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/10597/x-treme_x-men_mekanix_2001_6?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Treme-X-Men-Mekanix-6/digital-comic/2924?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2924&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/2924?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2064",
+          "name": "X-Treme X-Men: Mekanix (2001 - 2004)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1142",
+            "name": "X-Treme X-Men Vol. 4 Mekanix (Trade Paperback)"
+          }
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2003-03-01T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-07-17T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4bc46729b4411",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4bc46729b4411",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10597/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10597/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10597/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26317",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/66963",
+              "name": "X-TREME X-MEN: MEKANIX 6 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10597/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 10595,
+        "digitalId": 2922,
+        "title": "X-Treme X-Men: Mekanix (2001) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "While Kitty and Shola seem to be winning over Purity member Tom More, his ties to the anti-mutant group have not been completely severed yet.  Also featuring the return of the Sentinels!\n",
+        "modified": "2015-07-22T11:04:37-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "While Kitty and Shola seem to be winning over Purity member Tom More, his ties to the anti-mutant group have not been completely severed yet.  Also featuring the return of the Sentinels!\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10595",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/10595/x-treme_x-men_mekanix_2001_4?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Treme-X-Men-Mekanix-4/digital-comic/2922?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2922&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/2922?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2064",
+          "name": "X-Treme X-Men: Mekanix (2001 - 2004)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1142",
+            "name": "X-Treme X-Men Vol. 4 Mekanix (Trade Paperback)"
+          }
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2003-01-01T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-07-17T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc46cd5a4cb3",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc46cd5a4cb3",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10595/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10595/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10595/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26315",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/66961",
+              "name": "X-TREME X-MEN: MEKANIX 4 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10595/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 10596,
+        "digitalId": 2923,
+        "title": "X-Treme X-Men: Mekanix (2001) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "Kitty and Karma struggle to face a new breed of Sentinel, and Shola Inkosi may be the only one who can stop it.\n",
+        "modified": "2015-07-22T11:04:52-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Kitty and Karma struggle to face a new breed of Sentinel, and Shola Inkosi may be the only one who can stop it.\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10596",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/10596/x-treme_x-men_mekanix_2001_5?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Treme-X-Men-Mekanix-5/digital-comic/2923?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2923&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/2923?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2064",
+          "name": "X-Treme X-Men: Mekanix (2001 - 2004)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1142",
+            "name": "X-Treme X-Men Vol. 4 Mekanix (Trade Paperback)"
+          }
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2003-02-01T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-07-17T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc46724f1bd5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc46724f1bd5",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10596/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10596/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10596/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26316",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/66962",
+              "name": "X-TREME X-MEN: MEKANIX 5 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10596/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 43391,
+        "digitalId": 0,
+        "title": "X-Treme X-Men: X-Pose (2003) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "A group of reporters are tasked with getting the scoop on the X-Men. But are the X-Men ready to expose themselves to the media?\n",
+        "modified": "2017-05-05T16:58:28-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "A group of reporters are tasked with getting the scoop on the X-Men. But are the X-Men ready to expose themselves to the media?\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/43391",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/43391/x-treme_x-men_x-pose_2003_1?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Treme-X-Men-X-Pose-1/digital-comic/26523?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16428",
+          "name": "X-Treme X-Men: X-Pose (2003)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2003-01-01T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/58863b784d434",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/58863b784d434",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43391/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/217",
+              "name": "Arthur Ranson",
+              "role": "penciller"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43391/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+              "name": "Emma Frost"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43391/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/106757",
+              "name": "cover from X-Treme X-Men: X-Pose #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/139012",
+              "name": "Interior to X-Treme X-Men: X-Pose",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43391/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 43392,
+        "digitalId": 0,
+        "title": "X-Treme X-Men: X-Pose (2003) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "Rogue and Gambit intercept a meeting between a mutant and a team of journalists. Disaster ensues!\n",
+        "modified": "2017-05-05T17:01:18-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Rogue and Gambit intercept a meeting between a mutant and a team of journalists. Disaster ensues!\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/43392",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/43392/x-treme_x-men_x-pose_2003_2?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Treme-X-Men-X-Pose-2/digital-comic/26524?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16428",
+          "name": "X-Treme X-Men: X-Pose (2003)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2003-02-01T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/58863c5917b53",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/58863c5917b53",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43392/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/217",
+              "name": "Arthur Ranson",
+              "role": "penciller"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43392/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+              "name": "Storm"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 4
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43392/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/106758",
+              "name": "cover from X-Treme X-Men: X-Pose #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/139013",
+              "name": "Interior to X-Treme X-Men: X-Pose",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43392/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

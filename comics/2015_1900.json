@@ -1,0 +1,4314 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "77de105df9e204f9a5ffdc6b5109ad6b5a29d0c8",
+  "data": {
+    "offset": 1900,
+    "limit": 100,
+    "total": 1931,
+    "count": 31,
+    "results": [
+      {
+        "id": 53334,
+        "digitalId": 0,
+        "title": "X-Men '92 (2015) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "When the X-Men are in trouble who can Westchester depend on? How about X-Force '92? Cable, Deadpool, Domino, Psylocke, Archangel and Bishop enter the fray!\n",
+        "modified": "2015-08-19T19:11:51-0400",
+        "isbn": "",
+        "upc": "75960608264300311",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "When the X-Men are in trouble who can Westchester depend on? How about X-Force '92? Cable, Deadpool, Domino, Psylocke, Archangel and Bishop enter the fray!\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53334",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/53334/x-men_92_2015_3?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-92-3/digital-comic/39866?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20007",
+          "name": "X-Men '92 (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-08-26T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-08-12T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/55d50690246b9",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/55d50690246b9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/55d3a8abc362d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/559a95b2e0248",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/53334/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10144",
+              "name": "Pepe Larraz",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/53334/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/53334/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/118032",
+              "name": "cover from X-Men '92 (2015) #3",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/53334/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 55246,
+        "digitalId": 0,
+        "title": "X-Men '92 (2015) #2 (Tbd Artist Variant)",
+        "issueNumber": 2,
+        "variantDescription": "Tbd Artist Variant",
+        "description": "- ROGUE & GAMBIT...together at last?\n- WOLVERINE face-to-face-to-face with CYBER and OMEGA RED!\n- All orchestrated by THE SHADOW QUEEN!\n- Battleworld's most '90sest district's tubular tale keeps rocking!\n",
+        "modified": "2015-07-21T16:33:10-0400",
+        "isbn": "",
+        "upc": "75960608264300221",
+        "diamondCode": "MAY150731",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "- ROGUE & GAMBIT...together at last?\n- WOLVERINE face-to-face-to-face with CYBER and OMEGA RED!\n- All orchestrated by THE SHADOW QUEEN!\n- Battleworld's most '90sest district's tubular tale keeps rocking!\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55246",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/55246/x-men_92_2015_2_tbd_artist_variant/tbd_artist_variant?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20007",
+          "name": "X-Men '92 (2015 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/53333",
+            "name": "X-Men '92 (2015) #2"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/55aeaba1577b5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/55aeaba1577b5",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55246/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12738",
+              "name": "Chad Bowers",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12737",
+              "name": "Chris Sims",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/486",
+              "name": "Scott Koblish",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5022",
+              "name": "David Nakayama",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55246/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55246/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121560",
+              "name": "cover from X-Men '92 (2015) #2 (TBD ARTIST VARIANT)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121561",
+              "name": "story from X-Men '92 (2015) #2 (TBD ARTIST VARIANT)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55246/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 53332,
+        "digitalId": 0,
+        "title": "X-Men '92 (2015) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Everyone's favorite version of the X-Men from the '90s is back! When Baron Kelly charges the Clear Mountain Project and it's mysterious new director with \"mutant rehabilitation,\" it's up to the X-Men to investigate! PLUS: Free Range Sentiels?!? ",
+        "modified": "2015-06-16T15:58:14-0400",
+        "isbn": "",
+        "upc": "75960608264300111",
+        "diamondCode": "APR150797",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Everyone's favorite version of the X-Men from the '90s is back! When Baron Kelly charges the Clear Mountain Project and it's mysterious new director with \"mutant rehabilitation,\" it's up to the X-Men to investigate! PLUS: Free Range Sentiels?!? "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53332",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/53332/x-men_92_2015_1?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20007",
+          "name": "X-Men '92 (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-06-24T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-06-10T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/550741422b52a",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/55807f05d4433",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/550741422b52a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/53332/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12738",
+              "name": "Chad Bowers",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12737",
+              "name": "Chris Sims",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/486",
+              "name": "Scott Koblish",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10144",
+              "name": "Pepe Larraz",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/53332/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/53332/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/118028",
+              "name": "cover from X-Men '92 (2015) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/118029",
+              "name": "story from X-Men '92 (2015) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/53332/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52945,
+        "digitalId": 37908,
+        "title": "X-Men '92 Infinite Comic (2015) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "Cassandra Nova gives everyone’s favorite X-men a tour of the Clear Mountain Project – a rehabilitation center for evil mutants!  Including one-on-one basketball – Toad Vs. Blob!  PLUS: Professor X gets attacked on the psychic plane!\n",
+        "modified": "2016-01-13T17:22:23-0500",
+        "isbn": "",
+        "upc": "75960608253700211",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Infinite Comic",
+        "pageCount": 15,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Cassandra Nova gives everyone’s favorite X-men a tour of the Clear Mountain Project – a rehabilitation center for evil mutants!  Including one-on-one basketball – Toad Vs. Blob!  PLUS: Professor X gets attacked on the psychic plane!\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52945",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52945/x-men_92_infinite_comic_2015_2?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19800",
+          "name": "X-Men '92 Infinite Comic (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-06-09T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-05-28T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-02-01T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/55e5fa4970fbd",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/55e5fa4970fbd",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/55784e17c7f5c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/555ce1b04d9c3",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52945/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12738",
+              "name": "Chad Bowers",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12737",
+              "name": "Chris Sims",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/486",
+              "name": "Scott Koblish",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52945/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52945/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117467",
+              "name": "X-Men '92 Infinite Comic (2015) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117468",
+              "name": "story from X-Men '92 Infinite Comic (2015) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52945/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52951,
+        "digitalId": 37915,
+        "title": "X-Men '92 Infinite Comic (2015) #8",
+        "issueNumber": 8,
+        "variantDescription": "",
+        "description": "X-Force is on the scene after Kelly’s attempted assassination. Your favorite X-team of the 90’s has been brainwashed beyond recognition by Cassandra Nova...and are now her ‘New’ X-Men!",
+        "modified": "2016-02-01T14:32:53-0500",
+        "isbn": "",
+        "upc": "75960608253700811",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Infinite Comic",
+        "pageCount": 15,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "X-Force is on the scene after Kelly’s attempted assassination. Your favorite X-team of the 90’s has been brainwashed beyond recognition by Cassandra Nova...and are now her ‘New’ X-Men!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52951",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52951/x-men_92_infinite_comic_2015_8?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19800",
+          "name": "X-Men '92 Infinite Comic (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-09-01T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-08-20T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-03-07T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/55e74a7108519",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/55e74a7108519",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52951/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52951/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52951/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117479",
+              "name": "X-Men '92 Infinite Comic (2015) #8",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52951/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52946,
+        "digitalId": 37909,
+        "title": "X-Men '92 Infinite Comic (2015) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "When the X-Men are in trouble who can Westchester depend on? How about X-Force '92? Cable, Deadpool, Domino, Psylocke, Archangel and Bishop enter the fray!",
+        "modified": "2016-01-13T17:24:18-0500",
+        "isbn": "",
+        "upc": "75960608253700311",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Infinite Comic",
+        "pageCount": 15,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "When the X-Men are in trouble who can Westchester depend on? How about X-Force '92? Cable, Deadpool, Domino, Psylocke, Archangel and Bishop enter the fray!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52946",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52946/x-men_92_infinite_comic_2015_3?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19800",
+          "name": "X-Men '92 Infinite Comic (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-06-23T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-06-11T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-02-01T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/55e5fab079799",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/55e5fab079799",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/558ab1ef40a8c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52946/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12738",
+              "name": "Chad Bowers",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12737",
+              "name": "Chris Sims",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/486",
+              "name": "Scott Koblish",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52946/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52946/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117469",
+              "name": "cover from X-Men '92 Infinite Comic (2015) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117470",
+              "name": "story from X-Men '92 Infinite Comic (2015) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52946/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52950,
+        "digitalId": 37914,
+        "title": "X-Men '92 Infinite Comic (2015) #7",
+        "issueNumber": 7,
+        "variantDescription": "",
+        "description": "Westchester is under ATTACK! It’s an attempted assassination on Baron Kelly! But who will save him? X-Force? Or Nova’s newly rehabilitated team of X-Men?",
+        "modified": "2016-02-01T14:32:07-0500",
+        "isbn": "",
+        "upc": "75960608253700711",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Infinite Comic",
+        "pageCount": 15,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Westchester is under ATTACK! It’s an attempted assassination on Baron Kelly! But who will save him? X-Force? Or Nova’s newly rehabilitated team of X-Men?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52950",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52950/x-men_92_infinite_comic_2015_7?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19800",
+          "name": "X-Men '92 Infinite Comic (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-08-18T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-08-06T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-03-07T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/55e60d0b3a47a",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/55e60d0b3a47a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52950/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52950/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52950/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117477",
+              "name": "X-Men '92 Infinite Comic (2015) #7",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52950/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52948,
+        "digitalId": 37912,
+        "title": "X-Men '92 Infinite Comic (2015) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "Professor X, face-to-face with the X-Sentinel! Can the X-Men overcome Cassandra Nova’s “rehabilitations”?",
+        "modified": "2016-02-02T11:49:20-0500",
+        "isbn": "",
+        "upc": "75960608253700511",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Infinite Comic",
+        "pageCount": 15,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Professor X, face-to-face with the X-Sentinel! Can the X-Men overcome Cassandra Nova’s “rehabilitations”?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52948",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52948/x-men_92_infinite_comic_2015_5?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19800",
+          "name": "X-Men '92 Infinite Comic (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-21T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-09T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-02-01T14:33:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/55e6090b90983",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/55e6090b90983",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52948/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52948/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52948/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117473",
+              "name": "X-Men '92 Infinite Comic (2015) #5",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52948/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52947,
+        "digitalId": 37910,
+        "title": "X-Men '92 Infinite Comic (2015) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "Professor X, face-to-face with the X-Sentinel! Can the X-Men overcome Cassandra Nova’s “rehabilitations”?",
+        "modified": "2016-02-02T11:49:20-0500",
+        "isbn": "",
+        "upc": "75960608253700411",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Infinite Comic",
+        "pageCount": 15,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Professor X, face-to-face with the X-Sentinel! Can the X-Men overcome Cassandra Nova’s “rehabilitations”?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52947",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52947/x-men_92_infinite_comic_2015_4?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19800",
+          "name": "X-Men '92 Infinite Comic (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-07T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-06-25T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-02-01T14:33:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/55e608732a17f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/55e608732a17f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52947/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52947/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52947/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117471",
+              "name": "X-Men '92 Infinite Comic (2015) #4",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52947/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52944,
+        "digitalId": 37907,
+        "title": "X-Men '92 Infinite Comic (2015) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Everyone's favorite version of the X-Men from the '90s is back!  When Baron Kelly charges the Clear Mountain Project and it's mysterious new director with \"mutant rehabilitation,\" it's up to the X-Men to investigate! PLUS: Free Range Sentinels?!? ",
+        "modified": "2016-01-13T17:21:44-0500",
+        "isbn": "",
+        "upc": "75960608253700111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Infinite Comic",
+        "pageCount": 15,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Everyone's favorite version of the X-Men from the '90s is back!  When Baron Kelly charges the Clear Mountain Project and it's mysterious new director with \"mutant rehabilitation,\" it's up to the X-Men to investigate! PLUS: Free Range Sentinels?!? "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52944",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52944/x-men_92_infinite_comic_2015_1?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19800",
+          "name": "X-Men '92 Infinite Comic (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-05-26T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-05-14T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-02-01T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/b0/55e5f9738e826",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/b0/55e5f9738e826",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/55784d172292c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52944/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12738",
+              "name": "Chad Bowers",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12737",
+              "name": "Chris Sims",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/486",
+              "name": "Scott Koblish",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52944/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52944/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117465",
+              "name": "X-Men '92 Infinite Comic (2015) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117466",
+              "name": "story from X-Men '92 Infinite Comic (2015) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52944/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52949,
+        "digitalId": 37913,
+        "title": "X-Men '92 Infinite Comic (2015) #6",
+        "issueNumber": 6,
+        "variantDescription": "",
+        "description": "Will this 'blast from the past' X-team survive the dangerous mind fields of Cassandra Nova? Plus...free range Sentinels!",
+        "modified": "2016-02-01T14:31:08-0500",
+        "isbn": "",
+        "upc": "75960608253700611",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Infinite Comic",
+        "pageCount": 15,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Will this 'blast from the past' X-team survive the dangerous mind fields of Cassandra Nova? Plus...free range Sentinels!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52949",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52949/x-men_92_infinite_comic_2015_6?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19800",
+          "name": "X-Men '92 Infinite Comic (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-08-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-23T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-02-01T14:34:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/55e60c29519cf",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/55e60c29519cf",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52949/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52949/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52949/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117475",
+              "name": "X-Men '92 Infinite Comic (2015) #6",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52949/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52961,
+        "digitalId": 0,
+        "title": "X-Men Vol. 4: Exogenous (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "It's a new mission for the first all-female team of X-Men! When the Shi'ar warrior Deathbird lands on S.W.O.R.D.'s doorstep at the brink of death, Abigail Brand calls the X-Men to investigate! But are even they equipped to handle this horrific new alien threat? As \"Genespliced\" monstrosities engineered from the fiercest alien races across the galaxy threaten S.W.O.R.D.'s orbital base, the X-Men find themselves entangled in a conspiracy that connects to the assassination of Rachel Grey's family! Can the X-Men hope to stop an alien horde? Does Brand know more about the Genespliced than she's revealing? How does Rachel's uncle Vulcan tie in? And will Rachel forsake her teammates and risk Earth's safety to take revenge on those responsible for her family's deaths? Collecting X-MEN (2013) #18-22.",
+        "modified": "2015-02-12T15:14:31-0500",
+        "isbn": "978-0-7851-9233-6",
+        "upc": "",
+        "diamondCode": "NOV140881",
+        "ean": "9780785 192336 51799",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 112,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It's a new mission for the first all-female team of X-Men! When the Shi'ar warrior Deathbird lands on S.W.O.R.D.'s doorstep at the brink of death, Abigail Brand calls the X-Men to investigate! But are even they equipped to handle this horrific new alien threat? As \"Genespliced\" monstrosities engineered from the fiercest alien races across the galaxy threaten S.W.O.R.D.'s orbital base, the X-Men find themselves entangled in a conspiracy that connects to the assassination of Rachel Grey's family! Can the X-Men hope to stop an alien horde? Does Brand know more about the Genespliced than she's revealing? How does Rachel's uncle Vulcan tie in? And will Rachel forsake her teammates and risk Earth's safety to take revenge on those responsible for her family's deaths? Collecting X-MEN (2013) #18-22."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52961",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/52961/x-men_vol_4_exogenous_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-Exogenous-0/digital-comic/36774?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19810",
+          "name": "X-Men Vol. 4: Exogenous (2015)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-02-18T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-02-03T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 17.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/54dd07ca09be9",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/54dd07ca09be9",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52961/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11904",
+              "name": "Dexter Soy",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8584",
+              "name": "Harvey Tolibao",
+              "role": "artist"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52961/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52961/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117499",
+              "name": "cover from X-Men: Exogenous (2015)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117500",
+              "name": "story from X-Men: Exogenous (2015)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52961/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52960,
+        "digitalId": 0,
+        "title": "X-Men Vol. 5: The Burning World (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "It's a brand-new story penned by MS. MARVEL writer G. Willow Wilson! When a sinkhole appears under mysterious circumstances in the middle of the Black Rock Desert, the X-Men go to investigate - but little do they suspect that the phenomenon has monstrous connections to old allies - and enemies! Now, trapped deep underground, Storm battles her claustrophobia while trying to find answers - and as natural phenomena tear apart the desert, the X-Men race to uncover the truth and save their teammate! While some of the X-Men follow a lead that takes them to the Inhuman Queen Medusa, Psylocke makes an explosive discovery of her own! Reliving history, can the X-Men find a way to win the day this time around - or are they doomed to continue making the same painful mistakes? Collecting X-MEN (2013) #23-26. ",
+        "modified": "2015-07-13T16:35:53-0400",
+        "isbn": "978-0-7851-9726-3",
+        "upc": "",
+        "diamondCode": "APR150931",
+        "ean": "9780785 197263 51299",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 96,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It's a brand-new story penned by MS. MARVEL writer G. Willow Wilson! When a sinkhole appears under mysterious circumstances in the middle of the Black Rock Desert, the X-Men go to investigate - but little do they suspect that the phenomenon has monstrous connections to old allies - and enemies! Now, trapped deep underground, Storm battles her claustrophobia while trying to find answers - and as natural phenomena tear apart the desert, the X-Men race to uncover the truth and save their teammate! While some of the X-Men follow a lead that takes them to the Inhuman Queen Medusa, Psylocke makes an explosive discovery of her own! Reliving history, can the X-Men find a way to win the day this time around - or are they doomed to continue making the same painful mistakes? Collecting X-MEN (2013) #23-26. "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52960",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/52960/x-men_vol_5_the_burning_world_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-Burning-Earth-0/digital-comic/39312?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19809",
+          "name": "X-Men Vol. 5: The Burning World (2015)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-15T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-06-30T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 12.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/55a41f9c67fa8",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/55a41f9c67fa8",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52960/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9371",
+              "name": "Roland Boschi",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10329",
+              "name": "G. Willow Wilson",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52960/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52960/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117497",
+              "name": "cover from X-Men: Burning Earth (2015)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117498",
+              "name": "story from X-Men: Burning Earth (2015)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52960/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52953,
+        "digitalId": 0,
+        "title": "X-Men/Avengers: Onslaught (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Onslaught is here! The fury of Magneto plus the psionic might of Charles Xavier equals very bad news for the Marvel Universe! Now, discover how this mental monster came to be - and the full extent of the havoc he wreaked on the X-Men, the Avengers and pretty much everybody else! As the truth slowly dawns about the nature of the evil they face, how much are Marvel's greatest heroes prepared to sacrifice to save the world? Collecting CABLE (1993) #32-36; UNCANNY X-MEN (1981) #333-337; X-FORCE (1991) #55 and #57-58; X-MAN #15-19; X-MEN (1991) #53-57 and ANNUAL '96; X-MEN UNLIMITED (1993) #11; ONSLAUGHT: X-MEN, MARVEL UNIVERSE and EPILOGUE; AVENGERS (1963) #401-402; FANTASTIC FOUR (1961) #415; INCREDIBLE HULK (1968) #444-445; WOLVERINE (1988) #104-105; X-FACTOR (1986) #125-126; AMAZING SPIDER-MAN (1963) #415; GREEN GOBLIN #12; SPIDER-MAN (1990) #72; IRON MAN (1968) #332; PUNISHER (1995) #11; THOR (1966) #502; X-MEN: ROAD TO ONSLAUGHT; and material from EXCALIBUR (1988) #100 and FANTASTIC FOUR (1961) #416. ",
+        "modified": "2015-08-17T10:02:23-0400",
+        "isbn": "978-0-7851-9262-6",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 192626 59999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 1296,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Onslaught is here! The fury of Magneto plus the psionic might of Charles Xavier equals very bad news for the Marvel Universe! Now, discover how this mental monster came to be - and the full extent of the havoc he wreaked on the X-Men, the Avengers and pretty much everybody else! As the truth slowly dawns about the nature of the evil they face, how much are Marvel's greatest heroes prepared to sacrifice to save the world? Collecting CABLE (1993) #32-36; UNCANNY X-MEN (1981) #333-337; X-FORCE (1991) #55 and #57-58; X-MAN #15-19; X-MEN (1991) #53-57 and ANNUAL '96; X-MEN UNLIMITED (1993) #11; ONSLAUGHT: X-MEN, MARVEL UNIVERSE and EPILOGUE; AVENGERS (1963) #401-402; FANTASTIC FOUR (1961) #415; INCREDIBLE HULK (1968) #444-445; WOLVERINE (1988) #104-105; X-FACTOR (1986) #125-126; AMAZING SPIDER-MAN (1963) #415; GREEN GOBLIN #12; SPIDER-MAN (1990) #72; IRON MAN (1968) #332; PUNISHER (1995) #11; THOR (1966) #502; X-MEN: ROAD TO ONSLAUGHT; and material from EXCALIBUR (1988) #100 and FANTASTIC FOUR (1961) #416. "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52953",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/52953/x-menavengers_onslaught_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19802",
+          "name": "X-Men/Avengers: Onslaught (2015)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-08-19T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-03-16T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 125
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/04/55b7b99ddbf6f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/55cd02c4642e5",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/04/55b7b99ddbf6f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 33,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52953/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+              "name": "Mark Bagley",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5729",
+              "name": "Anthony Castrillo",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4039",
+              "name": "Bernard Chang",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+              "name": "Mike Deodato",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/365",
+              "name": "Pasqual Ferry",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12523",
+              "name": "Randy Green",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7384",
+              "name": "JOSHUA HOOD",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/175",
+              "name": "Andy Kubert",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1163",
+              "name": "Tom Lyle",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+              "name": "Peter David",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/42",
+              "name": "Larry Hama",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1162",
+              "name": "Terry Kavanagh",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+              "name": "Jeph Loeb",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1286",
+              "name": "Howard Mackie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+              "name": "Adam Kubert",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52953/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52953/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117483",
+              "name": "cover from X-Men/Avengers: Onslaught (2015)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117484",
+              "name": "story from X-Men/Avengers: Onslaught (2015)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52953/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52955,
+        "digitalId": 0,
+        "title": "X-Men: Age of Apocalypse - Alpha (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2015-08-14T15:49:10-0400",
+        "isbn": "978-0-7851-9364-7",
+        "upc": "",
+        "diamondCode": "MAY150839",
+        "ean": "9780785 193647 53499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 408,
+        "textObjects": [
+
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52955",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/52955/x-men_age_of_apocalypse_-_alpha_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19804",
+          "name": "X-Men: Age of Apocalypse - Alpha (2015)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-08-19T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-08-04T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 34.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/55ce45f1c5ad9",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/55ce45f1c5ad9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/55cd00c5d4755",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52955/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52955/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52955/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117487",
+              "name": "cover from X-Men: Age of Apocalypse - Alpha (2015)",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52955/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52958,
+        "digitalId": 0,
+        "title": "X-Men: Age of Apocalypse - Reign (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The world groans under the Darwinian conqueror Apocalypse’s rule. Under his thumb, America has become a dark and dangerous dystopia where mutants rule, humankind suffers, and survival of the fittest is all! But in the shadows, the freedom fighters known as the X-Men — following a tenuously thin thread of hope — continue their dangerous and multi-pronged plan to restore the true Marvel Universe. As the X-Men battle Holocaust and the Sentinels, Nightcrawler searches for the seer Destiny, Cyclops and Havok clash in the Dark Beast’s slave pens, and young Nate Grey meets his maker…literally! Collecting ASTONISHING X-MEN (1995) #2-3, AMAZING X-MEN (1995) #2-3, GAMBIT AND THE X-TERNALS #2, GENERATION NEXT #2, WEAPON X (1995) #2, X-CALIBRE #2-3, FACTOR X #2-3, X-MAN #2-3, X-UNIVERSE #1 and material from X-MEN: YEAR OF THE MUTANTS COLLECTORS’ PREVIEW.",
+        "modified": "2015-10-13T14:01:08-0400",
+        "isbn": "978-0-7851-9365-4",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 193654 53499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 408,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The world groans under the Darwinian conqueror Apocalypse’s rule. Under his thumb, America has become a dark and dangerous dystopia where mutants rule, humankind suffers, and survival of the fittest is all! But in the shadows, the freedom fighters known as the X-Men — following a tenuously thin thread of hope — continue their dangerous and multi-pronged plan to restore the true Marvel Universe. As the X-Men battle Holocaust and the Sentinels, Nightcrawler searches for the seer Destiny, Cyclops and Havok clash in the Dark Beast’s slave pens, and young Nate Grey meets his maker…literally! Collecting ASTONISHING X-MEN (1995) #2-3, AMAZING X-MEN (1995) #2-3, GAMBIT AND THE X-TERNALS #2, GENERATION NEXT #2, WEAPON X (1995) #2, X-CALIBRE #2-3, FACTOR X #2-3, X-MAN #2-3, X-UNIVERSE #1 and material from X-MEN: YEAR OF THE MUTANTS COLLECTORS’ PREVIEW."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52958",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/52958/x-men_age_of_apocalypse_-_reign_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19807",
+          "name": "X-Men: Age of Apocalypse - Reign (2015)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-10-14T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-09-29T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 34.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/561d40804bb36",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/561d40804bb36",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/561d1eea1935a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 17,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52958/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+              "name": "Roger Cruz",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/354",
+              "name": "Tony Daniel",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+              "name": "Adam Kubert",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/175",
+              "name": "Andy Kubert",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1248",
+              "name": "Ken Lashley",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+              "name": "Carlos Pacheco",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1249",
+              "name": "Steve Skroce",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+              "name": "Warren Ellis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/42",
+              "name": "Larry Hama",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1162",
+              "name": "Terry Kavanagh",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+              "name": "Jeph Loeb",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9586",
+              "name": "Tony Moore",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+              "name": "Fabian Nicieza",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1222",
+              "name": "Joe Madureira",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 17
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52958/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52958/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117493",
+              "name": "cover from X-Men: Age of Apocalypse - Reign (2015)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117494",
+              "name": "story from X-Men: Age of Apocalypse - Reign (2015)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52958/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52957,
+        "digitalId": 0,
+        "title": "X-Men: Age of Apocalypse Vol. 3- Omega (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2015-12-29T13:17:01-0500",
+        "isbn": "978-0-7851-9379-1",
+        "upc": "",
+        "diamondCode": "OCT150989",
+        "ean": "9780785 193791 53499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 400,
+        "textObjects": [
+
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52957",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/52957/x-men_age_of_apocalypse_vol_3-_omega_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19806",
+          "name": "X-Men: Age of Apocalypse Vol. 3- Omega (2015)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-30T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-15T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 34.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5682d66f4611c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5682d66f4611c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52957/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52957/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52957/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117491",
+              "name": "cover from X-Men: Age of Apocalypse - Omega (2015)",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52957/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52963,
+        "digitalId": 0,
+        "title": "X-Men: The Hunt for Professor X (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Missing for months, Professor X seemingly returns - and debuts an newer, even more different team of X-Men! But when this new group kidnaps Shadowcat, something seems off to the real X-Men. The truth will spark a globetrotting hunt for Charles Xavier, leading to a showdown with the re-formed - but far from reformed - Brotherhood of Evil Mutants...and revealing the menace of Cerebro! But for the Children of the Atom to survive, must Professor X die? Plus: Gambit's back! But so is the Juggernaut! Meanwhile, Colossus has a ghostly Christmas, Kitty Pryde and Marrow play cat and mouse with the terrorist Flag-Smasher, and the X-Men find themselves trapped in a land of epic fantasy! Collecting UNCANNY X-MEN (1981) #360-365, X-MEN (1991) #80-84 and #1/2, and X-MEN UNLIMITED (1993) #22. ",
+        "modified": "2015-06-12T16:35:48-0400",
+        "isbn": "978-0-7851-9720-1",
+        "upc": "",
+        "diamondCode": "MAR150819",
+        "ean": "9780785 197201 53999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 368,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Missing for months, Professor X seemingly returns - and debuts an newer, even more different team of X-Men! But when this new group kidnaps Shadowcat, something seems off to the real X-Men. The truth will spark a globetrotting hunt for Charles Xavier, leading to a showdown with the re-formed - but far from reformed - Brotherhood of Evil Mutants...and revealing the menace of Cerebro! But for the Children of the Atom to survive, must Professor X die? Plus: Gambit's back! But so is the Juggernaut! Meanwhile, Colossus has a ghostly Christmas, Kitty Pryde and Marrow play cat and mouse with the terrorist Flag-Smasher, and the X-Men find themselves trapped in a land of epic fantasy! Collecting UNCANNY X-MEN (1981) #360-365, X-MEN (1991) #80-84 and #1/2, and X-MEN UNLIMITED (1993) #22. "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52963",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/52963/x-men_the_hunt_for_professor_x_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19812",
+          "name": "X-Men: The Hunt for Professor X (2015)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-06-17T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-06-02T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 39.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/557b40eee4bb7",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/557b40eee4bb7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 11,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52963/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5933",
+              "name": "Patrick Gleason",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+              "name": "Adam Kubert",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/532",
+              "name": "Brandon Peterson",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3998",
+              "name": "Steve Seagle",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/206",
+              "name": "Mike Wieringo",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/682",
+              "name": "Todd Dezago",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2428",
+              "name": "Joe Kelly",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/190",
+              "name": "Brian K. Vaughan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+              "name": "Leinil Francis Yu",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+              "name": "Carlos Pacheco",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 11
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52963/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52963/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117503",
+              "name": "cover from X-Men: The Hunt for Professor X (2015)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117504",
+              "name": "story from X-Men: The Hunt for Professor X (2015)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52963/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 54962,
+        "digitalId": 0,
+        "title": "X-Men: Years of Future Past (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "A classic X-Men saga revisited for the modern day! In the dystopian nations of Battleworld, the mutants of New York City fight to survive the Sentinels’ oppressive rule. Imprisoned and persecuted, the X-Men are a desperate family. At their center is Kate Pryde, mother of the last mutant to be born before the purges of the Mutant Control Act. With revolution on the wind, the X-Men must break free, rescue their teammates from a terrible fate and seek out the haven where a dire weapon waits! While the mutants’ last defender clashes with Sentinels, the X-Men reel from a secret Kate has kept for years. And as they lead a prison break from the final mutant interment camp, a traitor stands revealed. The mutants’ hour of judgment is at hand! Collecting YEARS OF FUTURE PAST #1-5.",
+        "modified": "2015-11-23T15:03:33-0500",
+        "isbn": "978-0-7851-9894-9",
+        "upc": "",
+        "diamondCode": "SEP150865",
+        "ean": "9780785 198949 51699",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 128,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "A classic X-Men saga revisited for the modern day! In the dystopian nations of Battleworld, the mutants of New York City fight to survive the Sentinels’ oppressive rule. Imprisoned and persecuted, the X-Men are a desperate family. At their center is Kate Pryde, mother of the last mutant to be born before the purges of the Mutant Control Act. With revolution on the wind, the X-Men must break free, rescue their teammates from a terrible fate and seek out the haven where a dire weapon waits! While the mutants’ last defender clashes with Sentinels, the X-Men reel from a secret Kate has kept for years. And as they lead a prison break from the final mutant interment camp, a traitor stands revealed. The mutants’ hour of judgment is at hand! Collecting YEARS OF FUTURE PAST #1-5."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54962",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/54962/x-men_years_of_future_past_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-Years-of-Future-Past-0/digital-comic/40105?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20335",
+          "name": "X-Men: Years of Future Past (2015)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-11-25T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-11-10T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 16.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/56534e795a298",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/56534e795a298",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/54962/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12208",
+              "name": "Arthur Adams",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+              "name": "Marguerite Bennett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/805",
+              "name": "Mike Norton",
+              "role": "artist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/54962/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/54962/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121119",
+              "name": "cover from X-Men: Years of Future Past (2015)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121120",
+              "name": "story from X-Men: Years of Future Past (2015)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/54962/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52967,
+        "digitalId": 40010,
+        "title": "X-Tinction Agenda (2015) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "Everything comes to a head in this Secret Wars sequel to the classic X-Tinction Agenda! With the emergence of a repowered Cameron Hodge all the X-Men must band together to take down their resurgent foe. But even with their combined might, not everyone may be walking away from this fight.",
+        "modified": "2015-09-15T12:20:58-0400",
+        "isbn": "",
+        "upc": "75960608243800411",
+        "diamondCode": "JUL150748",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Everything comes to a head in this Secret Wars sequel to the classic X-Tinction Agenda! With the emergence of a repowered Cameron Hodge all the X-Men must band together to take down their resurgent foe. But even with their combined might, not everyone may be walking away from this fight."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52967",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52967/x-tinction_agenda_2015_4?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Tinction-Agenda-4/digital-comic/40010?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=40010&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/40010?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19813",
+          "name": "X-Tinction Agenda (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-09-23T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-09-09T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-03-28T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2015-10-22T10:10:16-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/55f844c26b850",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/55f844c26b850",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/559d79ffb907a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52967/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12500",
+              "name": "Carmine DiGiandomenico",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5022",
+              "name": "David Nakayama",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52967/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52967/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117511",
+              "name": "cover from X-Tinction Agenda (2015) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117512",
+              "name": "story from X-Tinction Agenda (2015) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52967/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+              "name": "Secret Wars (2015)"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 52966,
+        "digitalId": 39744,
+        "title": "X-Tinction Agenda (2015) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "It's all-out war as the X-Men invade Genosha to retrieve their captured allies! But a shadow from their past may pose a far greater threat than they realize. And be prepared for the rise of...WarLocke!!!",
+        "modified": "2015-07-21T06:12:53-0400",
+        "isbn": "",
+        "upc": "75960608243800311",
+        "diamondCode": "JUN150769",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It's all-out war as the X-Men invade Genosha to retrieve their captured allies! But a shadow from their past may pose a far greater threat than they realize. And be prepared for the rise of...WarLocke!!!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52966",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52966/x-tinction_agenda_2015_3?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Tinction-Agenda-3/digital-comic/39744?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=39744&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/39744?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19813",
+          "name": "X-Tinction Agenda (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-08-19T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-08-05T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-02-22T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2015-08-26T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/55ce5588230a9",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/55ce5588230a9",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/557b007f45fee",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52966/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/827",
+              "name": "Carmine Di Giandomenico",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52966/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52966/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117509",
+              "name": "cover from X-Tinction Agenda (2015) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117510",
+              "name": "story from X-Tinction Agenda (2015) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52966/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+              "name": "Secret Wars (2015)"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 52965,
+        "digitalId": 39138,
+        "title": "X-Tinction Agenda (2015) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "The Secret Wars sequel to the landmark inaugural X-Crossover continues! In desperate need of a cure for their people, Havok, Wolfsbane and the Press Gang have invaded X-City. As old friends become new enemies, the war to save Genosha from extinction is on!",
+        "modified": "2015-06-30T12:14:03-0400",
+        "isbn": "",
+        "upc": "75960608243800211",
+        "diamondCode": "MAY150738",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Secret Wars sequel to the landmark inaugural X-Crossover continues! In desperate need of a cure for their people, Havok, Wolfsbane and the Press Gang have invaded X-City. As old friends become new enemies, the war to save Genosha from extinction is on!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52965",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52965/x-tinction_agenda_2015_2?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Tinction-Agenda-2/digital-comic/39138?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=39138&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19813",
+          "name": "X-Tinction Agenda (2015 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55219",
+            "name": "X-Tinction Agenda (2015) #2 (ANKA VARIANT)"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-01T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-06-17T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2015-12-28T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2015-06-26T10:21:13-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/5592bfb10c1a0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/5592bfb10c1a0",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/555618d68cd3c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52965/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12500",
+              "name": "Carmine DiGiandomenico",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5022",
+              "name": "David Nakayama",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52965/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52965/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117507",
+              "name": "cover from X-Tinction Agenda (2015) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117508",
+              "name": "story from X-Tinction Agenda (2015) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52965/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+              "name": "Secret Wars (2015)"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 52964,
+        "digitalId": 38825,
+        "title": "X-Tinction Agenda (2015) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Ten years since the fall of Cameron Hodge and his fascist regime. Ten years that Havok and Wolfsbane have labored to rebuild Genosha. But their work may be for naught, as a plague has spread across their nation, infecting mutants and threatening their race with extinction.   With the country quarantined and seemingly abandoned by the rest of the world, including the X-Men, old friends may become new enemies as Genosha's rulers fight to save their people! Experience an alternate future fueled by the events of the landmark first X-Crossover of 1990, X-Tinction Agenda! ",
+        "modified": "2015-06-01T10:39:34-0400",
+        "isbn": "",
+        "upc": "75960608243800111",
+        "diamondCode": "APR150819",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Ten years since the fall of Cameron Hodge and his fascist regime. Ten years that Havok and Wolfsbane have labored to rebuild Genosha. But their work may be for naught, as a plague has spread across their nation, infecting mutants and threatening their race with extinction.   With the country quarantined and seemingly abandoned by the rest of the world, including the X-Men, old friends may become new enemies as Genosha's rulers fight to save their people! Experience an alternate future fueled by the events of the landmark first X-Crossover of 1990, X-Tinction Agenda! "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52964",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52964/x-tinction_agenda_2015_1?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Tinction-Agenda-1/digital-comic/38825?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=38825&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19813",
+          "name": "X-Tinction Agenda (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-06-03T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-05-20T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2015-12-07T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2015-05-29T11:21:09-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/54f5f7378c16b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/5548ed3b267e8",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/b0/5548e9c4e99ce",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/54f5f7378c16b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52964/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12500",
+              "name": "Carmine DiGiandomenico",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5022",
+              "name": "David Nakayama",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52964/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52964/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117505",
+              "name": "cover from X-Tinction Agenda (2015) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117506",
+              "name": "story from X-Tinction Agenda (2015) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52964/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+              "name": "Secret Wars (2015)"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 55219,
+        "digitalId": 0,
+        "title": "X-Tinction Agenda (2015) #2 (ANKA VARIANT)",
+        "issueNumber": 2,
+        "variantDescription": "ANKA VARIANT",
+        "description": "- The Secret Wars sequel to the landmark inaugural X-Crossover continues!  \n- In desperate need of a cure for their people, Havok, Wolfsbane and the Press Gang have invaded X-City.\n- As old friends become new enemies, the war to save Genosha from extinction is on!\n",
+        "modified": "2015-06-30T12:24:58-0400",
+        "isbn": "",
+        "upc": "75960608243800221",
+        "diamondCode": "MAY150739",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "- The Secret Wars sequel to the landmark inaugural X-Crossover continues!  \n- In desperate need of a cure for their people, Havok, Wolfsbane and the Press Gang have invaded X-City.\n- As old friends become new enemies, the war to save Genosha from extinction is on!\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55219",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/55219/x-tinction_agenda_2015_2_anka_variant/anka_variant?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19813",
+          "name": "X-Tinction Agenda (2015 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/52965",
+            "name": "X-Tinction Agenda (2015) #2"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-01T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-06-17T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/5592c1539699e",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/5592c1539699e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55219/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11575",
+              "name": "Kris Anka",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12500",
+              "name": "Carmine DiGiandomenico",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+              "name": "Marc Guggenheim",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55219/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55219/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121530",
+              "name": "cover from X-Tinction Agenda (2015) #2 (TBD ARTIST VARIANT)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121531",
+              "name": "story from X-Tinction Agenda (2015) #2 (TBD ARTIST VARIANT)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55219/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52971,
+        "digitalId": 39005,
+        "title": "Years of Future Past (2015) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "- Freed from their military prison, the X-Men race through the ruins of the city to rescue their teammates from a terrible fate! - Horrified by what mutants must do to survive, Kate Pryde and her family must struggle to find a way to save their people--and seek out the haven where a dire weapon waits.",
+        "modified": "2015-06-30T14:27:20-0400",
+        "isbn": "",
+        "upc": "75960608244500211",
+        "diamondCode": "APR150813",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "- Freed from their military prison, the X-Men race through the ruins of the city to rescue their teammates from a terrible fate! - Horrified by what mutants must do to survive, Kate Pryde and her family must struggle to find a way to save their people--and seek out the haven where a dire weapon waits."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52971",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52971/years_of_future_past_2015_2?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Years-of-Future-Past-2/digital-comic/39005?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=39005&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19814",
+          "name": "Years of Future Past (2015 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55027",
+            "name": "Years of Future Past (2015) #2 (Norton Variant)"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-01T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-06-08T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2015-12-28T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2015-06-26T10:23:03-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/5582c1eaa2c3a",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/55913cb27c41d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/5582c1eaa2c3a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52971/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+              "name": "Art Adams",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+              "name": "Marguerite Bennett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/805",
+              "name": "Mike Norton",
+              "role": "artist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52971/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52971/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117519",
+              "name": "cover from Years of Future Past (2015) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117520",
+              "name": "story from Years of Future Past (2015) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52971/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 55027,
+        "digitalId": 0,
+        "title": "Years of Future Past (2015) #2 (Norton Variant)",
+        "issueNumber": 2,
+        "variantDescription": "Norton Variant",
+        "description": "- Freed from their military prison, the X-Men race through the ruins of the city to rescue their teammates from a terrible fate! - Horrified by what mutants must do to survive, Kate Pryde and her family must struggle to find a way to save their people--and seek out the haven where a dire weapon waits.",
+        "modified": "2015-06-30T14:34:01-0400",
+        "isbn": "",
+        "upc": "75960608244500221",
+        "diamondCode": "APR150814",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "- Freed from their military prison, the X-Men race through the ruins of the city to rescue their teammates from a terrible fate! - Horrified by what mutants must do to survive, Kate Pryde and her family must struggle to find a way to save their people--and seek out the haven where a dire weapon waits."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55027",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/55027/years_of_future_past_2015_2_norton_variant/norton_variant?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19814",
+          "name": "Years of Future Past (2015 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/52971",
+            "name": "Years of Future Past (2015) #2"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-01T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-06-08T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/5592e0001d693",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/5592e0001d693",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55027/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+              "name": "Marguerite Bennett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/805",
+              "name": "Mike Norton",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55027/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55027/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121217",
+              "name": "cover from Years of Future Past (2015) #2 (TBD ARTIST VARIANT)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121218",
+              "name": "story from Years of Future Past (2015) #2 (TBD ARTIST VARIANT)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55027/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52974,
+        "digitalId": 40011,
+        "title": "Years of Future Past (2015) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "The hour of judgment crashes down with the ruins of New York City as the traitor is revealed. The last hope of mutantkind must survive the humans, the Sentinels--and the rage of the X-Men.",
+        "modified": "2015-09-15T12:26:52-0400",
+        "isbn": "",
+        "upc": "75960608244500511",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The hour of judgment crashes down with the ruins of New York City as the traitor is revealed. The last hope of mutantkind must survive the humans, the Sentinels--and the rage of the X-Men."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52974",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52974/years_of_future_past_2015_5?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Years-of-Future-Past-5/digital-comic/40011?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=40011&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/40011?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19814",
+          "name": "Years of Future Past (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-09-23T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-08-19T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-03-28T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2015-09-23T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/55f84603b1d30",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/55f84603b1d30",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/559d7b2d947e8",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52974/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+              "name": "Art Adams",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+              "name": "Marguerite Bennett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/805",
+              "name": "Mike Norton",
+              "role": "artist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52974/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52974/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117525",
+              "name": "cover from Years of Future Past (2015) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117526",
+              "name": "story from Years of Future Past (2015) #5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52974/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52973,
+        "digitalId": 39693,
+        "title": "Years of Future Past (2015) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "Reeling from the secrets that Kate Pryde has kept, the X-Men lead a prison break from the last mutant internment camp. The X-Men clash with friends and enemies alike...and their true purpose is revealed at last!\n",
+        "modified": "2015-08-07T17:13:31-0400",
+        "isbn": "",
+        "upc": "75960608244500411",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Reeling from the secrets that Kate Pryde has kept, the X-Men lead a prison break from the last mutant internment camp. The X-Men clash with friends and enemies alike...and their true purpose is revealed at last!\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52973",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52973/years_of_future_past_2015_4?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Years-of-Future-Past-4/digital-comic/39693?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=39693&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/39693?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19814",
+          "name": "Years of Future Past (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-08-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-07-20T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-02-15T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2015-08-19T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/55c51ed1e0d9e",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/55c51ed1e0d9e",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/557b079e7f742",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52973/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12208",
+              "name": "Arthur Adams",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+              "name": "Marguerite Bennett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12456",
+              "name": "Katie Kubert",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/805",
+              "name": "Mike Norton",
+              "role": "penciller"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52973/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52973/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117523",
+              "name": "cover from Years of Future Past (2015) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117524",
+              "name": "story from Years of Future Past (2015) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52973/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 55220,
+        "digitalId": 0,
+        "title": "Years of Future Past (2015) #3 (Norton Variant)",
+        "issueNumber": 3,
+        "variantDescription": "Norton Variant",
+        "description": "- Gouged up from its sanctuary, the mutants' last defender clashes with Sentinels above the ruins of New York City!\n- Kate Pryde and her family take refuge in a Coney Island madhouse...and find dark revelations at last!\n",
+        "modified": "2015-07-13T13:32:39-0400",
+        "isbn": "",
+        "upc": "75960608244500321",
+        "diamondCode": "MAY150735",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "- Gouged up from its sanctuary, the mutants' last defender clashes with Sentinels above the ruins of New York City!\n- Kate Pryde and her family take refuge in a Coney Island madhouse...and find dark revelations at last!\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55220",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/55220/years_of_future_past_2015_3_norton_variant/norton_variant?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19814",
+          "name": "Years of Future Past (2015 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/52972",
+            "name": "Years of Future Past (2015) #3"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-15T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-06-22T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/55a3f4225ff94",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/55a3f4225ff94",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55220/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+              "name": "Marguerite Bennett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/805",
+              "name": "Mike Norton",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55220/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55220/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121532",
+              "name": "cover from Years of Future Past (2015) #3 (NORTON VARIANT)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121533",
+              "name": "story from Years of Future Past (2015) #3 (NORTON VARIANT)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55220/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52972,
+        "digitalId": 39357,
+        "title": "Years of Future Past (2015) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "Gouged up from its sanctuary, the mutants' last defender clashes with Sentinels above the ruins of New York City! Kate Pryde and her family take refuge in a Coney Island madhouse...and find dark revelations at last!\n\n",
+        "modified": "2015-07-15T10:33:52-0400",
+        "isbn": "",
+        "upc": "75960608244500311",
+        "diamondCode": "MAY150734",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Gouged up from its sanctuary, the mutants' last defender clashes with Sentinels above the ruins of New York City! Kate Pryde and her family take refuge in a Coney Island madhouse...and find dark revelations at last!\n\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52972",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52972/years_of_future_past_2015_3?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Years-of-Future-Past-3/digital-comic/39357?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=39357&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/39357?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19814",
+          "name": "Years of Future Past (2015 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55220",
+            "name": "Years of Future Past (2015) #3 (Norton Variant)"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-07-15T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-06-30T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-01-18T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2015-07-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/55a3f26a8da6b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/55a3f26a8da6b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/55561b3ac2dd1",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52972/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+              "name": "Art Adams",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+              "name": "Marguerite Bennett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/805",
+              "name": "Mike Norton",
+              "role": "artist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52972/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52972/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117521",
+              "name": "cover from Years of Future Past (2015) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117522",
+              "name": "story from Years of Future Past (2015) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52972/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52968,
+        "digitalId": 38827,
+        "title": "Years of Future Past (2015) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "In the dystopian nations of BATTLEWORLD, the mutants of New York City must fight to survive the rule of the Sentinels! At their center is Kate Pryde, a heroine tried and tested by war, and mother of the last mutant ever to be born before the purges of the Mutant Control Act! With revolution on the wind, the X-Men are not a broken team with nothing left to lose, but a desperate family with more at risk than ever before! ",
+        "modified": "2015-06-01T10:43:10-0400",
+        "isbn": "",
+        "upc": "75960608244500111",
+        "diamondCode": "APR150809",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "In the dystopian nations of BATTLEWORLD, the mutants of New York City must fight to survive the rule of the Sentinels! At their center is Kate Pryde, a heroine tried and tested by war, and mother of the last mutant ever to be born before the purges of the Mutant Control Act! With revolution on the wind, the X-Men are not a broken team with nothing left to lose, but a desperate family with more at risk than ever before! "
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52968",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52968/years_of_future_past_2015_1?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Years-of-Future-Past-1/digital-comic/38827?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=38827&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19814",
+          "name": "Years of Future Past (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-06-03T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-05-20T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2015-12-07T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2015-05-29T11:22:40-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/55006c1f99767",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/554a80ac3bc1f",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/55006ccd77aee",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/30/55006cad1c3ab",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/55006c765585b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/55006c1f99767",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52968/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+              "name": "Art Adams",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+              "name": "Marguerite Bennett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/805",
+              "name": "Mike Norton",
+              "role": "artist"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52968/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52968/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117513",
+              "name": "cover from Years of Future Past (2015) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117514",
+              "name": "story from Years of Future Past (2015) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52968/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

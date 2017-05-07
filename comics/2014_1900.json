@@ -1,0 +1,3514 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "62bbcb1c814dbda81b494597349f4d06d5fd6c99",
+  "data": {
+    "offset": 1900,
+    "limit": 100,
+    "total": 1923,
+    "count": 23,
+    "results": [
+      {
+        "id": 49283,
+        "digitalId": 33253,
+        "title": "X-Men Legacy (2012) #24",
+        "issueNumber": 24,
+        "variantDescription": "",
+        "description": "\r\n\r\n\r\n\r\n<ul><li>Collapsing under the weight of his dead father&#39; disappointment, Legion&#39;s god-like powers spiral out of control, leaving the fate of mutantkind in the balance. To what ends will Legion go to save the world from himself?</li><li>This is it. This is the end. Anything can happen&hellip;</li></ul>",
+        "modified": "2014-02-07T15:25:18-0500",
+        "isbn": "",
+        "upc": "75960607919302411",
+        "diamondCode": "DEC130753",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n<ul><li>Collapsing under the weight of his dead father&#39; disappointment, Legion&#39;s god-like powers spiral out of control, leaving the fate of mutantkind in the balance. To what ends will Legion go to save the world from himself?</li><li>This is it. This is the end. Anything can happen&hellip;</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49283",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49283/x-men_legacy_2012_24?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-Legacy-24/digital-comic/33253?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=33253&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/33253?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16791",
+          "name": "X-Men Legacy (2012 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-02-12T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-01-29T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2014-08-11T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2014-02-12T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/58c9ab38575be",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/58c9ab38575be",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49283/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5636",
+              "name": "Tan Eng Huat",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+              "name": "Daniel Ketchum",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5635",
+              "name": "Simon Spurrier",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8836",
+              "name": "Jose Villarrubia",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/469",
+              "name": "Craig Yeung",
+              "role": "inker"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49283/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011291",
+              "name": "Blindfold"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009399",
+              "name": "Legion"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49283/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/110650",
+              "name": "X-MEN LEGACY (2012) #24",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/110651",
+              "name": "story from X-Men Legacy (2012) #24",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49283/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 49287,
+        "digitalId": 0,
+        "title": "X-MEN LEGACY VOL. 4: FOR WE ARE MANY TPB  (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "It's the climactic story to which this series has been building, guest-starring the allies Legion has made along the way - and not all of them will emerge unscathed! One of Legion's most troublesome personalities threatens to annihilate an alien species, and S.W.O.R.D. director Abigail Brand is on the case - but will she be able to work with David to solve this extraterrestrial conundrum? Legion prepares for a final showdown with the monster in his mind that wears his deceased father's face, but the demonic Professor X has escaped into the real world. What price will Legion pay to stop him from razing the Earth? And prophesied to stop Legion, will Young X-Man Blindfold take matters into her own hands and extinguish her first love? One thing's for sure: As this groundbreaking series concludes, anything is possible! Collecting X-MEN LEGACY (2013) #19-24.",
+        "modified": "2014-04-18T17:14:51-0400",
+        "isbn": "978-0-7851-5432-7",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 154327 51599",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 136,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It's the climactic story to which this series has been building, guest-starring the allies Legion has made along the way - and not all of them will emerge unscathed! One of Legion's most troublesome personalities threatens to annihilate an alien species, and S.W.O.R.D. director Abigail Brand is on the case - but will she be able to work with David to solve this extraterrestrial conundrum? Legion prepares for a final showdown with the monster in his mind that wears his deceased father's face, but the demonic Professor X has escaped into the real world. What price will Legion pay to stop him from razing the Earth? And prophesied to stop Legion, will Young X-Man Blindfold take matters into her own hands and extinguish her first love? One thing's for sure: As this groundbreaking series concludes, anything is possible! Collecting X-MEN LEGACY (2013) #19-24."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49287",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/49287/x-men_legacy_vol_4_for_we_are_many_tpb_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-Legacy-0/digital-comic/34202?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18535",
+          "name": "X-MEN LEGACY VOL. 4: FOR WE ARE MANY TPB  (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-04-23T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-04-08T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 15.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/535194a907eb9",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/535194a907eb9",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49287/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11309",
+              "name": "Mike Del Mundo",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5636",
+              "name": "Tan Eng Huat",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1103",
+              "name": "Khoi Pham",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5635",
+              "name": "Simon Spurrier",
+              "role": "writer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49287/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49287/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/110658",
+              "name": "cover from X-Men Legacy (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/110659",
+              "name": "story from X-Men Legacy (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49287/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 46798,
+        "digitalId": 0,
+        "title": "X-MEN VOL. 2: MUERTAS TPB (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The X-Men have taken down super villains, aliens and their own future selves - but never all at the same time! Longtime X-foe Lady Deathstrike returns - while Karima struggles to remember herself, Rachel comes to terms with her relationship with Sublime, and a new member joins the team! Lady Deathstrike has assembled a new Sisterhood, her own illuminati to take down the X-Men and enslave the world. And Psylocke is first in the Sisterhood's crosshairs! Recruiting the likes of Typhoid Mary and Enchantress, Deathstrike's cabal goes on a global hunt for the most powerful ally of all - an enemy who holds the X-Men responsible for her near-destruction! But when this foe awakens, will either team be able to handle her? Collecting X-MEN (2013) #7-12.",
+        "modified": "2014-04-25T17:07:44-0400",
+        "isbn": "978-0-7851-6801-0",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 168010 51799",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 136,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The X-Men have taken down super villains, aliens and their own future selves - but never all at the same time! Longtime X-foe Lady Deathstrike returns - while Karima struggles to remember herself, Rachel comes to terms with her relationship with Sublime, and a new member joins the team! Lady Deathstrike has assembled a new Sisterhood, her own illuminati to take down the X-Men and enslave the world. And Psylocke is first in the Sisterhood's crosshairs! Recruiting the likes of Typhoid Mary and Enchantress, Deathstrike's cabal goes on a global hunt for the most powerful ally of all - an enemy who holds the X-Men responsible for her near-destruction! But when this foe awakens, will either team be able to handle her? Collecting X-MEN (2013) #7-12."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46798",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/46798/x-men_vol_2_muertas_tpb_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-by-Brian-Wood-0/digital-comic/34203?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/17637",
+          "name": "X-MEN VOL. 2: MUERTAS TPB (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-04-30T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-04-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 17.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/535acad5196c4",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/535acad5196c4",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46798/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11575",
+              "name": "Kris Anka",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11544",
+              "name": "Brian Wood",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46798/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46798/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/105218",
+              "name": "cover from X-Men by Brian Wood (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/105219",
+              "name": "story from X-Men by Brian Wood (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46798/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48732,
+        "digitalId": 0,
+        "title": "X-MEN VOL. 3: BLOODLINE TPB (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Jubilee is haunted by her adopted baby Shogo's past - or is it his future?! When the Jean Grey School comes under attack, leaving a young X-Man dead on the school's front lawn, Jubilee's worst nightmare has come to pass - and the future is being rewritten. The JGS has always been a school, but is it time to become an army? Or will their differences prove their greatest asset? As a multi-generational war unfolds - pitting mothers against daughters and fathers against sons - Jubilee is caught in the middle. The future has come calling, and he wants his son Shogo back! But will Jubilee and the X-Men let their bouncing baby boy go without a fight? Hell no! Collecting X-MEN (2013) #13-17.",
+        "modified": "2014-10-03T14:18:06-0400",
+        "isbn": "978-0-7851-8972-5",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 189725 51799",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 112,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Jubilee is haunted by her adopted baby Shogo's past - or is it his future?! When the Jean Grey School comes under attack, leaving a young X-Man dead on the school's front lawn, Jubilee's worst nightmare has come to pass - and the future is being rewritten. The JGS has always been a school, but is it time to become an army? Or will their differences prove their greatest asset? As a multi-generational war unfolds - pitting mothers against daughters and fathers against sons - Jubilee is caught in the middle. The future has come calling, and he wants his son Shogo back! But will Jubilee and the X-Men let their bouncing baby boy go without a fight? Hell no! Collecting X-MEN (2013) #13-17."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48732",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/48732/x-men_vol_3_bloodline_tpb_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-0/digital-comic/35208?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18395",
+          "name": "X-MEN VOL. 3: BLOODLINE TPB (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-10-08T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-08-18T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 17.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/542ee74a84875",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/542ee74a84875",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48732/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11798",
+              "name": "Matteo Buffagni",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/757",
+              "name": "Clay Mann",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11544",
+              "name": "Brian Wood",
+              "role": "writer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48732/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48732/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/109553",
+              "name": "cover from X-Men (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/109554",
+              "name": "story from X-Men (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48732/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48302,
+        "digitalId": 0,
+        "title": "X-Men Vs. Hulk (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The Illuminati shot the Hulk into space. Now he's back, he's mad, and he's got some pointed questions for Illuminati member Professor X. But Xavier's got some very powerful friends looking out for him! Thrill to all-out action as the Hulk battles through every X-Man there is - and then some! Featuring the meanest Hulk/Wolverine battle yet, as well as a rematch against the unstoppable Juggernaut! Plus: The X-Men must track down the Hulk before mysterious earthquakes decimate San Francisco! Dazzler rocks out, and the Hulk's got a backstage pass! To teach Colossus a lesson, Wolverine orchestrates a clash with the savage Hulk! Iceman, Angel and Hulk battle Sentinels in space! And the Hulk and classic X-Men battle aliens in Europe! Collecting WORLD WAR HULK: X-MEN #1-3, HULK TEAM-UP #1, X-MEN VS. HULK #1, INCREDIBLE HULK ANNUAL #7 and material from RAMPAGING HULK (1977) #2.",
+        "modified": "2014-05-05T15:05:31-0400",
+        "isbn": "978-0-7851-8902-2",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 189022 52499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 208,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Illuminati shot the Hulk into space. Now he's back, he's mad, and he's got some pointed questions for Illuminati member Professor X. But Xavier's got some very powerful friends looking out for him! Thrill to all-out action as the Hulk battles through every X-Man there is - and then some! Featuring the meanest Hulk/Wolverine battle yet, as well as a rematch against the unstoppable Juggernaut! Plus: The X-Men must track down the Hulk before mysterious earthquakes decimate San Francisco! Dazzler rocks out, and the Hulk's got a backstage pass! To teach Colossus a lesson, Wolverine orchestrates a clash with the savage Hulk! Iceman, Angel and Hulk battle Sentinels in space! And the Hulk and classic X-Men battle aliens in Europe! Collecting WORLD WAR HULK: X-MEN #1-3, HULK TEAM-UP #1, X-MEN VS. HULK #1, INCREDIBLE HULK ANNUAL #7 and material from RAMPAGING HULK (1977) #2."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48302",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/48302/x-men_vs_hulk_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18306",
+          "name": "X-Men Vs. Hulk (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-05-07T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-04-22T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 24.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/5367de0711342",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/5367de0711342",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 11,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48302/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8849",
+              "name": "Joyce Chin",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10070",
+              "name": "Sanford Green",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5125",
+              "name": "Walter Simonson",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/474",
+              "name": "Andrea Di Vito",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+              "name": "Christos Gage",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/223",
+              "name": "Doug Moench",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/958",
+              "name": "Roger Stern",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/718",
+              "name": "Marc Sumerak",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+              "name": "Ed McGuinness",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 11
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48302/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48302/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108791",
+              "name": "cover from X-Men Vs. Hulk (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108792",
+              "name": "story from X-Men Vs. Hulk (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48302/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 47659,
+        "digitalId": 0,
+        "title": "X-Men: Age of Apocalypse (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "It's a return trip to the dark, dystopian Age of Apocalypse! Untold tales of Apocalypse's rise to power and the beginning of the X-Men's underground resistance! Blink's extradimensional exploits! The desperate struggle of Earth's remaining non-mutant heroes! And in the wake of Apocalypse's defeat, a deeply scarred Earth tries to rebuild. But some of the AoA's most powerful mutants have escaped into the Marvel Universe! All the orphaned AoA adventures are collected in one oversized volume! Collecting X-MEN CHRONICLES #1-2, TALES FROM THE AGE OF APOCALYPSE #1-2, X-MAN #-1 and #53-54, BLINK #1-4, X-UNIVERSE #1-2, EXILES (2001) #60-61, X-MEN: AGE OF APOCALYPSE #1-6 and ONE-SHOT, WHAT IF? (1989) #77 and #81, and WHAT IF? X-MEN: AGE OF APOCALYPSE - plus material from HULK: BROKEN WORLDS #2, X-MEN PRIME, X-MAN ANNUAL '96, X-MEN: ENDANGERED SPECIES, EXILES: DAYS OF THEN & NOW and OFFICIAL HANDBOOK OF THE MARVEL UNIVERSE: AGE OF APOCALYPSE.",
+        "modified": "2014-04-01T17:39:36-0400",
+        "isbn": "978-0-7851-8514-7",
+        "upc": "",
+        "diamondCode": "NOV130704",
+        "ean": "9780785 185147 59999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 992,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It's a return trip to the dark, dystopian Age of Apocalypse! Untold tales of Apocalypse's rise to power and the beginning of the X-Men's underground resistance! Blink's extradimensional exploits! The desperate struggle of Earth's remaining non-mutant heroes! And in the wake of Apocalypse's defeat, a deeply scarred Earth tries to rebuild. But some of the AoA's most powerful mutants have escaped into the Marvel Universe! All the orphaned AoA adventures are collected in one oversized volume! Collecting X-MEN CHRONICLES #1-2, TALES FROM THE AGE OF APOCALYPSE #1-2, X-MAN #-1 and #53-54, BLINK #1-4, X-UNIVERSE #1-2, EXILES (2001) #60-61, X-MEN: AGE OF APOCALYPSE #1-6 and ONE-SHOT, WHAT IF? (1989) #77 and #81, and WHAT IF? X-MEN: AGE OF APOCALYPSE - plus material from HULK: BROKEN WORLDS #2, X-MEN PRIME, X-MAN ANNUAL '96, X-MEN: ENDANGERED SPECIES, EXILES: DAYS OF THEN & NOW and OFFICIAL HANDBOOK OF THE MARVEL UNIVERSE: AGE OF APOCALYPSE."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47659",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/47659/x-men_age_of_apocalypse_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/17985",
+          "name": "X-Men: Age of Apocalypse (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-04-02T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-11T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 99.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/03/533b2c9379221",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/03/533b2c9379221",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 25,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47659/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5268",
+              "name": "Jim Calafiore",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+              "name": "Ian Churchill",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+              "name": "Roger Cruz",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6112",
+              "name": "Hector Gomez",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3047",
+              "name": "Kevin Hopgood",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5845",
+              "name": "Trevor McCarthy",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6284",
+              "name": "Nick Napolitano",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+              "name": "Carlos Pacheco",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/352",
+              "name": "Tony Bedard",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1162",
+              "name": "Terry Kavanagh",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1286",
+              "name": "Howard Mackie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1221",
+              "name": "John Francis Moore",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3740",
+              "name": "Mariano Nicieza",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+              "name": "Adam Kubert",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47659/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47659/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/107598",
+              "name": "cover from X-Men: Age of Apocalypse (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/107599",
+              "name": "story from X-Men: Age of Apocalypse (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47659/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48342,
+        "digitalId": 0,
+        "title": "X-Men: Battle of the Atom (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The X-Men's past, present and future collide in this 50th-anniversary event! Something horrible happens to the past versions of the X-Men that shakes spacetime to its core - and more X-Men arrive from the future with a message: The original five must return home! But when young Cyclops and Marvel Girl run away to stay in the present, the hunt is on! And where does the modern-day Cyclops' revolutionary faction fit in? Things get even more complicated when mysterious foes attack the Jean Grey School, and the healing-impaired Wolverine takes a mortal hit! With spacetime up for grabs, the surprise ending will change everything as the X-Men's footing in the world is drastically altered! Collecting X-MEN: BATTLE OF THE ATOM #1-2, ALL-NEW X-MEN #16-17, X-MEN (2013) #5-6, UNCANNY X-MEN (2013) #12-13 and WOLVERINE & THE X-MEN #36-37.",
+        "modified": "2014-01-06T12:56:03-0500",
+        "isbn": "978-0-7851-8906-0",
+        "upc": "",
+        "diamondCode": "OCT130747",
+        "ean": "9780785 189060 54999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 248,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The X-Men's past, present and future collide in this 50th-anniversary event! Something horrible happens to the past versions of the X-Men that shakes spacetime to its core - and more X-Men arrive from the future with a message: The original five must return home! But when young Cyclops and Marvel Girl run away to stay in the present, the hunt is on! And where does the modern-day Cyclops' revolutionary faction fit in? Things get even more complicated when mysterious foes attack the Jean Grey School, and the healing-impaired Wolverine takes a mortal hit! With spacetime up for grabs, the surprise ending will change everything as the X-Men's footing in the world is drastically altered! Collecting X-MEN: BATTLE OF THE ATOM #1-2, ALL-NEW X-MEN #16-17, X-MEN (2013) #5-6, UNCANNY X-MEN (2013) #12-13 and WOLVERINE & THE X-MEN #36-37."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48342",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/48342/x-men_battle_of_the_atom_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-Battle-of-the-Atom-0/digital-comic/32658?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18313",
+          "name": "X-Men: Battle of the Atom (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-01-08T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2013-12-23T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 49.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/52caec7a0bb96",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/52caec7a0bb96",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48342/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "name": "Jason Aaron",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11544",
+              "name": "Brian Wood",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12208",
+              "name": "Arthur Adams",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+              "name": "Giuseppe Camuncoli",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/185",
+              "name": "Frank Cho",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+              "name": "Stuart Immonen",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8349",
+              "name": "David Lopez Lopez",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/182",
+              "name": "Esad Ribic",
+              "role": "artist"
+            }
+          ],
+          "returned": 10
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48342/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48342/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108863",
+              "name": "cover from X-Men: Battle of the Atom (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108864",
+              "name": "story from X-Men: Battle of the Atom (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48342/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48343,
+        "digitalId": 0,
+        "title": "X-Men: Battle of the Atom (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The X-Men's past, present and future collide in an uncanny event 50 years in the making! In a desperate bid to save Xavier's dream, the Beast brought the original X-Men forward to the present. Now, with the timeline - and all of existence - endangered by their presence, they must go back. But faced with the horror of what fate would have in store for them, young Cyclops and Marvel Girl are intent on staying and forging their own destiny. And as debate rages and tempers flare, the X-Men of the future arrive with a dire warning, seeking to prevent history's greatest mistake! Celebrate the X-Men's 50th anniversary with a time-twisting epic for the ages! Collecting X-MEN: BATTLE OF THE ATOM #1-2, ALL-NEW X-MEN #16-17, X-MEN (2013) #5-6, UNCANNY X-MEN (2013) #12-13 and WOLVERINE & THE X-MEN #36-37.",
+        "modified": "2014-07-07T14:17:32-0400",
+        "isbn": "978-0-7851-8907-7",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 189077 53499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 248,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The X-Men's past, present and future collide in an uncanny event 50 years in the making! In a desperate bid to save Xavier's dream, the Beast brought the original X-Men forward to the present. Now, with the timeline - and all of existence - endangered by their presence, they must go back. But faced with the horror of what fate would have in store for them, young Cyclops and Marvel Girl are intent on staying and forging their own destiny. And as debate rages and tempers flare, the X-Men of the future arrive with a dire warning, seeking to prevent history's greatest mistake! Celebrate the X-Men's 50th anniversary with a time-twisting epic for the ages! Collecting X-MEN: BATTLE OF THE ATOM #1-2, ALL-NEW X-MEN #16-17, X-MEN (2013) #5-6, UNCANNY X-MEN (2013) #12-13 and WOLVERINE & THE X-MEN #36-37."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48343",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/48343/x-men_battle_of_the_atom_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18314",
+          "name": "X-Men: Battle of the Atom (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-07-09T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-06-24T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 34.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/53bae0189ef90",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/53bae0189ef90",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48343/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "name": "Jason Aaron",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11544",
+              "name": "Brian Wood",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12208",
+              "name": "Arthur Adams",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+              "name": "Giuseppe Camuncoli",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/185",
+              "name": "Frank Cho",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+              "name": "Stuart Immonen",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12392",
+              "name": "David Lopez",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/182",
+              "name": "Esad Ribic",
+              "role": "artist"
+            }
+          ],
+          "returned": 10
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48343/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48343/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108865",
+              "name": "cover from X-Men: Battle of the Atom (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108866",
+              "name": "story from X-Men: Battle of the Atom (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48343/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48733,
+        "digitalId": 0,
+        "title": "X-Men: Days of Future Past (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "In a dark and dangerous post-apocalyptic future, the mutant-hunting killing machines known as the Sentinels rule America with an iron fist. Almost all mutants, super heroes and villains have been exterminated. Only a handful remain to fight against their oppressive robotic overseers -and most of those are powerless, locked in mutant concentration camps. Now, Kate Pryde must travel back in time and warn the present-day X-Men of the coming danger - and hopefully prevent this horrible future from ever taking place! Experience the classic, genre-defining X-Men event like never before in this new adaptation!",
+        "modified": "2014-05-05T16:29:28-0400",
+        "isbn": "978-0-7851-8975-6",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 189756 52499",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 304,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "In a dark and dangerous post-apocalyptic future, the mutant-hunting killing machines known as the Sentinels rule America with an iron fist. Almost all mutants, super heroes and villains have been exterminated. Only a handful remain to fight against their oppressive robotic overseers -and most of those are powerless, locked in mutant concentration camps. Now, Kate Pryde must travel back in time and warn the present-day X-Men of the coming danger - and hopefully prevent this horrible future from ever taking place! Experience the classic, genre-defining X-Men event like never before in this new adaptation!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48733",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/48733/x-men_days_of_future_past_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18396",
+          "name": "X-Men: Days of Future Past (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-05-07T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-04-22T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 24.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [
+
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48733/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1139",
+              "name": "Alexander Irvine",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48733/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48733/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/109555",
+              "name": "cover from X-Men: Days of Future Past (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/109556",
+              "name": "story from X-Men: Days of Future Past (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48733/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 47169,
+        "digitalId": 0,
+        "title": "X-Men: Days of Future Past (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "For years, the X-Men have fought to avert a nightmarish future in which robotic Sentinels herd mutants into camps - or kill them on sight. But no matter what they do, that future seems to loom ever closer. Now, the classic tales featuring this dystopian alternate timeline are collected in one oversized volume! Kate Pryde journeys desperately through time to prevent Senator Kelly's assassination! Franklin Richards flees to the present, pursued by the hound-master Ahab! And Excalibur ventures into the future in a last-ditch attempt to defeat the Sentinels! Plus: prequels starring Wolverine and the Hulk! The future is now! Collecting X-MEN (1963) #141, UNCANNY X-MEN (1963) #142, X-MEN ANNUAL (1970) #14, EXCALIBUR (1988) #52 and #66-67, and WOLVERINE: DAYS OF FUTURE PAST #1-3; and material from FANTASTIC FOUR ANNUAL #23, NEW MUTANTS ANNUAL #6, X-FACTOR ANNUAL #5 and HULK: BROKEN WORLDS #2.",
+        "modified": "2014-02-28T17:17:40-0500",
+        "isbn": "978-0-7851-8442-3",
+        "upc": "",
+        "diamondCode": "OCT130749",
+        "ean": "9780785 184423 53999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 392,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "For years, the X-Men have fought to avert a nightmarish future in which robotic Sentinels herd mutants into camps - or kill them on sight. But no matter what they do, that future seems to loom ever closer. Now, the classic tales featuring this dystopian alternate timeline are collected in one oversized volume! Kate Pryde journeys desperately through time to prevent Senator Kelly's assassination! Franklin Richards flees to the present, pursued by the hound-master Ahab! And Excalibur ventures into the future in a last-ditch attempt to defeat the Sentinels! Plus: prequels starring Wolverine and the Hulk! The future is now! Collecting X-MEN (1963) #141, UNCANNY X-MEN (1963) #142, X-MEN ANNUAL (1970) #14, EXCALIBUR (1988) #52 and #66-67, and WOLVERINE: DAYS OF FUTURE PAST #1-3; and material from FANTASTIC FOUR ANNUAL #23, NEW MUTANTS ANNUAL #6, X-FACTOR ANNUAL #5 and HULK: BROKEN WORLDS #2."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47169",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/47169/x-men_days_of_future_past_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/17758",
+          "name": "X-Men: Days of Future Past (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-05T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-01-14T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 39.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5310f97062fd5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5310f97062fd5",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 14,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47169/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12208",
+              "name": "Arthur Adams",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1279",
+              "name": "Jon Bogdanove",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+              "name": "Alan Davis",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1300",
+              "name": "Terry Shoemaker",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3655",
+              "name": "Will Simpson",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3648",
+              "name": "Chris Wozniak",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+              "name": "Terry Austin",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/159",
+              "name": "Joe Casey",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1221",
+              "name": "John Francis Moore",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/184",
+              "name": "Louise Simonson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5125",
+              "name": "Walter Simonson",
+              "role": "writer"
+            }
+          ],
+          "returned": 14
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47169/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47169/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/105917",
+              "name": "cover from X-Men: Days of Future Past (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/105918",
+              "name": "story from X-Men: Days of Future Past (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47169/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52962,
+        "digitalId": 0,
+        "title": "X-Men: Inferno Prologue (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The X-Men are dead! At least that's what the world thinks - but Marvel's mightiest mutants are secretly alive and well in the Australian Outback! How long will the X-Men's self-imposed exile last when the Brood and the mutant-exploiting nation of Genosha come calling? Meanwhile, the New Mutants battle Freedom Force as they deal with Doug Ramsey's shocking death, and X-Factor befriends Apocalypse's Celestial ship and faces Infectia! But as all three teams fight the Evolutionary War, Limbo's demons begin to pursue a sinister agenda - on Earth! A spark has been lit - and if the X-Men aren't careful, the flames will fan into an all-out inferno! Collecting X-FACTOR (1986) #27-32 and ANNUAL #3, UNCANNY X-MEN (1981) #228-238, NEW MUTANTS (1983) #62-70 and ANNUAL #4, X-MEN ANNUAL (1970) #12, and material from MARVEL AGE ANNUAL #4 and MARVEL FANFARE (1982) #40.",
+        "modified": "2014-12-02T15:59:08-0500",
+        "isbn": "978-0-7851-9273-2",
+        "upc": "",
+        "diamondCode": "JUL140717",
+        "ean": "9780785 192732 59999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 824,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The X-Men are dead! At least that's what the world thinks - but Marvel's mightiest mutants are secretly alive and well in the Australian Outback! How long will the X-Men's self-imposed exile last when the Brood and the mutant-exploiting nation of Genosha come calling? Meanwhile, the New Mutants battle Freedom Force as they deal with Doug Ramsey's shocking death, and X-Factor befriends Apocalypse's Celestial ship and faces Infectia! But as all three teams fight the Evolutionary War, Limbo's demons begin to pursue a sinister agenda - on Earth! A spark has been lit - and if the X-Men aren't careful, the flames will fan into an all-out inferno! Collecting X-FACTOR (1986) #27-32 and ANNUAL #3, UNCANNY X-MEN (1981) #228-238, NEW MUTANTS (1983) #62-70 and ANNUAL #4, X-MEN ANNUAL (1970) #12, and material from MARVEL AGE ANNUAL #4 and MARVEL FANFARE (1982) #40."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52962",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/52962/x-men_inferno_prologue_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19811",
+          "name": "X-Men: Inferno Prologue (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-12-03T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-10-14T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 125
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/547e2462844b8",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/547e2462844b8",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 14,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52962/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12208",
+              "name": "Arthur Adams",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1277",
+              "name": "Bret Blevins",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1298",
+              "name": "June Brigman",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3436",
+              "name": "Bo Hampton",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1252",
+              "name": "Rick Leonardi",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1299",
+              "name": "Steve Lightle",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6760",
+              "name": "Jon Jay Muth",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1300",
+              "name": "Terry Shoemaker",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5125",
+              "name": "Walter Simonson",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/259",
+              "name": "Mark Gruenwald",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/184",
+              "name": "Louise Simonson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5044",
+              "name": "Marc Silvestri",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 14
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52962/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52962/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117501",
+              "name": "cover from X-Men: Inferno Prologue (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117502",
+              "name": "story from X-Men: Inferno Prologue (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52962/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 49005,
+        "digitalId": 33677,
+        "title": "X-Men: No More Humans (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The X-Men awaken to find all the world's humans gone. From normal everyday folks to the Avengers and Fantastic Four, all homo sapiens have disappeared. It's up to the disparate sides of the X-Men to come together, get to the bottom of this mystery and find a way to get the humans back. But do all of the mutants want their human brethren to return? From best-selling author and classic X-MEN scribe MIKE CAREY and superstar artist SALVADOR LARROCA comes the first X-MEN OGN since the classic X-MEN: GOD LOVES, MAN KILLS.",
+        "modified": "2016-10-20T12:19:15-0400",
+        "isbn": "978-0-7851-5402-0",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 154020 52499",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 128,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The X-Men awaken to find all the world's humans gone. From normal everyday folks to the Avengers and Fantastic Four, all homo sapiens have disappeared. It's up to the disparate sides of the X-Men to come together, get to the bottom of this mystery and find a way to get the humans back. But do all of the mutants want their human brethren to return? From best-selling author and classic X-MEN scribe MIKE CAREY and superstar artist SALVADOR LARROCA comes the first X-MEN OGN since the classic X-MEN: GOD LOVES, MAN KILLS."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49005",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/49005/x-men_no_more_humans_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-Original-Graphic-Novel-0/digital-comic/33677?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=33677&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/33677?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18452",
+          "name": "X-Men: No More Humans (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-05-07T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-03-25T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2016-09-05T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2014-05-07T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 24.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 24.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/57c757d75661e",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/57c757d75661e",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5367f5ef0ae4f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49005/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/366",
+              "name": "Mike Carey",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49005/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49005/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/110097",
+              "name": "cover from X-Men: Original Graphic Novel (2020)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/110098",
+              "name": "story from X-Men: Original Graphic Novel (2020)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49005/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 47749,
+        "digitalId": 0,
+        "title": "X-Men: Phalanx Covenant (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The techno-organic nightmare known as the Phalanx has risen! Powerful anti-mutant bigots have created the ultimate weapon from the ashes of the deceased alien Warlock: a cold, vicious and unstoppable foe that absorbs all in its path. But these Phalanx are far more than their creators bargained for - and they plan to summon their parent race to overtake Earth! When the Phalanx take out the X-Men, the remaining members must split into three teams: to save young mutants from the Phalanx's clutches, to prevent their foes from contacting their homeworld and to rescue the X-Men! But even with the aid of the rogue Phalanx unit Douglock, can these ragtag groups succeed? Collecting UNCANNY X-MEN (1963) #306, #311-314 and #316-317; EXCALIBUR (1988) #78-82; X-MEN (1991) #36-37; X-FACTOR (1986) #106; X-FORCE (1991) #38; WOLVERINE (1988) #85; and CABLE (1993) #16.",
+        "modified": "2014-01-29T13:43:22-0500",
+        "isbn": "978-0-7851-8549-9",
+        "upc": "",
+        "diamondCode": "SEP130792",
+        "ean": "9780785 185499 57500",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 552,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The techno-organic nightmare known as the Phalanx has risen! Powerful anti-mutant bigots have created the ultimate weapon from the ashes of the deceased alien Warlock: a cold, vicious and unstoppable foe that absorbs all in its path. But these Phalanx are far more than their creators bargained for - and they plan to summon their parent race to overtake Earth! When the Phalanx take out the X-Men, the remaining members must split into three teams: to save young mutants from the Phalanx's clutches, to prevent their foes from contacting their homeworld and to rescue the X-Men! But even with the aid of the rogue Phalanx unit Douglock, can these ragtag groups succeed? Collecting UNCANNY X-MEN (1963) #306, #311-314 and #316-317; EXCALIBUR (1988) #78-82; X-MEN (1991) #36-37; X-FACTOR (1986) #106; X-FORCE (1991) #38; WOLVERINE (1988) #85; and CABLE (1993) #16."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47749",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/47749/x-men_phalanx_covenant_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18033",
+          "name": "X-Men: Phalanx Covenant (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-02-05T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2013-12-17T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 75
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/52e94a3d648bf",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/52e94a3d648bf",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 17,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47749/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8018",
+              "name": "Amanda Conner",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3671",
+              "name": "Chris Cooper",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/682",
+              "name": "Todd Dezago",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/42",
+              "name": "Larry Hama",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+              "name": "Roger Cruz",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/354",
+              "name": "Tony Daniel",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2302",
+              "name": "Jan Duursema",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/175",
+              "name": "Andy Kubert",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1248",
+              "name": "Ken Lashley",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1222",
+              "name": "Joe Madureira",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3674",
+              "name": "John Royle",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1249",
+              "name": "Steve Skroce",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8991",
+              "name": "Lee Weeks",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+              "name": "Adam Kubert",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 17
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47749/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47749/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/107777",
+              "name": "cover from X-Men: Phalanx Covenant (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/107778",
+              "name": "story from X-Men: Phalanx Covenant (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47749/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 49962,
+        "digitalId": 33702,
+        "title": "X-Men: The Adamantium Collection (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2014-05-01T12:43:39-0400",
+        "isbn": "978-0-7851-5460-0",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 154600 59999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 1,
+        "textObjects": [
+
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49962",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/49962/x-men_the_adamantium_collection_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Giant-Size-X-Men-0/digital-comic/33702?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=33702&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/33702?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18773",
+          "name": "X-Men: The Adamantium Collection (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-05-07T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-03-18T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2014-05-14T09:14:42-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2014-05-07T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 200
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 49.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [
+
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49962/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49962/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49962/stories",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/49962/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48047,
+        "digitalId": 0,
+        "title": "X-Men: The Adventures of Cyclops & Phoenix (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Join Cyclops and Phoenix on the wildest honeymoon of all time, and learn how young Nathan Summers became the man called Cable! When the newlyweds are pulled 2,000 years into the future, they must raise Cyclops' son in the shadow of Apocalypse. Can this post-nuclear family overthrow the ancient tyrant and his sadistic protà©gà©, the boy called Stryfe, before Cyclops and Phoenix return to the present? In the aftermath, Nathan meets the mysterious Blaquesmith, falls for the lovely Aliya and seeks out the hidden Askani order - but why are they hailing him as their chosen one? Learn the Askani's secret origin and their strange connection to Rachel Summers - another time-torn mutant, and Nathan's long-lost sister! Collecting ADVENTURES OF CYCLOPS & PHOENIX #1-4, ASKANI'SON #1-4, X-MEN: PHOENIX #1-3, X-MEN: BOOKS OF ASKANI and material from MARVEL VALENTINE SPECIAL.",
+        "modified": "2014-09-15T11:53:45-0400",
+        "isbn": "978-0-7851-8833-9",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 188339 53499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 352,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Join Cyclops and Phoenix on the wildest honeymoon of all time, and learn how young Nathan Summers became the man called Cable! When the newlyweds are pulled 2,000 years into the future, they must raise Cyclops' son in the shadow of Apocalypse. Can this post-nuclear family overthrow the ancient tyrant and his sadistic protà©gà©, the boy called Stryfe, before Cyclops and Phoenix return to the present? In the aftermath, Nathan meets the mysterious Blaquesmith, falls for the lovely Aliya and seeks out the hidden Askani order - but why are they hailing him as their chosen one? Learn the Askani's secret origin and their strange connection to Rachel Summers - another time-torn mutant, and Nathan's long-lost sister! Collecting ADVENTURES OF CYCLOPS & PHOENIX #1-4, ASKANI'SON #1-4, X-MEN: PHOENIX #1-3, X-MEN: BOOKS OF ASKANI and material from MARVEL VALENTINE SPECIAL."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48047",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/48047/x-men_the_adventures_of_cyclops_phoenix_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-The-Adventures-of-Cyclops-Phoenix-0/digital-comic/35074?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18151",
+          "name": "X-Men: The Adventures of Cyclops & Phoenix (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-09-17T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-09-02T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 34.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/54170925d5b03",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/54170925d5b03",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48047/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1123",
+              "name": "Pascal Alixe",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/189",
+              "name": "Kyle Hotz",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+              "name": "Tom DeFalco",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+              "name": "Jeph Loeb",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1221",
+              "name": "John Francis Moore",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/292",
+              "name": "Gene Ha",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48047/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48047/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108335",
+              "name": "cover from X-Men: The Adventures of Cyclops & Phoenix (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108336",
+              "name": "story from X-Men: The Adventures of Cyclops & Phoenix (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48047/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48040,
+        "digitalId": 0,
+        "title": "X-Men: The Road to Onslaught Vol. 1 (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The X-Men have just averted the Age of Apocalypse, but the threat of Onslaught looms right around the corner - a villain so powerful he put the unstoppable Juggernaut into a coma! But before the X-Men can learn more about this shadowy foe, they must face Gene Nation, led by the vicious Marrow - and help Magneto's Acolytes battle Apocalypse's son, Holocaust, who escaped the AoA into the Marvel Universe! Plus: How will the world react when the Legacy virus' existence is made public? Can Rogue handle learning Gambit's greatest secret? And did Sabretooth's brain damage truly change his personality, or is he a time bomb waiting to go off? All this, and the Xavier Institute enrolls a new student! Collecting X-MEN PRIME, UNCANNY X-MEN (1963) #322-326, X-MEN (1991) #42-45 and ANNUAL '95, and X-MEN UNLIMITED (1993) #8.",
+        "modified": "2014-01-17T14:25:20-0500",
+        "isbn": "978-0-7851-8825-4",
+        "upc": "",
+        "diamondCode": "OCT130765",
+        "ean": "9780785 188254 53999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 432,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The X-Men have just averted the Age of Apocalypse, but the threat of Onslaught looms right around the corner - a villain so powerful he put the unstoppable Juggernaut into a coma! But before the X-Men can learn more about this shadowy foe, they must face Gene Nation, led by the vicious Marrow - and help Magneto's Acolytes battle Apocalypse's son, Holocaust, who escaped the AoA into the Marvel Universe! Plus: How will the world react when the Legacy virus' existence is made public? Can Rogue handle learning Gambit's greatest secret? And did Sabretooth's brain damage truly change his personality, or is he a time bomb waiting to go off? All this, and the Xavier Institute enrolls a new student! Collecting X-MEN PRIME, UNCANNY X-MEN (1963) #322-326, X-MEN (1991) #42-45 and ANNUAL '95, and X-MEN UNLIMITED (1993) #8."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48040",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/48040/x-men_the_road_to_onslaught_vol_1_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-The-Road-to-Onslaught-0/digital-comic/35582?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18145",
+          "name": "X-Men: The Road to Onslaught Vol. 1 (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-01-22T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-01-07T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 39.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/52d9819905eaf",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/52d9819905eaf",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 15,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48040/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4591",
+              "name": "Ramon Bernado",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+              "name": "Roger Cruz",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+              "name": "Terry Dodson",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/483",
+              "name": "Tom Grummett",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+              "name": "Bryan Hitch",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/175",
+              "name": "Andy Kubert",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5124",
+              "name": "Dan Lawlis",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/127",
+              "name": "John Paul Leon",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/431",
+              "name": "Paul Smith",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6986",
+              "name": "J. M. DeMatteis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1286",
+              "name": "Howard Mackie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+              "name": "Fabian Nicieza",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1222",
+              "name": "Joe Madureira",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 15
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48040/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48040/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108321",
+              "name": "cover from X-Men: The Road to Onslaught (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108322",
+              "name": "story from X-Men: The Road to Onslaught (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48040/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48048,
+        "digitalId": 0,
+        "title": "X-Men: The Road to Onslaught Vol. 2 (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The buildup to Marvel's darkest hour continues as the X-Men face danger from without and within! What decades-old connection does Professor X have with the secretive Clan Destine? When Synraith returns, the two teams clash - but all is not what it seems! Can the X-Men solve the mystery before Synraith's victory is complete? Then, Generation X guest-stars as Cannonball and Husk return home - but find Humanity's Last Stand waiting! Plus: The X-Babies return, Wolverine takes on Bloodscream, and the Dark Beast targets Bishop. But the real danger lurks in the X-Men's basement! And when Sabretooth finally tears loose, one longtime teammate pays the price! Do the X-Men have what it takes to stop Sabretooth once and for all? Collecting X-MEN/CLANDESTINE #1-2, UNCANNY X-MEN (1963) #327-328 and ANNUAL '95, X-MEN (1991) #46-49, X-MEN UNLIMITED (1993) #9, and SABRETOOTH SPECIAL (1995).",
+        "modified": "2014-06-20T16:27:17-0400",
+        "isbn": "978-0-7851-8830-8",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 188308 53499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 440,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The buildup to Marvel's darkest hour continues as the X-Men face danger from without and within! What decades-old connection does Professor X have with the secretive Clan Destine? When Synraith returns, the two teams clash - but all is not what it seems! Can the X-Men solve the mystery before Synraith's victory is complete? Then, Generation X guest-stars as Cannonball and Husk return home - but find Humanity's Last Stand waiting! Plus: The X-Babies return, Wolverine takes on Bloodscream, and the Dark Beast targets Bishop. But the real danger lurks in the X-Men's basement! And when Sabretooth finally tears loose, one longtime teammate pays the price! Do the X-Men have what it takes to stop Sabretooth once and for all? Collecting X-MEN/CLANDESTINE #1-2, UNCANNY X-MEN (1963) #327-328 and ANNUAL '95, X-MEN (1991) #46-49, X-MEN UNLIMITED (1993) #9, and SABRETOOTH SPECIAL (1995)."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48048",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/48048/x-men_the_road_to_onslaught_vol_2_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-The-Road-to-Onslaught-0/digital-comic/35583?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18152",
+          "name": "X-Men: The Road to Onslaught Vol. 2 (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-06-25T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-06-10T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 34.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/53a4974877949",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/53a4974877949",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48048/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+              "name": "Roger Cruz",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/308",
+              "name": "Gary Frank",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+              "name": "Bryan Hitch",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/175",
+              "name": "Andy Kubert",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1222",
+              "name": "Joe Madureira",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4523",
+              "name": "Val Semeiks",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+              "name": "Alan Davis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/42",
+              "name": "Larry Hama",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1162",
+              "name": "Terry Kavanagh",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+              "name": "Scott Lobdell",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+              "name": "Fabian Nicieza",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2321",
+              "name": "Jeff Matsuda",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 12
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48048/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48048/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108337",
+              "name": "cover from X-Men: The Road to Onslaught (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108338",
+              "name": "story from X-Men: The Road to Onslaught (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48048/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 47721,
+        "digitalId": 32886,
+        "title": "Young Avengers (2013) #15",
+        "issueNumber": 15,
+        "variantDescription": "",
+        "description": "After the saving the world, there&#39;s the after party. And after the party, it&#39;s the hotel lobby. And around issue 15, we have to clear the lobby and then head to our rooms and do something jolly rude. MIC-DROP!",
+        "modified": "2017-02-10T10:38:53-0500",
+        "isbn": "",
+        "upc": "75960607918601511",
+        "diamondCode": "NOV130653",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "After the saving the world, there&#39;s the after party. And after the party, it&#39;s the hotel lobby. And around issue 15, we have to clear the lobby and then head to our rooms and do something jolly rude. MIC-DROP!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47721",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47721/young_avengers_2013_15?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-Avengers-15/digital-comic/32886?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=32886&utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/32886?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/17647",
+          "name": "Young Avengers (2013)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-01-08T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2013-12-23T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2014-07-09T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2014-01-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/589dde7f21dbd",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/589dde7f21dbd",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/52cae54f3da2c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/526168b7a6891",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47721/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8094",
+              "name": "Becky Cloonan",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10326",
+              "name": "Ming Doyle",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10090",
+              "name": "Joe Quinones",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+              "name": "Kieron Gillen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8671",
+              "name": "Jamie McKelvie",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47721/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47721/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/107715",
+              "name": "cover from Young Avengers (2013) #15",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/107716",
+              "name": "story from Young Avengers (2013) #15",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47721/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48951,
+        "digitalId": 0,
+        "title": "Young Avengers (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2014-06-18T16:37:53-0400",
+        "isbn": "978-0-7851-8989-3",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 189893 51499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 112,
+        "textObjects": [
+
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48951",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/48951/young_avengers_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18418",
+          "name": "Young Avengers (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-07-16T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-07-01T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 14.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [
+
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48951/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48951/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48951/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/109989",
+              "name": "cover from Young Avengers (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/109990",
+              "name": "story from Young Avengers (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48951/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52976,
+        "digitalId": 0,
+        "title": "Young Avengers by Kieron Gillen & Jamie Mckelvie (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "Oâ€™Malley Cover",
+        "description": "Kieron Gillen and Jamie McKelvie's groundbreaking, critically acclaimed epic is collected in one oversized volume! The Young Avengers are reinvented for the 21st century as Wiccan, Hulkling and Kate \"Hawkeye\" Bishop unite with Kid Loki, Marvel Boy, Prodigy and Ms. America. Someone has to save the entire multiverse. They're someone. No pressure, right? As a cosmic horror emerges from the shadows of the past, the Young Avengers race desperately across dimensions - but once they take on the gig to save reality, they may never be able to go home again! Meanwhile, Kid Loki is up to something. Surprise, I know. Fight scenes! Kissing! Fake IDs! Kissing! Drama! Conflict! Plentiful feels! (a.k.a. \"meaningful emotional character beats\" for people who aren't on tumblr.) And oh yeah, nightclubs! Read it! Collecting YOUNG AVENGERS (2013) #1-15 and material from MARVEL NOW! POINT ONE #1.",
+        "modified": "2014-12-02T15:20:32-0500",
+        "isbn": "978-0-7851-9285-5",
+        "upc": "",
+        "diamondCode": "JUL140713",
+        "ean": "9780785 192855 54999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 360,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Kieron Gillen and Jamie McKelvie's groundbreaking, critically acclaimed epic is collected in one oversized volume! The Young Avengers are reinvented for the 21st century as Wiccan, Hulkling and Kate \"Hawkeye\" Bishop unite with Kid Loki, Marvel Boy, Prodigy and Ms. America. Someone has to save the entire multiverse. They're someone. No pressure, right? As a cosmic horror emerges from the shadows of the past, the Young Avengers race desperately across dimensions - but once they take on the gig to save reality, they may never be able to go home again! Meanwhile, Kid Loki is up to something. Surprise, I know. Fight scenes! Kissing! Fake IDs! Kissing! Drama! Conflict! Plentiful feels! (a.k.a. \"meaningful emotional character beats\" for people who aren't on tumblr.) And oh yeah, nightclubs! Read it! Collecting YOUNG AVENGERS (2013) #1-15 and material from MARVEL NOW! POINT ONE #1."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52976",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/52976/young_avengers_by_kieron_gillen_jamie_mckelvie_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19816",
+          "name": "Young Avengers by Kieron Gillen & Jamie Mckelvie (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-12-03T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-10-14T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 49.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/547e1d01c2c0b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/547e1d01c2c0b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52976/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12166",
+              "name": "Kate Brown",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+              "name": "Kieron Gillen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8671",
+              "name": "Jamie McKelvie",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52976/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52976/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117529",
+              "name": "cover from Young Avengers by Kieron Gillen & Jamie Mckelvie (2014) (Oâ€™MALLEY COVER)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117530",
+              "name": "story from Young Avengers by Kieron Gillen & Jamie Mckelvie (2014) (Oâ€™MALLEY COVER)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52976/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52975,
+        "digitalId": 0,
+        "title": "Young Avengers by Kieron Gillen & Jamie Mckelvie (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Kieron Gillen and Jamie McKelvie's groundbreaking, critically acclaimed epic is collected in one oversized volume! The Young Avengers are reinvented for the 21st century as Wiccan, Hulkling and Kate \"Hawkeye\" Bishop unite with Kid Loki, Marvel Boy, Prodigy and Ms. America. Someone has to save the entire multiverse. They're someone. No pressure, right? As a cosmic horror emerges from the shadows of the past, the Young Avengers race desperately across dimensions - but once they take on the gig to save reality, they may never be able to go home again! Meanwhile, Kid Loki is up to something. Surprise, I know. Fight scenes! Kissing! Fake IDs! Kissing! Drama! Conflict! Plentiful feels! (a.k.a. \"meaningful emotional character beats\" for people who aren't on tumblr.) And oh yeah, nightclubs! Read it! Collecting YOUNG AVENGERS (2013) #1-15 and material from MARVEL NOW! POINT ONE #1.",
+        "modified": "2014-12-02T13:10:30-0500",
+        "isbn": "978-0-7851-9171-1",
+        "upc": "",
+        "diamondCode": "JUL140712",
+        "ean": "9780785 191711 54999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 360,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Kieron Gillen and Jamie McKelvie's groundbreaking, critically acclaimed epic is collected in one oversized volume! The Young Avengers are reinvented for the 21st century as Wiccan, Hulkling and Kate \"Hawkeye\" Bishop unite with Kid Loki, Marvel Boy, Prodigy and Ms. America. Someone has to save the entire multiverse. They're someone. No pressure, right? As a cosmic horror emerges from the shadows of the past, the Young Avengers race desperately across dimensions - but once they take on the gig to save reality, they may never be able to go home again! Meanwhile, Kid Loki is up to something. Surprise, I know. Fight scenes! Kissing! Fake IDs! Kissing! Drama! Conflict! Plentiful feels! (a.k.a. \"meaningful emotional character beats\" for people who aren't on tumblr.) And oh yeah, nightclubs! Read it! Collecting YOUNG AVENGERS (2013) #1-15 and material from MARVEL NOW! POINT ONE #1."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52975",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/52975/young_avengers_by_kieron_gillen_jamie_mckelvie_hardcover?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19815",
+          "name": "Young Avengers by Kieron Gillen & Jamie Mckelvie (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-12-03T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-10-14T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 49.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/04/547dff7c8cde6",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/04/547dff7c8cde6",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52975/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12166",
+              "name": "Kate Brown",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+              "name": "Kieron Gillen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8671",
+              "name": "Jamie McKelvie",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52975/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52975/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117527",
+              "name": "cover from Young Avengers by Kieron Gillen & Jamie Mckelvie (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117528",
+              "name": "story from Young Avengers by Kieron Gillen & Jamie Mckelvie (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52975/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 46830,
+        "digitalId": 0,
+        "title": "YOUNG AVENGERS VOL. 2: ALTERNATIVE CULTURE TPB (MARVEL NOW) (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Existential horror turns cosmic horror as something emerges from the shadows of the past, and it seems the team have one more thing to worry about. The Young Avengers race desperately across the multiverse in pursuit of their missing friend, but their road trip goes crazy as it reaches its destination. Because its destination is mainly excitement and heartbreak. Several Young Avengers decide what to do next - the question is, whether they decide to stay Young Avengers! Plus: Ever wonder what the super-hero equivalent of a terrible soul-sucking talent-wasting temp job is? Wonder what Tommy (a.k.a. Speed) has been up to? Wonder why mutant David Alleyne (a.k.a. Prodigy) hasn't been even in the background in any one of the eight thousand X-books? Discover answers herein! And hey, are you ready for Mother's Day? Collecting YOUNG AVENGERS (2013) #6-10.",
+        "modified": "2014-01-17T14:29:15-0500",
+        "isbn": "978-0-7851-6709-9",
+        "upc": "",
+        "diamondCode": "OCT130761",
+        "ean": "9780785 167099 51599",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 112,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Existential horror turns cosmic horror as something emerges from the shadows of the past, and it seems the team have one more thing to worry about. The Young Avengers race desperately across the multiverse in pursuit of their missing friend, but their road trip goes crazy as it reaches its destination. Because its destination is mainly excitement and heartbreak. Several Young Avengers decide what to do next - the question is, whether they decide to stay Young Avengers! Plus: Ever wonder what the super-hero equivalent of a terrible soul-sucking talent-wasting temp job is? Wonder what Tommy (a.k.a. Speed) has been up to? Wonder why mutant David Alleyne (a.k.a. Prodigy) hasn't been even in the background in any one of the eight thousand X-books? Discover answers herein! And hey, are you ready for Mother's Day? Collecting YOUNG AVENGERS (2013) #6-10."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46830",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/46830/young_avengers_vol_2_alternative_culture_tpb_marvel_now_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-Avengers-0/digital-comic/33663?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/17649",
+          "name": "YOUNG AVENGERS VOL. 2: ALTERNATIVE CULTURE TPB (MARVEL NOW) (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-01-22T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-01-07T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 15.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/52d97f05b4f99",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/534c4e6cb3ef6",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/52d97f05b4f99",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46830/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12166",
+              "name": "Kate Brown",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+              "name": "Kieron Gillen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8671",
+              "name": "Jamie McKelvie",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46830/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46830/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/105282",
+              "name": "cover from Young Avengers (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/105283",
+              "name": "story from Young Avengers (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46830/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 47719,
+        "digitalId": 0,
+        "title": "YOUNG AVENGERS VOL. 3: MIC-DROP AT THE EDGE OF TIME AND SPACE TPB  (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "They say you can never go home. For the Young Avengers, that's not true. They can go home - it's just that if they do, the universe may end. The team takes on the gig to save reality, but is Kate Bishop an enemy in waiting? Will Noh-Varr get an arrow through the head? And is this the end of the loveable/strangle-able Kid Loki? As the Young Avengers take on \"the Young Avengers,\" Loki's scheme reaches its final twist - and the Young Avengers' jaws hit the floor. Then, the team gathers in a nightclub for a string of connected and overlapping stories illustrated by an all-star cast of people we really like. And as the New Year looms, the Young Avengers get a resolution - and so do you. Plus: Kissing! Drama! Conflict! Kissing! Collecting YOUNG AVENGERS (2013) #11-15.",
+        "modified": "2014-03-11T11:34:15-0400",
+        "isbn": "978-0-7851-8530-7",
+        "upc": "",
+        "diamondCode": "DEC130782",
+        "ean": "9780785 185307 51599",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 112,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "They say you can never go home. For the Young Avengers, that's not true. They can go home - it's just that if they do, the universe may end. The team takes on the gig to save reality, but is Kate Bishop an enemy in waiting? Will Noh-Varr get an arrow through the head? And is this the end of the loveable/strangle-able Kid Loki? As the Young Avengers take on \"the Young Avengers,\" Loki's scheme reaches its final twist - and the Young Avengers' jaws hit the floor. Then, the team gathers in a nightclub for a string of connected and overlapping stories illustrated by an all-star cast of people we really like. And as the New Year looms, the Young Avengers get a resolution - and so do you. Plus: Kissing! Drama! Conflict! Kissing! Collecting YOUNG AVENGERS (2013) #11-15."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47719",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/47719/young_avengers_vol_3_mic-drop_at_the_edge_of_time_and_space_tpb_trade_paperback?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-Avengers-0/digital-comic/33815?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/18010",
+          "name": "YOUNG AVENGERS VOL. 3: MIC-DROP AT THE EDGE OF TIME AND SPACE TPB  (2014)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-03-19T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-03-04T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 15.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/531f2b8d6a694",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/534c4ee091284",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/531f2b8d6a694",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47719/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+              "name": "Kieron Gillen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8671",
+              "name": "Jamie McKelvie",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10462",
+              "name": "Emma Vieceli",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12136",
+              "name": "Annie Wu",
+              "role": "artist"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47719/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47719/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/107711",
+              "name": "cover from Young Avengers (2014)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/107712",
+              "name": "story from Young Avengers (2014)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/47719/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}
