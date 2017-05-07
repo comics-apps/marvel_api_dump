@@ -1,0 +1,826 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "78e7e0a630a6d0f1cbe7c650be256eb9ca6708ee",
+  "data": {
+    "offset": 0,
+    "limit": 100,
+    "total": 2,
+    "count": 2,
+    "results": [
+      {
+        "id": 2083,
+        "title": "Thor (1966 - 1996)",
+        "description": "Odin's finest son in his classic solo series! Thor battles threats from all nine realms and beyond! Includes the legendary and beloved four-year run by writer and artist Walter Simonson that introduced Beta Ray Bill and brought Ragnarok to Asgard!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2083",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/2083/thor_1966_-_1996?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1966,
+        "endYear": 1996,
+        "rating": "",
+        "type": "",
+        "modified": "2013-03-01T15:21:48-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/51310d690829a",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 218,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2083/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2289",
+              "name": "Alexandrov",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2669",
+              "name": "Yates",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+              "name": "Jack Abel",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+              "name": "Dan Adkins",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2684",
+              "name": "Jim Amash",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/651",
+              "name": "Brent Anderson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/263",
+              "name": "Dick Ayers",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2585",
+              "name": "Condoy",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2656",
+              "name": "Oakley",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+              "name": "Diana Albers",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2666",
+              "name": "John Babcock",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2672",
+              "name": "Harrison",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2686",
+              "name": "Sf",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/314",
+              "name": "Neal Adams",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2663",
+              "name": "Lazarelli",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2632",
+              "name": "Stein",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2657",
+              "name": "Vincent",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/854",
+              "name": "Oclair Albert",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+              "name": "Terry Austin",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2047",
+              "name": "Craig Anderson",
+              "role": "editor"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 65,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2083/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009148",
+              "name": "Absorbing Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009180",
+              "name": "Beta-Ray Bill"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009186",
+              "name": "Black Knight (Sir Percy of Scandia)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+              "name": "Black Widow"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009200",
+              "name": "Blockbuster"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011073",
+              "name": "Bloodaxe"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+              "name": "Captain Marvel (Mar-Vell)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010813",
+              "name": "Celestials"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011306",
+              "name": "Dargo Ktor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+              "name": "Doctor Doom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+              "name": "Doctor Strange"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011072",
+              "name": "Edwin Jarvis"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010671",
+              "name": "Enchantress (Amora)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009303",
+              "name": "Fin Fang Foom"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 932,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2083/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16499",
+              "name": "Thor (1966) #126",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16500",
+              "name": "Whom the Gods Would Destroy!",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16501",
+              "name": "The Summons",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16502",
+              "name": "Thor (1966) #127",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16503",
+              "name": "The Hammer and the Holocaust",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16504",
+              "name": "The Meaning of Ragnarok [Volla's Prophecy]",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16505",
+              "name": "Thor (1966) #128",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16506",
+              "name": "The Power of Pluto!",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16507",
+              "name": "Aftermath [Volla's Prophecy]",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16508",
+              "name": "Thor (1966) #129",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16509",
+              "name": "The Verdict of Zeus",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16510",
+              "name": "The Hordes of Harokin [Warlock's Eye]",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16511",
+              "name": "Thor (1966) #130",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16512",
+              "name": "Thunder in the Netherworld",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16513",
+              "name": "The Fateful Change [Warlock's Eye]",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16514",
+              "name": "Thor (1966) #131",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16515",
+              "name": "They Strike from Space",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16516",
+              "name": "The Warlock's Eye",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16517",
+              "name": "Thor (1966) #132",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/16518",
+              "name": "Rigel 'Where God's May Fear to Tread",
+              "type": ""
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 377,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2083/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11454",
+              "name": "Thor (1966) #126"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11455",
+              "name": "Thor (1966) #127"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11456",
+              "name": "Thor (1966) #128"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11457",
+              "name": "Thor (1966) #129"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11458",
+              "name": "Thor (1966) #130"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11459",
+              "name": "Thor (1966) #131"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11460",
+              "name": "Thor (1966) #132"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11461",
+              "name": "Thor (1966) #133"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11462",
+              "name": "Thor (1966) #134"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11463",
+              "name": "Thor (1966) #135"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11464",
+              "name": "Thor (1966) #136"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11465",
+              "name": "Thor (1966) #137"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11466",
+              "name": "Thor (1966) #138"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11467",
+              "name": "Thor (1966) #139"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11468",
+              "name": "Thor (1966) #140"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11469",
+              "name": "Thor (1966) #141"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11470",
+              "name": "Thor (1966) #142"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11471",
+              "name": "Thor (1966) #143"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11472",
+              "name": "Thor (1966) #144"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11473",
+              "name": "Thor (1966) #145"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2083/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/235",
+              "name": "Blood and Thunder"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/246",
+              "name": "Evolutionary War"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/263",
+              "name": "Mutant Massacre"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/270",
+              "name": "Secret Wars"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/271",
+              "name": "Secret Wars II"
+            }
+          ],
+          "returned": 6
+        },
+        "next": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/581",
+          "name": "Thor (1998 - 2004)"
+        },
+        "previous": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2032",
+          "name": "Journey Into Mystery (1952 - 1966)"
+        }
+      },
+      {
+        "id": 2978,
+        "title": "Thor Annual (1966 - 2001)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2978",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/2978/thor_annual_1966_-_2001?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1966,
+        "endYear": 2001,
+        "rating": "",
+        "type": "",
+        "modified": "2014-07-28T14:39:57-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4bad2db4c7bf4",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 140,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2978/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5235",
+              "name": "Orz",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3166",
+              "name": "Rick Bryant",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2386",
+              "name": "Harry Candelario",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1523",
+              "name": "Vince Colletta",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+              "name": "Diana Albers",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2379",
+              "name": "Darren Auck",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2666",
+              "name": "John Babcock",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+              "name": "Janice Chiang",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1950",
+              "name": "Joe Andreani",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+              "name": "Mark Bagley",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4469",
+              "name": "Richard Bennett",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1394",
+              "name": "Bob Budiansky",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+              "name": "John Buscema",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+              "name": "Sal Buscema",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2713",
+              "name": "Gary Barnum",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1289",
+              "name": "Robert Bernstein",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2381",
+              "name": "George Caragonne",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1935",
+              "name": "Paul Becton",
+              "role": "colorist"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2978/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009365",
+              "name": "Inhumans"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009384",
+              "name": "Kang"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009407",
+              "name": "Loki"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009440",
+              "name": "Mephisto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009480",
+              "name": "Odin"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+              "name": "Thor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010358",
+              "name": "Ulik"
+            }
+          ],
+          "returned": 7
+        },
+        "stories": {
+          "available": 74,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2978/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33724",
+              "name": "Cover #33724",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33725",
+              "name": "The Hammer, the Cross, and the Eye",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33726",
+              "name": "The Ten Most Heinous Enemies of the Mighty Thor",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33727",
+              "name": "Looking For Trouble",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33728",
+              "name": "Paradise Lost (Part 2)",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33729",
+              "name": "Take Hold of the Flame",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33730",
+              "name": "Forged in Fire",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33731",
+              "name": "The Flame Rekindled",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33732",
+              "name": "Stormbreaker",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33733",
+              "name": "Thunder in the Underworld",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33734",
+              "name": "The Flame and the Lightning",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33735",
+              "name": "Estranged  Relations",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33736",
+              "name": "Thor vs. a Storm Giant",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33737",
+              "name": "Thor in a Rainstorm",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33738",
+              "name": "Thor vs. Karnivore",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33739",
+              "name": "Thor on a Sidestreet",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33740",
+              "name": "Thor Annual (1966) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33741",
+              "name": "If Asgard Falls",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33742",
+              "name": "Mad Merlin",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33743",
+              "name": "The Enchantress and the Executioner",
+              "type": ""
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 18,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2978/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16681",
+              "name": "Thor Annual (1966) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16682",
+              "name": "Thor Annual (1966) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16683",
+              "name": "Thor Annual (1966) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16684",
+              "name": "Thor Annual (1966) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16685",
+              "name": "Thor Annual (1966) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16686",
+              "name": "Thor Annual (1966) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16687",
+              "name": "Thor Annual (1966) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16688",
+              "name": "Thor Annual (1966) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16671",
+              "name": "Thor Annual (1966) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16672",
+              "name": "Thor Annual (1966) #11"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16673",
+              "name": "Thor Annual (1966) #12"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16674",
+              "name": "Thor Annual (1966) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16675",
+              "name": "Thor Annual (1966) #14"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16676",
+              "name": "Thor Annual (1966) #15"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16677",
+              "name": "Thor Annual (1966) #16"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16678",
+              "name": "Thor Annual (1966) #17"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16679",
+              "name": "Thor Annual (1966) #18"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16680",
+              "name": "Thor Annual (1966) #19"
+            }
+          ],
+          "returned": 18
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2978/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/233",
+              "name": "Atlantis Attacks"
+            }
+          ],
+          "returned": 1
+        },
+        "next": null,
+        "previous": null
+      }
+    ]
+  }
+}

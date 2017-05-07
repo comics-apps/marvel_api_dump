@@ -1,0 +1,1195 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "2bac9436b4a3bc34fb979dd7c72be63aa84961bd",
+  "data": {
+    "offset": 0,
+    "limit": 100,
+    "total": 7,
+    "count": 7,
+    "results": [
+      {
+        "id": 3719,
+        "title": "Marvel Fanfare (1982 - 1992)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3719",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3719/marvel_fanfare_1982_-_1992?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1982,
+        "endYear": 1992,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bb5c8c08ae91",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 212,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3719/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6606",
+              "name": "A.R.K.",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6647",
+              "name": "Moede",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6586",
+              "name": "Muns",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+              "name": "Diana Albers",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6613",
+              "name": "Beatty",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6614",
+              "name": "Butler",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3022",
+              "name": "Green",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+              "name": "Jack Abel",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+              "name": "Terry Austin",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2038",
+              "name": "John Beatty",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6642",
+              "name": "Cameron",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1935",
+              "name": "Paul Becton",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6609",
+              "name": "scripting",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/651",
+              "name": "Brent Anderson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1352",
+              "name": "Mike W. Barr",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+              "name": "Art Adams",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3389",
+              "name": "Ian Akin",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3652",
+              "name": "Mark Badger",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4874",
+              "name": "Joe Barney",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1277",
+              "name": "Bret Blevins",
+              "role": "penciler"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 88,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3719/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010370",
+              "name": "Alpha Flight"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009154",
+              "name": "Annihilus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009186",
+              "name": "Black Knight (Sir Percy of Scandia)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+              "name": "Black Widow"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+              "name": "Cannonball"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+              "name": "Captain Marvel (Mar-Vell)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011027",
+              "name": "Captain Universe"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009239",
+              "name": "Clea"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009241",
+              "name": "Cloak"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009258",
+              "name": "Dagger"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+              "name": "Dazzler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010890",
+              "name": "Deathlok"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 425,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3719/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42092",
+              "name": "Cover #42092",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42093",
+              "name": "Pin-Up",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42094",
+              "name": "Fast Descent Into Hell!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42095",
+              "name": "Editori-Al",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42096",
+              "name": "Power!",
+              "type": "ad"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42097",
+              "name": "Snow",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42098",
+              "name": "[Back Cover]",
+              "type": "backcovers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42099",
+              "name": "Cover #42099",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42100",
+              "name": "feature",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42101",
+              "name": "Widow",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42102",
+              "name": "Chapter II  With Friends Like These",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42103",
+              "name": "How Fear Came",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42104",
+              "name": "Interior #42104",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42105",
+              "name": "back cover",
+              "type": "backcovers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42106",
+              "name": "Cover #42106",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42107",
+              "name": "feature",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42108",
+              "name": "Back In the U.S.S.R.",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42109",
+              "name": "Kaa's Hunting",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42110",
+              "name": "Unusu-Al Pin-Ups",
+              "type": "portfolio"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42111",
+              "name": "back cover",
+              "type": ""
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 60,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3719/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19782",
+              "name": "Marvel Fanfare (1982) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19793",
+              "name": "Marvel Fanfare (1982) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19804",
+              "name": "Marvel Fanfare (1982) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19815",
+              "name": "Marvel Fanfare (1982) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19826",
+              "name": "Marvel Fanfare (1982) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19837",
+              "name": "Marvel Fanfare (1982) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19839",
+              "name": "Marvel Fanfare (1982) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19840",
+              "name": "Marvel Fanfare (1982) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19841",
+              "name": "Marvel Fanfare (1982) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19783",
+              "name": "Marvel Fanfare (1982) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19784",
+              "name": "Marvel Fanfare (1982) #11"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19785",
+              "name": "Marvel Fanfare (1982) #12"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19786",
+              "name": "Marvel Fanfare (1982) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19787",
+              "name": "Marvel Fanfare (1982) #14"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19788",
+              "name": "Marvel Fanfare (1982) #15"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19789",
+              "name": "Marvel Fanfare (1982) #16"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19790",
+              "name": "Marvel Fanfare (1982) #17"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19791",
+              "name": "Marvel Fanfare (1982) #18"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19792",
+              "name": "Marvel Fanfare (1982) #19"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19794",
+              "name": "Marvel Fanfare (1982) #20"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3719/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 16349,
+        "title": "Marvel Graphic Novel 1: The Death of Captain Marvel (1982)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16349",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/16349/marvel_graphic_novel_1_the_death_of_captain_marvel_1982?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1982,
+        "endYear": 1982,
+        "rating": "",
+        "type": "",
+        "modified": "2014-06-12T12:12:39-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/16349/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/16349/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/16349/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/106322",
+              "name": "cover from Marvel Graphic Novel 1: The Death of Captain Marvel #1",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/16349/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/42870",
+              "name": "Marvel Graphic Novel 1: The Death of Captain Marvel (1982) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/16349/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 2315,
+        "title": "New Mutants Graphic Novel (1982)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2315",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/2315/new_mutants_graphic_novel_1982?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1982,
+        "endYear": 1982,
+        "rating": "",
+        "type": "limited",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/4bad351105efc",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2315/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2315/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2315/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/36681",
+              "name": "Cover #36681",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/36682",
+              "name": "Interior #36682",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2315/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15788",
+              "name": "New Mutants Graphic Novel (1982) #4"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2315/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 14637,
+        "title": "The Contest (1982)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14637",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/14637/the_contest_1982?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1982,
+        "endYear": 1982,
+        "rating": "",
+        "type": "",
+        "modified": "2015-06-29T12:56:28-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/55916484a831f",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/14637/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/14637/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/14637/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/106632",
+              "name": "cover from The Contest #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/106633",
+              "name": "cover from The Contest #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/106634",
+              "name": "cover from The Contest #3",
+              "type": "cover"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/14637/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/39673",
+              "name": "The Contest (1982) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/39675",
+              "name": "The Contest (1982) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/39676",
+              "name": "The Contest (1982) #3"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/14637/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 2090,
+        "title": "Vision and the Scarlet Witch (1982 - 1983)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2090",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/2090/vision_and_the_scarlet_witch_1982_-_1983?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1982,
+        "endYear": 1983,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bad3b9ad07a9",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2090/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+              "name": "Jack Abel",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3389",
+              "name": "Ian Akin",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3390",
+              "name": "Brian Garvey",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/939",
+              "name": "Joe Rubinstein",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+              "name": "Diana Albers",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+              "name": "Janice Chiang",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1759",
+              "name": "Joe Rosen",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/259",
+              "name": "Mark Gruenwald",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1252",
+              "name": "Rick Leonardi",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/966",
+              "name": "Bill Mantlo",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2053",
+              "name": "George Roussos",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+              "name": "Bob Sharen",
+              "role": "colorist"
+            }
+          ],
+          "returned": 12
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2090/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2090/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21080",
+              "name": "Cover #21080",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21081",
+              "name": "Trick Or Treat!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21082",
+              "name": "Cover #21082",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21083",
+              "name": "Faith of Our Fathers",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21084",
+              "name": "Cover #21084",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21085",
+              "name": "Blood Brothers",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21086",
+              "name": "Cover #21086",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21087",
+              "name": "Please Allow Me To Introduce Myself",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 8
+        },
+        "comics": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2090/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11954",
+              "name": "Vision and the Scarlet Witch (1982) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11955",
+              "name": "Vision and the Scarlet Witch (1982) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11956",
+              "name": "Vision and the Scarlet Witch (1982) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11957",
+              "name": "Vision and the Scarlet Witch (1982) #4"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2090/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 2096,
+        "title": "Wolverine (1982)",
+        "description": "It's the most popular member of the X-Men's first major solo adventure, as legendary creators Chris Claremont and Frank Miller take Logan to Japan where he seeks to regain his lost honor and win the hand of his beloved Mariko!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2096",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/2096/wolverine_1982?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1982,
+        "endYear": 1982,
+        "rating": "",
+        "type": "",
+        "modified": "2013-03-01T15:44:12-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/513112a2ba1e0",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2096/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2406",
+              "name": "Louise Jones",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/17",
+              "name": "Frank Miller",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+              "name": "Glynis Oliver",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2459",
+              "name": "Lynn Varley",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12942",
+              "name": "Glynis Wein",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+              "name": "Tom Orzechowski",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/939",
+              "name": "Joe Rubinstein",
+              "role": "inker"
+            }
+          ],
+          "returned": 8
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2096/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009735",
+              "name": "Mariko Yashida"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+              "name": "Storm"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 7
+        },
+        "stories": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2096/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21088",
+              "name": "Wolverine (1982) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21089",
+              "name": "I'm Wolverine.",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21090",
+              "name": "Wolverine (1982) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21091",
+              "name": "Debts and Obligations",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21092",
+              "name": "Wolverine (1982) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21093",
+              "name": "Loss",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21094",
+              "name": "Wolverine (1982) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/21095",
+              "name": "Honor",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 8
+        },
+        "comics": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2096/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12168",
+              "name": "Wolverine (1982) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12169",
+              "name": "Wolverine (1982) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12170",
+              "name": "Wolverine (1982) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12171",
+              "name": "Wolverine (1982) #4"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2096/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+          "name": "Uncanny X-Men (1963 - 2011)"
+        },
+        "previous": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+          "name": "Uncanny X-Men (1963 - 2011)"
+        }
+      },
+      {
+        "id": 3902,
+        "title": "X-Men: God Loves, Man Kills - Special Edition (1982)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3902",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/3902/x-men_god_loves_man_kills_-_special_edition_1982?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1982,
+        "endYear": 1982,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb4e66e505b4",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3902/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/651",
+              "name": "Brent Anderson",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7245",
+              "name": "Adam Hughes",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4205",
+              "name": "Steve Oliff",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+              "name": "Tom Orzechowski",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/184",
+              "name": "Louise Simonson",
+              "role": "editor"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3902/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+              "name": "Banshee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009327",
+              "name": "Jean Grey"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009508",
+              "name": "Kitty Pryde"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011207",
+              "name": "Purifiers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+              "name": "Storm"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 10
+        },
+        "stories": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3902/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/44585",
+              "name": "Cover #44585",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/44586",
+              "name": "God Loves, Man Kills",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/44587",
+              "name": "Afterword",
+              "type": "text article"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/45137",
+              "name": "Cover #45137",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/45138",
+              "name": "Interior #45138",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 5
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3902/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20773",
+              "name": "X-Men: God Loves, Man Kills - Special Edition (1982)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/20817",
+              "name": "X-Men: God Loves, Man Kills - Special Edition (1982) #1"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/3902/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      }
+    ]
+  }
+}

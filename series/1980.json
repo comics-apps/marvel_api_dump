@@ -1,0 +1,666 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "d5a7dac0b03f8e9e346c3f7859d2a031257a7194",
+  "data": {
+    "offset": 0,
+    "limit": 100,
+    "total": 2,
+    "count": 2,
+    "results": [
+      {
+        "id": 19099,
+        "title": "Moon Knight (1980 - 1984)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/19099",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/19099/moon_knight_1980_-_1984?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1980,
+        "endYear": 1984,
+        "rating": "",
+        "type": "ongoing",
+        "modified": "2016-10-28T20:02:14-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/5813e6e222812",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 12,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/19099/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3186",
+              "name": "Vicente Alcazar",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2050",
+              "name": "Denys Cowan",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/334",
+              "name": "Joe Jusko",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+              "name": "Al Milgrom",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/17",
+              "name": "Frank Miller",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2230",
+              "name": "Steve Mitchell",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3141",
+              "name": "Earl Norem",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/26",
+              "name": "Bill Sienkiewicz",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/517",
+              "name": "Dave Simons",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1219",
+              "name": "Ron Wilson",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5401",
+              "name": "Jack Harris",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/223",
+              "name": "Doug Moench",
+              "role": "writer"
+            }
+          ],
+          "returned": 12
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/19099/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009452",
+              "name": "Moon Knight"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 46,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/19099/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135680",
+              "name": "cover to Moon Knight (1980) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135681",
+              "name": "interior to Moon Knight (1980) #1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135682",
+              "name": "cover to Moon Knight (1980) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135683",
+              "name": "interior to Moon Knight (1980) #2",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135684",
+              "name": "cover to Moon Knight (1980) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135686",
+              "name": "interior to Moon Knight (1980) #3",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135687",
+              "name": "cover to Moon Knight (1980) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135688",
+              "name": "interior to Moon Knight (1980) #4",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135689",
+              "name": "cover to Moon Knight (1980) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135690",
+              "name": "interior to Moon Knight (1980) #5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135691",
+              "name": "cover to Moon Knight (1980) #6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135692",
+              "name": "interior to Moon Knight (1980) #6",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135693",
+              "name": "cover to Moon Knight (1980) #7",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135694",
+              "name": "interior to Moon Knight (1980) #7",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135695",
+              "name": "cover to Moon Knight (1980) #8",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135696",
+              "name": "interior to Moon Knight (1980) #8",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135697",
+              "name": "cover to Moon Knight (1980) #9",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135698",
+              "name": "interior to Moon Knight (1980) #9",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135699",
+              "name": "cover to Moon Knight (1980) #10",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135700",
+              "name": "interior to Moon Knight (1980) #10",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 23,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/19099/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/51006",
+              "name": "Moon Knight (1980) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/51007",
+              "name": "Moon Knight (1980) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/51008",
+              "name": "Moon Knight (1980) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/51009",
+              "name": "Moon Knight (1980) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57852",
+              "name": "Moon Knight (1980) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57853",
+              "name": "Moon Knight (1980) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57854",
+              "name": "Moon Knight (1980) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57855",
+              "name": "Moon Knight (1980) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57856",
+              "name": "Moon Knight (1980) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57857",
+              "name": "Moon Knight (1980) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57858",
+              "name": "Moon Knight (1980) #11"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/58047",
+              "name": "Moon Knight (1980) #12"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/58048",
+              "name": "Moon Knight (1980) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/58049",
+              "name": "Moon Knight (1980) #14"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/58050",
+              "name": "Moon Knight (1980) #15"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/58051",
+              "name": "Moon Knight (1980) #16"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/58052",
+              "name": "Moon Knight (1980) #17"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/58053",
+              "name": "Moon Knight (1980) #18"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/58127",
+              "name": "Moon Knight (1980) #19"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/58128",
+              "name": "Moon Knight (1980) #20"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/19099/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 2291,
+        "title": "Savage She-Hulk (1980 - 1982)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2291",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/2291/savage_she-hulk_1980_-_1982?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1980,
+        "endYear": 1982,
+        "rating": "",
+        "type": "",
+        "modified": "2016-09-26T16:03:00-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/57e97d94e5f73",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 50,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2291/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+              "name": "Jack Abel",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+              "name": "Terry Austin",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5823",
+              "name": "Danny Bulanadi",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2695",
+              "name": "Armando Gil",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2297",
+              "name": "Mike Gustovich",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4804",
+              "name": "Pierre Bernard",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4801",
+              "name": "Harry Blumfield",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+              "name": "Janice Chiang",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+              "name": "John Costanza",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1778",
+              "name": "Dan Crespi",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2272",
+              "name": "Diverse Hands",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1284",
+              "name": "Michael Higgins",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4813",
+              "name": "Peter Kirch",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1216",
+              "name": "Rich Buckler",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7231",
+              "name": "Michael Golden",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+              "name": "John Buscema",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3169",
+              "name": "Rob Carosella",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1828",
+              "name": "Carl Gafford",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/965",
+              "name": "Ed Hannigan",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1310",
+              "name": "Mary Jo Duffy",
+              "role": "editor"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2291/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+              "name": "She-Hulk (Jennifer Walters)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 50,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2291/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30641",
+              "name": "Cover #30641",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30642",
+              "name": "\"The Shadow of Death!\"",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30643",
+              "name": "Cover #30643",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30644",
+              "name": "War of--the Word!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30656",
+              "name": "Cover #30656",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30657",
+              "name": "The She-Hulk Lives",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30955",
+              "name": "Cover #30955",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30956",
+              "name": "Reason and Rage!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30957",
+              "name": "Cover #30957",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30958",
+              "name": "Through the Crystal!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30959",
+              "name": "Peril on a Subatomic Planet!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30960",
+              "name": "Life In the Bloodstream",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30961",
+              "name": "Cover #30961",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30962",
+              "name": "Delusions",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30963",
+              "name": "Cover #30963",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30964",
+              "name": "The Zapping of the She-Hulk",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30965",
+              "name": "Cover #30965",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30966",
+              "name": "Make Way For the Man-Elephant",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30967",
+              "name": "Cover #30967",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30968",
+              "name": "When Favors Come Due!",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 25,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2291/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15256",
+              "name": "Savage She-Hulk (1980) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15267",
+              "name": "Savage She-Hulk (1980) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15274",
+              "name": "Savage She-Hulk (1980) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15275",
+              "name": "Savage She-Hulk (1980) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15276",
+              "name": "Savage She-Hulk (1980) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15277",
+              "name": "Savage She-Hulk (1980) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15278",
+              "name": "Savage She-Hulk (1980) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15279",
+              "name": "Savage She-Hulk (1980) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15280",
+              "name": "Savage She-Hulk (1980) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15257",
+              "name": "Savage She-Hulk (1980) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15258",
+              "name": "Savage She-Hulk (1980) #11"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15259",
+              "name": "Savage She-Hulk (1980) #12"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15260",
+              "name": "Savage She-Hulk (1980) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15261",
+              "name": "Savage She-Hulk (1980) #14"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15262",
+              "name": "Savage She-Hulk (1980) #15"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15263",
+              "name": "Savage She-Hulk (1980) #16"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15264",
+              "name": "Savage She-Hulk (1980) #17"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15265",
+              "name": "Savage She-Hulk (1980) #18"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15266",
+              "name": "Savage She-Hulk (1980) #19"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15268",
+              "name": "Savage She-Hulk (1980) #20"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2291/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      }
+    ]
+  }
+}

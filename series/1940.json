@@ -1,0 +1,915 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "ac7226538723f417c9ed5ff38995e5d169657b06",
+  "data": {
+    "offset": 0,
+    "limit": 100,
+    "total": 3,
+    "count": 3,
+    "results": [
+      {
+        "id": 4774,
+        "title": "Daring Comics (1940 - 1942)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4774",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/4774/daring_comics_1940_-_1942?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1940,
+        "endYear": 1942,
+        "rating": "",
+        "type": "",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/4774/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1450",
+              "name": "Ken Bald",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1456",
+              "name": "Jack Binder",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1440",
+              "name": "Al Bellman",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1439",
+              "name": "Al Gabriele",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/949",
+              "name": "Alex Schomburg",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1181",
+              "name": "Mike Sekowsky",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1453",
+              "name": "Allen Simon",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1445",
+              "name": "Vince Fago",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1454",
+              "name": "Jimmy Thompson",
+              "role": "letterer"
+            }
+          ],
+          "returned": 10
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/4774/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+              "name": "Sub-Mariner"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 19,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/4774/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46739",
+              "name": "Cover #46739",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46740",
+              "name": "Death From the Unknown",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46741",
+              "name": "Horror Rides the Rails",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46742",
+              "name": "The Devil's Doorway",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46743",
+              "name": "Cover #46743",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46744",
+              "name": "Payment In Death",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46745",
+              "name": "The Stolen Republic",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46746",
+              "name": "Floating Death",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46747",
+              "name": "Cover #46747",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46748",
+              "name": "Home Front Renegades",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46749",
+              "name": "Diamond of Death",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46750",
+              "name": "One Good Turn",
+              "type": "text story"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46751",
+              "name": "The Devil's Murder Web",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46752",
+              "name": "The Vanishing Ghost Gun",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46753",
+              "name": "Cover #46753",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46754",
+              "name": "The Nazis Take Little America",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46755",
+              "name": "The Nazi Wolf",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46756",
+              "name": "Messengers of Satan",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46757",
+              "name": "The Bloody Butcher of Istanbul",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 19
+        },
+        "comics": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/4774/comics",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/4774/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 4776,
+        "title": "Daring Mystery Comics (1940 - 1942)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4776",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/4776/daring_mystery_comics_1940_-_1942?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1940,
+        "endYear": 1942,
+        "rating": "",
+        "type": "ongoing",
+        "modified": "2017-03-27T16:52:45-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4bb62b13812b0",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 49,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/4776/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1452",
+              "name": "Vince Alascia",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7340",
+              "name": "Larry Antonette",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1601",
+              "name": "Dick Briefer",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1439",
+              "name": "Al Gabriele",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1489",
+              "name": "Jack Alderman",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1456",
+              "name": "Jack Binder",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/408",
+              "name": "Carl Burgos",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7339",
+              "name": "Larry Antonette Dean Carr",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5348",
+              "name": "Al Carreno",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7349",
+              "name": "Sam Cooper",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7351",
+              "name": "Henry Fletcher",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7346",
+              "name": "Russell A. Bankson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1514",
+              "name": "Frank Borth",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7343",
+              "name": "Joe Cal Cagno",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5345",
+              "name": "John Compton",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1305",
+              "name": "Steve Dahlman",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7357",
+              "name": "Harry Douglas",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7352",
+              "name": "Rex Evans",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+              "name": "Bill Everett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1437",
+              "name": "Ray Gill",
+              "role": "writer"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/4776/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009297",
+              "name": "Falcon"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009427",
+              "name": "Marvel Boy"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011417",
+              "name": "Marvex"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011419",
+              "name": "Phantom Reporter"
+            }
+          ],
+          "returned": 4
+        },
+        "stories": {
+          "available": 77,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/4776/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46662",
+              "name": "Cover #46662",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46663",
+              "name": "The Fantastic Thriller of the Walking Corpses",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46664",
+              "name": "Soldier of Fortune",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46665",
+              "name": "Robin Hood of the Range",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46666",
+              "name": "[The Menace of Mr. Muro]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46667",
+              "name": "[The Thundering Terror of Gold Creek]",
+              "type": "text story"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46668",
+              "name": "[The Football Fixing Scheme]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46669",
+              "name": "Case of Perrone",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46670",
+              "name": "[The Rotterdam Run]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46671",
+              "name": "Cover #46671",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46672",
+              "name": "[Voyage To Sunev]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46673",
+              "name": "[Origin of the Phantom Bullet]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46674",
+              "name": "[Origin of Trojak]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46675",
+              "name": "Six-Gun Dynamite",
+              "type": "text story"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46676",
+              "name": "[Introducing K-4]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46677",
+              "name": "Who In Reality Is Mr. \"E\"?",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46678",
+              "name": "[Enter the Laughing Mask]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46679",
+              "name": "Cover #46679",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46680",
+              "name": "[The Escape of Red Corker]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/46681",
+              "name": "In the Miracle City",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/4776/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21150",
+              "name": "Daring Mystery Comics (1940) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21151",
+              "name": "Daring Mystery Comics (1940) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21152",
+              "name": "Daring Mystery Comics (1940) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21153",
+              "name": "Daring Mystery Comics (1940) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21154",
+              "name": "Daring Mystery Comics (1940) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21155",
+              "name": "Daring Mystery Comics (1940) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21156",
+              "name": "Daring Mystery Comics (1940) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21157",
+              "name": "Daring Mystery Comics (1940) #8"
+            }
+          ],
+          "returned": 8
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/4776/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 2020,
+        "title": "Human Torch (1940 - 1954)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2020",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/2020/human_torch_1940_-_1954?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1940,
+        "endYear": 1954,
+        "rating": "",
+        "type": "ongoing",
+        "modified": "2014-04-18T17:40:02-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 43,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2020/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1452",
+              "name": "Vince Alascia",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1489",
+              "name": "Jack Alderman",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1450",
+              "name": "Ken Bald",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1440",
+              "name": "Al Bellman",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1456",
+              "name": "Jack Binder",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1446",
+              "name": "Sid Greene",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1455",
+              "name": "Maurice Gutwirth",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1358",
+              "name": "Al Avison",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/263",
+              "name": "Dick Ayers",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1461",
+              "name": "Frank Bolle",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1460",
+              "name": "Harold DeLay",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1470",
+              "name": "Steve Douglas",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1439",
+              "name": "Al Gabriele",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1272",
+              "name": "Carmine Infantino",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/408",
+              "name": "Carl Burgos",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+              "name": "Bill Everett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1469",
+              "name": "Bill Finger",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1437",
+              "name": "Ray Gill",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1488",
+              "name": "Ray Houlihan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1445",
+              "name": "Vince Fago",
+              "role": "editor"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2020/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009297",
+              "name": "Falcon"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009468",
+              "name": "Namora"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009492",
+              "name": "Patriot"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535",
+              "name": "Red Skull"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009605",
+              "name": "Spencer Smythe"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+              "name": "Sub-Mariner"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+              "name": "Winter Soldier"
+            }
+          ],
+          "returned": 9
+        },
+        "stories": {
+          "available": 205,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2020/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8829",
+              "name": "Cover #8829",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8830",
+              "name": "Death Dance of the Atlantic",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8831",
+              "name": "Slave Driver",
+              "type": "text story"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8832",
+              "name": "humor filler",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8833",
+              "name": "Vacation",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8834",
+              "name": "humor filler",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8835",
+              "name": "Cover #8835",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8836",
+              "name": "Blackout for Doom",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8837",
+              "name": "Mystery of the Blue Diamond",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8838",
+              "name": "Fighting Man",
+              "type": "text story"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8839",
+              "name": "Hitler's Hoax",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8840",
+              "name": "Cover #8840",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8841",
+              "name": "Riding a Rocket to Doom",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8842",
+              "name": "Unmask a Gestapo Rabbit",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8843",
+              "name": "Team Mates",
+              "type": "text story"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8844",
+              "name": "Lair of the Pig Boats",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8845",
+              "name": "Cover #8845",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8846",
+              "name": "The End",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8847",
+              "name": "Purple Ghost and His Reign of Terror",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8848",
+              "name": "Men Are Afraid",
+              "type": "text story"
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 35,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2020/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8878",
+              "name": "Human Torch (1940) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8889",
+              "name": "Human Torch (1940) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8899",
+              "name": "Human Torch (1940) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8902",
+              "name": "Human Torch (1940) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8903",
+              "name": "Human Torch (1940) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8904",
+              "name": "Human Torch (1940) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8905",
+              "name": "Human Torch (1940) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8868",
+              "name": "Human Torch (1940) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8869",
+              "name": "Human Torch (1940) #11"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8870",
+              "name": "Human Torch (1940) #12"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8871",
+              "name": "Human Torch (1940) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8872",
+              "name": "Human Torch (1940) #14"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8873",
+              "name": "Human Torch (1940) #15"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8874",
+              "name": "Human Torch (1940) #16"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8875",
+              "name": "Human Torch (1940) #17"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8876",
+              "name": "Human Torch (1940) #18"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8877",
+              "name": "Human Torch (1940) #19"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8879",
+              "name": "Human Torch (1940) #20"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8880",
+              "name": "Human Torch (1940) #21"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8881",
+              "name": "Human Torch (1940) #22"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2020/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      }
+    ]
+  }
+}

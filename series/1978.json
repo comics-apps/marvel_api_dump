@@ -1,0 +1,1023 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "0a9a5360bb199a62f56bc73748e6b21cde941121",
+  "data": {
+    "offset": 0,
+    "limit": 100,
+    "total": 3,
+    "count": 3,
+    "results": [
+      {
+        "id": 2006,
+        "title": "Devil Dinosaur (1978)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2006",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/2006/devil_dinosaur_1978?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1978,
+        "endYear": 1978,
+        "rating": "",
+        "type": "",
+        "modified": "2016-08-24T13:33:35-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/57bdda3364be2",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2006/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2755",
+              "name": "Mike Royer",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1240",
+              "name": "Joe Sinnott",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1747",
+              "name": "Petra Goldberg",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2053",
+              "name": "George Roussos",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+              "name": "Jack Kirby",
+              "role": "editor"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2006/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009588",
+              "name": "Sif"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+              "name": "Thor"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 20,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2006/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20880",
+              "name": "Cover #20880",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20881",
+              "name": "Devil Dinosaur and Moon-Boy",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20882",
+              "name": "[War With The Spider God!]",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20883",
+              "name": "Devil's War!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20884",
+              "name": "\"There Were Giants In Those Days!\"",
+              "type": "text article"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20885",
+              "name": "\"Thor Meets A Glutton For Gold\"",
+              "type": "ad"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20886",
+              "name": "Cover #20886",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20887",
+              "name": "Giant",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20888",
+              "name": "Cover #20888",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20889",
+              "name": "Object In The Sky",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20890",
+              "name": "Cover #20890",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20891",
+              "name": "Journey To The Centre Of The Ants!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20892",
+              "name": "Cover #20892",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20893",
+              "name": "Eev!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20894",
+              "name": "Cover #20894",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20895",
+              "name": "Demon-Tree!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20896",
+              "name": "Cover #20896",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20897",
+              "name": "Dino-Riders",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20898",
+              "name": "The Lizard's Last Stand!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20899",
+              "name": "The Witch and the Warp",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2006/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8531",
+              "name": "Devil Dinosaur (1978) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8532",
+              "name": "Devil Dinosaur (1978) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8533",
+              "name": "Devil Dinosaur (1978) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8534",
+              "name": "Devil Dinosaur (1978) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8535",
+              "name": "Devil Dinosaur (1978) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8536",
+              "name": "Devil Dinosaur (1978) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8537",
+              "name": "Devil Dinosaur (1978) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8538",
+              "name": "Devil Dinosaur (1978) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8539",
+              "name": "Devil Dinosaur (1978) #9"
+            }
+          ],
+          "returned": 9
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2006/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 20674,
+        "title": "Power Man and Iron Fist (1978 - 1986)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/20674",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/20674/power_man_and_iron_fist_1978_-_1986?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1978,
+        "endYear": 1986,
+        "rating": "",
+        "type": "ongoing",
+        "modified": "2016-09-12T16:44:29-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/57c75f218c51f",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 39,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/20674/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+              "name": "Jack Abel",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6257",
+              "name": "Ernie Chan",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/46",
+              "name": "Dave Cockrum",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+              "name": "John Costanza",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1778",
+              "name": "Dan Crespi",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1311",
+              "name": "Lee Elias",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+              "name": "Frank Giacoia",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/42",
+              "name": "Larry Hama",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/570",
+              "name": "Klaus Janson",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9126",
+              "name": "Mike Barr",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+              "name": "Kurt Busiek",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1297",
+              "name": "Jo Duffy",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1310",
+              "name": "Mary Jo Duffy",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1293",
+              "name": "Steven Grant",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/965",
+              "name": "Ed Hannigan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+              "name": "Sal Buscema",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2050",
+              "name": "Denys Cowan",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12518",
+              "name": "Kerry Gammill",
+              "role": "penciller"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 19,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/20674/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010676",
+              "name": "Colleen Wing"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009470",
+              "name": "Foggy Nelson"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009334",
+              "name": "Hammerhead"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010759",
+              "name": "Heroes For Hire"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+              "name": "Iron Fist (Danny Rand)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011404",
+              "name": "Jeryn Hogarth"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009215",
+              "name": "Luke Cage"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010682",
+              "name": "Misty Knight"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009449",
+              "name": "Mole Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009452",
+              "name": "Moon Knight"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009554",
+              "name": "Sabretooth"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011373",
+              "name": "Sons of the Tiger"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009668",
+              "name": "Thunderbolt (Bill Carver)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009687",
+              "name": "Unus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010372",
+              "name": "Warhawk (Mitchell Tanner)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 19
+        },
+        "stories": {
+          "available": 102,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/20674/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134995",
+              "name": "cover to Power Man and Iron Fist #50",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134996",
+              "name": "story to Power Man and Iron Fist #50",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134997",
+              "name": "cover to Power Man and Iron Fist #51",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134998",
+              "name": "story to Power Man and Iron Fist #51",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134999",
+              "name": "cover to Power Man and Iron Fist #52",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135000",
+              "name": "story to Power Man and Iron Fist #52",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135001",
+              "name": "cover to Power Man and Iron Fist #53",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135002",
+              "name": "story to Power Man and Iron Fist #53",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135003",
+              "name": "cover to Power Man and Iron Fist #54",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135004",
+              "name": "story to Power Man and Iron Fist #54",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135005",
+              "name": "cover to Power Man and Iron Fist #55",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135006",
+              "name": "story to Power Man and Iron Fist #55",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135007",
+              "name": "cover to Power Man and Iron Fist #56",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135008",
+              "name": "story to Power Man and Iron Fist #56",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135009",
+              "name": "cover to Power Man and Iron Fist #57",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135010",
+              "name": "story to Power Man and Iron Fist #57",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135011",
+              "name": "cover to Power Man and Iron Fist #58",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135012",
+              "name": "story to Power Man and Iron Fist #58",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135013",
+              "name": "cover to Power Man and Iron Fist #59",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/135014",
+              "name": "story to Power Man and Iron Fist #59",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 39,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/20674/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56357",
+              "name": "Power Man and Iron Fist (1978) #50"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56358",
+              "name": "Power Man and Iron Fist (1978) #51"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56359",
+              "name": "Power Man and Iron Fist (1978) #52"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56360",
+              "name": "Power Man and Iron Fist (1978) #53"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56361",
+              "name": "Power Man and Iron Fist (1978) #54"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56362",
+              "name": "Power Man and Iron Fist (1978) #55"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56363",
+              "name": "Power Man and Iron Fist (1978) #56"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56364",
+              "name": "Power Man and Iron Fist (1978) #57"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56365",
+              "name": "Power Man and Iron Fist (1978) #58"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56366",
+              "name": "Power Man and Iron Fist (1978) #59"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56367",
+              "name": "Power Man and Iron Fist (1978) #60"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56368",
+              "name": "Power Man and Iron Fist (1978) #61"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56369",
+              "name": "Power Man and Iron Fist (1978) #62"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56370",
+              "name": "Power Man and Iron Fist (1978) #63"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56371",
+              "name": "Power Man and Iron Fist (1978) #64"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56372",
+              "name": "Power Man and Iron Fist (1978) #65"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56373",
+              "name": "Power Man and Iron Fist (1978) #66"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56374",
+              "name": "Power Man and Iron Fist (1978) #67"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56375",
+              "name": "Power Man and Iron Fist (1978) #68"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56376",
+              "name": "Power Man and Iron Fist (1978) #69"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/20674/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      },
+      {
+        "id": 2073,
+        "title": "Spider-Woman (1978 - 1983)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2073",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/2073/spider-woman_1978_-_1983?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1978,
+        "endYear": 1983,
+        "rating": "",
+        "type": "",
+        "modified": "2016-12-16T15:04:12-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/5854488630506",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 81,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2073/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3372",
+              "name": "Parko",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+              "name": "Diana Albers",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+              "name": "Janice Chiang",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+              "name": "John Costanza",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1778",
+              "name": "Dan Crespi",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+              "name": "Terry Austin",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1288",
+              "name": "Jerry Bingham",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1251",
+              "name": "Brett Breeding",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3166",
+              "name": "Rick Bryant",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5823",
+              "name": "Danny Bulanadi",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2625",
+              "name": "Jon DAgostino",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2427",
+              "name": "Sam DeLaRosa",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1172",
+              "name": "Tony Dezuniga",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1394",
+              "name": "Bob Budiansky",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+              "name": "Sal Buscema",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+              "name": "John Byrne",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/46",
+              "name": "Dave Cockrum",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6986",
+              "name": "J. M. DeMatteis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1767",
+              "name": "Janice Cohen",
+              "role": "colorist"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2073/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011300",
+              "name": "High Evolutionary"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+              "name": "Nick Fury"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009608",
+              "name": "Spider-Woman (Jessica Drew)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010765",
+              "name": "Werewolf By Night"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 101,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2073/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20900",
+              "name": "Cover #20900",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20901",
+              "name": "A Future Uncertain",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20902",
+              "name": "Cover #20902",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20903",
+              "name": "Things That Go Flit In the Night",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20904",
+              "name": "Cover #20904",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20905",
+              "name": "And Dolly Makes Three",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20906",
+              "name": "Cover #20906",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20907",
+              "name": "The Last Tale of the Brothers Grimm",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20908",
+              "name": "Cover #20908",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20909",
+              "name": "Suddenly, the Shroud",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20910",
+              "name": "Cover #20910",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20911",
+              "name": "Cults and Robbers",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20912",
+              "name": "Cover #20912",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20913",
+              "name": "Into the Heart of Darkness",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20914",
+              "name": "Cover #20914",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20915",
+              "name": "All You Need Is Hate",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20916",
+              "name": "Cover #20916",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20917",
+              "name": "Jessica's Night Out",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20918",
+              "name": "Cover #20918",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/20919",
+              "name": "Sins of the Flesh",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "comics": {
+          "available": 50,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2073/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10935",
+              "name": "Spider-Woman (1978) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10946",
+              "name": "Spider-Woman (1978) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10957",
+              "name": "Spider-Woman (1978) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10968",
+              "name": "Spider-Woman (1978) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10979",
+              "name": "Spider-Woman (1978) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10981",
+              "name": "Spider-Woman (1978) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10982",
+              "name": "Spider-Woman (1978) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10983",
+              "name": "Spider-Woman (1978) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10984",
+              "name": "Spider-Woman (1978) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10936",
+              "name": "Spider-Woman (1978) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10937",
+              "name": "Spider-Woman (1978) #11"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10938",
+              "name": "Spider-Woman (1978) #12"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10939",
+              "name": "Spider-Woman (1978) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10940",
+              "name": "Spider-Woman (1978) #14"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10941",
+              "name": "Spider-Woman (1978) #15"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10942",
+              "name": "Spider-Woman (1978) #16"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10943",
+              "name": "Spider-Woman (1978) #17"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10944",
+              "name": "Spider-Woman (1978) #18"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10945",
+              "name": "Spider-Woman (1978) #19"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10947",
+              "name": "Spider-Woman (1978) #20"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/2073/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      }
+    ]
+  }
+}

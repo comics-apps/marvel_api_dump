@@ -1,0 +1,169 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "617c4e15ef817e9a34fde9b7ab0f7551008aafa7",
+  "data": {
+    "offset": 0,
+    "limit": 100,
+    "total": 1,
+    "count": 1,
+    "results": [
+      {
+        "id": 16425,
+        "title": "Black Knight (1955 - 1956)",
+        "description": null,
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16425",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/series/16425/black_knight_1955_-_1956?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ],
+        "startYear": 1955,
+        "endYear": 1956,
+        "rating": "",
+        "type": "limited",
+        "modified": "2016-06-21T15:41:17-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/57699853145cb",
+          "extension": "jpg"
+        },
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/16425/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1602",
+              "name": "Fred Kida",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1576",
+              "name": "Joe Maneely",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1256",
+              "name": "Syd Shores",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/16425/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009186",
+              "name": "Black Knight (Sir Percy of Scandia)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/16425/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134013",
+              "name": "interior to Black Knight (1955) #1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134014",
+              "name": "cover to Black Knight (1955) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134017",
+              "name": "cover to Black Knight (1955) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134018",
+              "name": "interior to Black Knight (1955) #2",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134019",
+              "name": "interior to Black Knight (1955) #3",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134020",
+              "name": "cover to Black Knight (1955) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134021",
+              "name": "interior of Black Knight (1955) #4",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134022",
+              "name": "cover to Black Knight (1955) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134023",
+              "name": "interior to Black Knight (1955) #5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/134024",
+              "name": "cover to Black Knight (1955) #5",
+              "type": "cover"
+            }
+          ],
+          "returned": 10
+        },
+        "comics": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/16425/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/43373",
+              "name": "Black Knight (1955) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/43374",
+              "name": "Black Knight (1955) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/43375",
+              "name": "Black Knight (1955) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/43376",
+              "name": "Black Knight (1955) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/43377",
+              "name": "Black Knight (1955) #5"
+            }
+          ],
+          "returned": 5
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/series/16425/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "next": null,
+        "previous": null
+      }
+    ]
+  }
+}
