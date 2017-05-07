@@ -1,0 +1,1231 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "d60d47b68f7a028e3a4d334f6245d5610455c99c",
+  "data": {
+    "offset": 6100,
+    "limit": 100,
+    "total": 6109,
+    "count": 9,
+    "results": [
+      {
+        "id": 9328,
+        "firstName": "Rick",
+        "middleName": "",
+        "lastName": "Zombo",
+        "suffix": "",
+        "fullName": "Rick Zombo",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9328",
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/9328/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/53990",
+              "name": "Star Wars Tales (1999) #12"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/9328/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20119",
+              "name": "Star Wars Tales (1999 - 2005)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/9328/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/119207",
+              "name": "story from Star Wars Tales (1999) #12",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/9328/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/9328/rick_zombo?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ]
+      },
+      {
+        "id": 9580,
+        "firstName": "Tonci",
+        "middleName": "",
+        "lastName": "Zonjic",
+        "suffix": "",
+        "fullName": "Tonci Zonjic",
+        "modified": "2010-11-23T09:48:07-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bb44823e7fee",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9580",
+        "comics": {
+          "available": 22,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/9580/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/23075",
+              "name": "Daredevil (1998) #115"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/41336",
+              "name": "Daredevil by Ed Brubaker & Michael Lark Ultimate Collection Book 3 TPB (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/24059",
+              "name": "Dark Reign: The Cabal (2009) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/36732",
+              "name": "Heralds (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/39890",
+              "name": "Heralds (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/30241",
+              "name": "Heralds (2010) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/33779",
+              "name": "Heralds (2010) #1 (VARIANT)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/30242",
+              "name": "Heralds (2010) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/30243",
+              "name": "Heralds (2010) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/30244",
+              "name": "Heralds (2010) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/30245",
+              "name": "Heralds (2010) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/17635",
+              "name": "Immortal Iron Fist (2006) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21008",
+              "name": "Immortal Iron Fist (2006) #14"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/23607",
+              "name": "Immortal Iron Fist (2006) #23"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/47734",
+              "name": "Immortal Iron Fist: The Complete Collection (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/28804",
+              "name": "Marvel Divas (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/25926",
+              "name": "Marvel Divas (2009) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/25927",
+              "name": "Marvel Divas (2009) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/25928",
+              "name": "Marvel Divas (2009) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/25929",
+              "name": "Marvel Divas (2009) #4"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 11,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/9580/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/449",
+              "name": "Daredevil (1998 - 2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/15363",
+              "name": "Daredevil by Ed Brubaker & Michael Lark Ultimate Collection Book 3 TPB (2011 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/7239",
+              "name": "Dark Reign: The Cabal (2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/13065",
+              "name": "Heralds (2010 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/9969",
+              "name": "Heralds (2010)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1140",
+              "name": "Immortal Iron Fist (2006 - 2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/18023",
+              "name": "Immortal Iron Fist: The Complete Collection (2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/9190",
+              "name": "Marvel Divas (2010 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/8100",
+              "name": "Marvel Divas (2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/9191",
+              "name": "Siege Prelude (2010 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20437",
+              "name": "The Astonishing Ant-Man (2015 - Present)"
+            }
+          ],
+          "returned": 11
+        },
+        "stories": {
+          "available": 21,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/9580/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/36901",
+              "name": "THE IMMORTAL IRON FIST (2006) #13",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/45601",
+              "name": "THE IMMORTAL IRON FIST (2006) #14",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51180",
+              "name": "Lady Bullseye 5 of 5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/52274",
+              "name": "2 of 4",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53347",
+              "name": "1 of 1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/57138",
+              "name": "Interior #57138",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/57140",
+              "name": "Interior #57140",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/57142",
+              "name": "Interior #57142",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/57144",
+              "name": "Interior #57144",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/62804",
+              "name": "Interior #62804",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/64915",
+              "name": "Interior #64915",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/69309",
+              "name": "Interior #69309",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/69311",
+              "name": "Interior #69311",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/69313",
+              "name": "Interior #69313",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/69315",
+              "name": "Interior #69315",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/69317",
+              "name": "Interior #69317",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/75769",
+              "name": "Interior #75769",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/81851",
+              "name": "Interior #81851",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93543",
+              "name": "Interior #93543",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/107743",
+              "name": "story from Immortal Iron Fist: The Complete Collection (2013)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/9580/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+              "name": "Dark Reign"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/273",
+              "name": "Siege"
+            }
+          ],
+          "returned": 2
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/9580/tonci_zonjic?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ]
+      },
+      {
+        "id": 12390,
+        "firstName": "Jim",
+        "middleName": "",
+        "lastName": "Zub",
+        "suffix": "",
+        "fullName": "Jim Zub",
+        "modified": "2015-06-16T10:57:45-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12390",
+        "comics": {
+          "available": 30,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/12390/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/62507",
+              "name": "Avengers (2016) #1.1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/60551",
+              "name": "Avengers K Book 4: Secret Invasion (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/50690",
+              "name": "Figment (2014) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/50691",
+              "name": "Figment (2014) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/50692",
+              "name": "Figment (2014) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/50693",
+              "name": "Figment (2014) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/50694",
+              "name": "Figment (2014) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/50650",
+              "name": "Figment (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/54737",
+              "name": "Figment 2 (2015) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57490",
+              "name": "Figment 2 (2015) #1 (Christopher Action Figure Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57491",
+              "name": "Figment 2 (2015) #1 (Atencio Classic Disney Image Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/54739",
+              "name": "Figment 2 (2015) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/56884",
+              "name": "Figment 2 (2015) #2 (Christopher Action Figure Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/54740",
+              "name": "Figment 2 (2015) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/54741",
+              "name": "Figment 2 (2015) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/54742",
+              "name": "Figment 2 (2015) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/50830",
+              "name": "Pirate's Booty & The Avengers (2014) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57234",
+              "name": "Thunderbolts Vol. 1: There Is No High Road (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57233",
+              "name": "Thunderbolts (2016) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57236",
+              "name": "Thunderbolts (2016) #2"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/12390/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22547",
+              "name": "Avengers (2016 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22380",
+              "name": "Avengers K Book 4: Secret Invasion (2017)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/18980",
+              "name": "Figment (2014 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/18950",
+              "name": "Figment (2014)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20256",
+              "name": "Figment 2 (2015 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/19022",
+              "name": "Pirate's Booty & The Avengers (2014)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20884",
+              "name": "Thunderbolts (2016 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20885",
+              "name": "Thunderbolts Vol. 1: There Is No High Road (2016)"
+            }
+          ],
+          "returned": 8
+        },
+        "stories": {
+          "available": 37,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/12390/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/113382",
+              "name": "story from Disney Kingdoms: Figment (2014)",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/113448",
+              "name": "story from Disney Kingdoms: Figment (2014) #1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/113450",
+              "name": "story from Disney Kingdoms: Figment (2014) #2",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/113452",
+              "name": "story from Disney Kingdoms: Figment (2014) #3",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/113454",
+              "name": "story from Disney Kingdoms: Figment (2014) #4",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/113456",
+              "name": "story from Disney Kingdoms: Figment (2014) #5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/113665",
+              "name": "PIRATEâ€™S BOOTY & THE AVENGERS #1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/120696",
+              "name": "story from Figment 2 (2015) #1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/120700",
+              "name": "story from Figment 2 (2015) #2",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/120702",
+              "name": "story from Figment 2 (2015) #3",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/120704",
+              "name": "story from Figment 2 (2015) #4",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/120706",
+              "name": "story from Figment 2 (2015) #5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/124586",
+              "name": "story from Figment 2 (2015) #2 (CHRISTOPHER ACTION FIGURE VARIANT)",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125284",
+              "name": "story from Thunderbolts (2016) #1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125286",
+              "name": "story from Thunderbolts (2016)",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125290",
+              "name": "story from Thunderbolts (2016) #2",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125294",
+              "name": "story from Thunderbolts (2016) #3",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125296",
+              "name": "story from Thunderbolts (2016) #4",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125298",
+              "name": "story from Thunderbolts (2016) #5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125300",
+              "name": "story from Thunderbolts (2016) #6",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/12390/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/12390/jim_zub?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ]
+      },
+      {
+        "id": 5890,
+        "firstName": "Guillermo",
+        "middleName": "",
+        "lastName": "Zubiaga",
+        "suffix": "",
+        "fullName": "Guillermo Zubiaga",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5890",
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/5890/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18048",
+              "name": "X-Force (1991) #79"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18050",
+              "name": "X-Force (1991) #80"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18051",
+              "name": "X-Force (1991) #81"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/5890/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3633",
+              "name": "X-Force (1991 - 2004)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/5890/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38383",
+              "name": "Set My Soul On Fire",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38389",
+              "name": "The Fire Within",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/38391",
+              "name": "Hot Lava",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/5890/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/5890/guillermo_zubiaga?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ]
+      },
+      {
+        "id": 12497,
+        "firstName": "Jim",
+        "middleName": "",
+        "lastName": "Zubkavich",
+        "suffix": "",
+        "fullName": "Jim Zubkavich",
+        "modified": "2015-01-26T12:02:22-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12497",
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/12497/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/54738",
+              "name": "Figment 2: Legacy of Imagination (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/12497/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20257",
+              "name": "Figment 2: Legacy of Imagination (2016)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/12497/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/118550",
+              "name": "Child Life story",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/120698",
+              "name": "story from Figment 2 (2016)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/12497/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/12497/jim_zubkavich?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ]
+      },
+      {
+        "id": 4327,
+        "firstName": "Michael",
+        "middleName": "",
+        "lastName": "Zulli",
+        "suffix": "",
+        "fullName": "Michael Zulli",
+        "modified": "2007-01-01T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4327",
+        "comics": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4327/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/48299",
+              "name": "Spider-Man Firsts (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/53991",
+              "name": "Star Wars Tales (1999) #13"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12102",
+              "name": "Webspinners: Tales of Spider-Man (1999) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12112",
+              "name": "Webspinners: Tales of Spider-Man (1999) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12113",
+              "name": "Webspinners: Tales of Spider-Man (1999) #3"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4327/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/18303",
+              "name": "Spider-Man Firsts (2014)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20119",
+              "name": "Star Wars Tales (1999 - 2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2093",
+              "name": "Webspinners: Tales of Spider-Man (1999 - 2000)"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 18,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4327/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/25715",
+              "name": "[Cover A]",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/25716",
+              "name": "[Cover B]",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/25718",
+              "name": "\"...As Dreams are Made on...\", Part 1 of 3: Crash and Burn",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/25752",
+              "name": "[Cover A]",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/25754",
+              "name": "\"...As Dreams are Made on...\", Part 2 of 3: In The Nightmare Factory",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/25755",
+              "name": "Next Issue",
+              "type": "promo"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/25756",
+              "name": "Cover #25756",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/25757",
+              "name": "\"...As Dreams are Made on...\", Part 3 of 3: Wake Up Call",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28497",
+              "name": "[Cover A]",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28498",
+              "name": "[Cover B]",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28500",
+              "name": "\"...As Dreams are Made on...\", Part 1 of 3: Crash and Burn",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28534",
+              "name": "[Cover A]",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28536",
+              "name": "\"...As Dreams are Made on...\", Part 2 of 3: In The Nightmare Factory",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28537",
+              "name": "Next Issue",
+              "type": "promo"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28538",
+              "name": "Cover #28538",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28539",
+              "name": "\"...As Dreams are Made on...\", Part 3 of 3: Wake Up Call",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/108786",
+              "name": "story from Spider-Man Firsts (2014)",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/119209",
+              "name": "story from Star Wars Tales (1999) #13",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 18
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/4327/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/4327/michael_zulli?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ]
+      },
+      {
+        "id": 3697,
+        "firstName": "Joel",
+        "middleName": "",
+        "lastName": "Zulueta",
+        "suffix": "",
+        "fullName": "Joel Zulueta",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3697",
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3697/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10017",
+              "name": "Marvel Comics Presents (1988) #105"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/10020",
+              "name": "Marvel Comics Presents (1988) #108"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/18918",
+              "name": "Quasar (1989) #30"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3697/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2039",
+              "name": "Marvel Comics Presents (1988 - 1995)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3695",
+              "name": "Quasar (1989 - 1994)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3697/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/22714",
+              "name": "Crystal Quest",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/22732",
+              "name": "Into the Abyss [I, Thanos]",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/40456",
+              "name": "Calling All Lasers",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/51953",
+              "name": "Calling All Lasers",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/3697/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+              "name": "Infinity War"
+            }
+          ],
+          "returned": 1
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/3697/joel_zulueta?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ]
+      },
+      {
+        "id": 6505,
+        "firstName": "Antony",
+        "middleName": "De",
+        "lastName": "Zuniga",
+        "suffix": "",
+        "fullName": "Antony De Zuniga",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6505",
+        "comics": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6505/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19758",
+              "name": "Marvel Preview (1977) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19769",
+              "name": "Marvel Preview (1977) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19775",
+              "name": "Marvel Preview (1977) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19778",
+              "name": "Marvel Preview (1977) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19781",
+              "name": "Marvel Preview (1977) #9"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19759",
+              "name": "Marvel Preview (1977) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19765",
+              "name": "Marvel Preview (1977) #16"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19768",
+              "name": "Marvel Preview (1977) #19"
+            }
+          ],
+          "returned": 8
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6505/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3718",
+              "name": "Marvel Preview (1977 - 1981)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 13,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6505/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/41896",
+              "name": "ad (next issue)",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/41900",
+              "name": "Thor The Mighty!",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/41956",
+              "name": "The Hero-Killer Principle!",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/41959",
+              "name": "Death By Disco!",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/41972",
+              "name": "Riders Beyond The Sunrise (Part 1)",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/41973",
+              "name": "Beyond The River Of The Dead (Part 2)",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/41980",
+              "name": "Death Sentence",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42040",
+              "name": "The Night Josie Harper Died! (Part 1)",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42041",
+              "name": "Trail Of Blood, Trail Of Tears (Part 2)",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42067",
+              "name": "First Report Of Dr. Watson: (Part6)",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42068",
+              "name": "Second Report Of Dr. Watson: The Light Upon The Moor (Part7)",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42069",
+              "name": "The Hell-Hound Strikes (Part8)",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42089",
+              "name": "Man-God!",
+              "type": ""
+            }
+          ],
+          "returned": 13
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/6505/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/6505/antony_de_zuniga?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ]
+      },
+      {
+        "id": 8235,
+        "firstName": "Christina",
+        "middleName": "",
+        "lastName": "Zuniga",
+        "suffix": "",
+        "fullName": "Christina Zuniga",
+        "modified": "2007-01-02T00:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8235",
+        "comics": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/8235/comics",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/8235/series",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/8235/stories",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/creators/8235/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/creators/8235/christina_zuniga?utm_campaign=apiRef&utm_source=e2972ae04a19bb82dd01e8524cc52173"
+          }
+        ]
+      }
+    ]
+  }
+}
