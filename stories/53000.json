@@ -1,0 +1,5972 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2017 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2017 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+  "etag": "a30b0ecf1009d8da7062fc13bc30a7459134a832",
+  "data": {
+    "offset": 53000,
+    "limit": 100,
+    "total": 87787,
+    "count": 100,
+    "results": [
+      {
+        "id": 66025,
+        "title": "CHAMPIONS CLASSIC VOL. 2 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66025",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66025/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66025/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66025/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1721",
+              "name": "Champions Classic Vol. 2 (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66025/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5785",
+              "name": "Champions Classic Vol. 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66025/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5785",
+          "name": "Champions Classic Vol. 2 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66026,
+        "title": "UNCANNY X-MEN OMNIBUS VOL. 1 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66026",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66026/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66026/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66026/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1723",
+              "name": "Uncanny X-Men Omnibus Vol. 1 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66026/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4100",
+              "name": "Uncanny X-Men Omnibus Vol. 1 (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66026/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4100",
+          "name": "Uncanny X-Men Omnibus Vol. 1 (Hardcover)"
+        }
+      },
+      {
+        "id": 66027,
+        "title": "DEATH'S HEAD 3.0 : UNNATURAL SELECTION 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66027",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66027/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66027/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66027/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1727",
+              "name": "Death's Head 3.0 : Unnatural Selection (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66027/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4458",
+              "name": "Death's Head 3.0 : Unnatural Selection (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66027/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4458",
+          "name": "Death's Head 3.0 : Unnatural Selection (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66028,
+        "title": "MARVEL MASTERWORKS: GOLDEN AGE MARVEL COMICS VOL.2 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66028",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66028/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66028/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66028/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1730",
+              "name": "Marvel Masterworks: Golden Age Marvel Comics Vol.2 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66028/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3973",
+              "name": "Marvel Masterworks: Golden Age Marvel Comics Vol.2 (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66028/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/3973",
+          "name": "Marvel Masterworks: Golden Age Marvel Comics Vol.2 (Hardcover)"
+        }
+      },
+      {
+        "id": 66029,
+        "title": "MARVEL MASTERWORKS: RAWHIDE KID VOL. 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66029",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66029/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66029/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66029/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1732",
+              "name": "Marvel Masterworks: Rawhide Kid Vol. (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66029/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4302",
+              "name": "Marvel Masterworks: Rawhide Kid Vol. (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66029/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4302",
+          "name": "Marvel Masterworks: Rawhide Kid Vol. (Hardcover)"
+        }
+      },
+      {
+        "id": 66030,
+        "title": "GHOST RIDER: ROAD TO DAMNATION 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66030",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66030/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66030/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66030/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1735",
+              "name": "Ghost Rider: Road to Damnation (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66030/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5787",
+              "name": "Ghost Rider: Road to Damnation (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66030/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5787",
+          "name": "Ghost Rider: Road to Damnation (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66031,
+        "title": "MARVEL MONSTERS 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66031",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66031/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66031/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66031/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1742",
+              "name": "Marvel Monsters (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66031/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3573",
+              "name": "Marvel Monsters (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66031/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/3573",
+          "name": "Marvel Monsters (Hardcover)"
+        }
+      },
+      {
+        "id": 66032,
+        "title": "AVENGERS AND POWER PACK ASSEMBLE! 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66032",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66032/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66032/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66032/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1748",
+              "name": "Avengers and Power Pack Assemble! (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66032/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5519",
+              "name": "Avengers and Power Pack Assemble! (Digest)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66032/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5519",
+          "name": "Avengers and Power Pack Assemble! (Digest)"
+        }
+      },
+      {
+        "id": 66033,
+        "title": "SPIDER-GIRL VOL. 6: TOO MANY SPIDERS! 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66033",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66033/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66033/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66033/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1749",
+              "name": "Spider-Girl Vol. 6: Too Many Spiders! (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66033/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4309",
+              "name": "Spider-Girl Vol. 6: Too Many Spiders! (Digest)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66033/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4309",
+          "name": "Spider-Girl Vol. 6: Too Many Spiders! (Digest)"
+        }
+      },
+      {
+        "id": 66034,
+        "title": "SPIDER-GIRL VOL. 7: BETRAYED 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66034",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66034/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66034/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66034/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1750",
+              "name": "Spider-Girl Vol. 7: Betrayed (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66034/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5383",
+              "name": "Spider-Girl Vol. 7: Betrayed (Digest)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66034/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5383",
+          "name": "Spider-Girl Vol. 7: Betrayed (Digest)"
+        }
+      },
+      {
+        "id": 66035,
+        "title": "MARVEL VISIONARIES: JOHN BUSCEMA 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66035",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66035/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66035/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66035/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1751",
+              "name": "Marvel Visionaries: John Buscema (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66035/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5648",
+              "name": "Marvel Visionaries: John Buscema (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66035/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5648",
+          "name": "Marvel Visionaries: John Buscema (Hardcover)"
+        }
+      },
+      {
+        "id": 66036,
+        "title": "ESSENTIAL CAPTAIN AMERICA VOL. 3 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66036",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66036/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66036/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66036/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1755",
+              "name": "Essential Captain America Vol. 3 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66036/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5384",
+              "name": "Essential Captain America Vol. 3 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66036/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5384",
+          "name": "Essential Captain America Vol. 3 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66037,
+        "title": "ULTIMATE X-MEN ULTIMATE COLLECTION BOOK 1 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66037",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66037/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66037/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66037/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1758",
+              "name": "Ultimate X-Men Ultimate Collection Book 1 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66037/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3991",
+              "name": "Ultimate X-Men Ultimate Collection Book 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66037/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/3991",
+          "name": "Ultimate X-Men Ultimate Collection Book 1 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66038,
+        "title": "FANTASTIC FOUR VISIONARIES: JOHN BYRNE VOL. 6 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66038",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66038/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66038/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66038/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1760",
+              "name": "Fantastic Four Visionaries: John Byrne Vol. 6 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66038/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5081",
+              "name": "Fantastic Four Visionaries: John Byrne Vol. 6 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66038/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5081",
+          "name": "Fantastic Four Visionaries: John Byrne Vol. 6 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66039,
+        "title": "NEW MUTANTS CLASSIC VOL. 1 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66039",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66039/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66039/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66039/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1763",
+              "name": "New Mutants Classic Vol. 1 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66039/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4114",
+              "name": "New Mutants Classic Vol. 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66039/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4114",
+          "name": "New Mutants Classic Vol. 1 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66040,
+        "title": "ESSENTIAL MARVEL HORROR VOL. 1 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66040",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66040/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66040/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66040/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1765",
+              "name": "Essential Marvel Horror Vol. 1 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66040/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5233",
+              "name": "Essential Marvel Horror Vol. 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66040/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5233",
+          "name": "Essential Marvel Horror Vol. 1 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66041,
+        "title": "CAPTAIN AMERICA AND THE FALCON: NOMAD 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66041",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66041/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66041/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66041/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1766",
+              "name": "Captain America and the Falcon: Nomad (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66041/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5660",
+              "name": "Captain America and the Falcon: Nomad (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66041/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5660",
+          "name": "Captain America and the Falcon: Nomad (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66042,
+        "title": "EXCALIBUR CLASSIC VOL. 2: TWO-EDGED SWORD 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66042",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66042/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66042/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66042/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1768",
+              "name": "Excalibur Classic Vol. 2: Two-Edged Sword (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66042/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4478",
+              "name": "Excalibur Classic Vol. 2: Two-Edged Sword (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66042/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4478",
+          "name": "Excalibur Classic Vol. 2: Two-Edged Sword (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66043,
+        "title": "SPIDER-MAN VISIONARIES: KURT BUSIEK VOL. 1 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66043",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66043/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66043/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66043/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1769",
+              "name": "Spider-Man Visionaries: Kurt Busiek Vol. 1 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66043/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4794",
+              "name": "Spider-Man Visionaries: Kurt Busiek Vol. 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66043/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4794",
+          "name": "Spider-Man Visionaries: Kurt Busiek Vol. 1 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66044,
+        "title": "ETERNALS BY JACK KIRBY 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66044",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66044/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66044/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66044/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1770",
+              "name": "Eternals by Jack Kirby (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66044/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4322",
+              "name": "Eternals by Jack Kirby (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66044/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4322",
+          "name": "Eternals by Jack Kirby (Hardcover)"
+        }
+      },
+      {
+        "id": 66045,
+        "title": "WOLVERINE: ENEMY OF THE STATE - THE COMPLETE EDITION 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66045",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66045/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66045/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66045/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1771",
+              "name": "Wolverine: Enemy of the State - The Complete Edition (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66045/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5236",
+              "name": "Wolverine: Enemy of the State - The Complete Edition (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66045/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5236",
+          "name": "Wolverine: Enemy of the State - The Complete Edition (Hardcover)"
+        }
+      },
+      {
+        "id": 66046,
+        "title": "X-MEN FAIRY TALES 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66046",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66046/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66046/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66046/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1772",
+              "name": "X-Men Fairy Tales (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66046/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5536",
+              "name": "X-Men Fairy Tales (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66046/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5536",
+          "name": "X-Men Fairy Tales (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66047,
+        "title": "MARVEL ADVENTURES FANTASTIC FOUR VOL. 4: COSMIC THREATS 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66047",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66047/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66047/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66047/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1773",
+              "name": "Marvel Adventures Fantastic Four Vol. 4: Cosmic Threats (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66047/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5346",
+              "name": "Marvel Adventures Fantastic Four Vol. 4: Cosmic Threats (Digest)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66047/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5346",
+          "name": "Marvel Adventures Fantastic Four Vol. 4: Cosmic Threats (Digest)"
+        }
+      },
+      {
+        "id": 66048,
+        "title": "X-MEN: MUTANT GENESIS 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66048",
+        "type": "cover",
+        "modified": "2017-04-04T16:38:25-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66048/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66048/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66048/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1774",
+              "name": "X-Men: Mutant Genesis (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66048/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3995",
+              "name": "X-Men: Mutant Genesis (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66048/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/3995",
+          "name": "X-Men: Mutant Genesis (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66049,
+        "title": "FRIENDLY NEIGHBORHOOD SPIDER-MAN VOL. 1: DERAILED 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66049",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66049/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66049/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66049/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1776",
+              "name": "Friendly Neighborhood Spider-Man Vol. 1: Derailed (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66049/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5090",
+              "name": "Friendly Neighborhood Spider-Man Vol. 1: Derailed (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66049/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5090",
+          "name": "Friendly Neighborhood Spider-Man Vol. 1: Derailed (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66050,
+        "title": "WOMEN OF MARVEL 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66050",
+        "type": "cover",
+        "modified": "2017-01-09T15:57:59-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66050/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66050/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66050/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1777",
+              "name": "Women of Marvel (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66050/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4802",
+              "name": "Women of Marvel (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66050/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4802",
+          "name": "Women of Marvel (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66051,
+        "title": "PUNISHER: VERY SPECIAL HOLIDAYS 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66051",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66051/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66051/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66051/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1778",
+              "name": "Punisher: Very Special Holidays (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66051/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5542",
+              "name": "Punisher: Very Special Holidays (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66051/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5542",
+          "name": "Punisher: Very Special Holidays (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66052,
+        "title": "IRON MAN: EXTREMIS 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66052",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66052/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66052/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66052/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1781",
+              "name": "Iron Man: Extremis (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66052/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5816",
+              "name": "Iron Man: Extremis (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66052/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5816",
+          "name": "Iron Man: Extremis (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66053,
+        "title": "MARVEL ZOMBIES 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66053",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66053/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66053/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66053/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1787",
+              "name": "Marvel Zombies (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66053/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4812",
+              "name": "Marvel Zombies (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66053/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4812",
+          "name": "Marvel Zombies (Hardcover)"
+        }
+      },
+      {
+        "id": 66054,
+        "title": "MARVEL WESTERNS 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66054",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66054/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66054/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66054/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1789",
+              "name": "Marvel Westerns (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66054/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5561",
+              "name": "Marvel Westerns (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66054/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5561",
+          "name": "Marvel Westerns (Hardcover)"
+        }
+      },
+      {
+        "id": 66055,
+        "title": "MS. MARVEL VOL. 1: BEST OF THE BEST PREMIERE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66055",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66055/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66055/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66055/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1790",
+              "name": "Ms. Marvel Vol. 1: Best of the Best Premiere (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66055/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5101",
+              "name": "Ms. Marvel Vol. 1: Best of the Best Premiere (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66055/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5101",
+          "name": "Ms. Marvel Vol. 1: Best of the Best Premiere (Hardcover)"
+        }
+      },
+      {
+        "id": 66056,
+        "title": "SQUADRON SUPREME VOL. 1: THE PRE-WAR YEARS PREMIERE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66056",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66056/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66056/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66056/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1791",
+              "name": "Squadron Supreme Vol. 1: The Pre-War Years Premiere (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66056/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5425",
+              "name": "Squadron Supreme Vol. 1: The Pre-War Years Premiere (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66056/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5425",
+          "name": "Squadron Supreme Vol. 1: The Pre-War Years Premiere (Hardcover)"
+        }
+      },
+      {
+        "id": 66057,
+        "title": "ULTIMATE X-MEN/FANTASTIC FOUR 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66057",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66057/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66057/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66057/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1794",
+              "name": "Ultimate X-Men/Fantastic Four (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66057/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4231",
+              "name": "Ultimate X-Men/Fantastic Four (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66057/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4231",
+          "name": "Ultimate X-Men/Fantastic Four (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66058,
+        "title": "GHOST RIDER VOL. 1: VICIOUS CYCLE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66058",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66058/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66058/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66058/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1797",
+              "name": "Ghost Rider Vol. 1: Vicious Cycle (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66058/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5825",
+              "name": "Ghost Rider Vol. 1: Vicious Cycle (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66058/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5825",
+          "name": "Ghost Rider Vol. 1: Vicious Cycle (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66059,
+        "title": "MARVEL HOLIDAY 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66059",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66059/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66059/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66059/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1798",
+              "name": "Marvel Holiday (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66059/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5431",
+              "name": "Marvel Holiday (Digest)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66059/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5431",
+          "name": "Marvel Holiday (Digest)"
+        }
+      },
+      {
+        "id": 66060,
+        "title": "MARVEL ADVENTURES THE AVENGERS VOL. 1: HEROES ASSEMBLED 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66060",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66060/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66060/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66060/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1800",
+              "name": "Marvel Adventures the Avengers Vol. 1: Heroes Assembled (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66060/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5264",
+              "name": "Marvel Adventures the Avengers Vol. 1: Heroes Assembled (Digest)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66060/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5264",
+          "name": "Marvel Adventures the Avengers Vol. 1: Heroes Assembled (Digest)"
+        }
+      },
+      {
+        "id": 66061,
+        "title": "MARVEL ADVENTURES SPIDER-MAN VOL. 5: MONSTERS ON THE PROWL 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66061",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66061/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66061/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66061/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1801",
+              "name": "Marvel Adventures Spider-Man Vol. 5: Monsters on the Prowl (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66061/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5830",
+              "name": "Marvel Adventures Spider-Man Vol. 5: Monsters on the Prowl (Digest)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66061/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5830",
+          "name": "Marvel Adventures Spider-Man Vol. 5: Monsters on the Prowl (Digest)"
+        }
+      },
+      {
+        "id": 66062,
+        "title": "SENSATIONAL SPIDER-MAN: FERAL PREMIERE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66062",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66062/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66062/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66062/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1803",
+              "name": "Sensational Spider-Man: Feral Premiere (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66062/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5268",
+              "name": "Sensational Spider-Man: Feral Premiere (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66062/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5268",
+          "name": "Sensational Spider-Man: Feral Premiere (Hardcover)"
+        }
+      },
+      {
+        "id": 66063,
+        "title": "UNCANNY X-MEN - THE NEW AGE VOL. 5: FIRST FOURSAKEN 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66063",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66063/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66063/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66063/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1805",
+              "name": "Uncanny X-Men - The New Age Vol. 5: First Foursaken (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66063/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5124",
+              "name": "Uncanny X-Men - The New Age Vol. 5: First Foursaken (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66063/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5124",
+          "name": "Uncanny X-Men - The New Age Vol. 5: First Foursaken (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66064,
+        "title": "EARTH X TPB (NEW 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66064",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66064/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66064/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66064/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1806",
+              "name": "Earth X (New (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66064/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4241",
+              "name": "Earth X (New (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66064/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4241",
+          "name": "Earth X (New (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66065,
+        "title": "NEW X-MEN 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66065",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66065/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66065/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66065/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1807",
+              "name": "New X-Men (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66065/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5451",
+              "name": "New X-Men (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66065/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5451",
+          "name": "New X-Men (Hardcover)"
+        }
+      },
+      {
+        "id": 66066,
+        "title": "WOLVERINE: ORIGIN PREMIERE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66066",
+        "type": "cover",
+        "modified": "2017-02-28T14:31:20-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66066/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66066/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66066/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1808",
+              "name": "Wolverine: Origin Premiere (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66066/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5279",
+              "name": "Wolverine: Origin Premiere (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66066/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5279",
+          "name": "Wolverine: Origin Premiere (Hardcover)"
+        }
+      },
+      {
+        "id": 66067,
+        "title": "SPIDER-MAN: KRAVEN'S LAST HUNT PREMIERE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66067",
+        "type": "cover",
+        "modified": "2013-07-09T17:01:42-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66067/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66067/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66067/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1810",
+              "name": "Spider-Man: Kraven's Last Hunt Premiere (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66067/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4835",
+              "name": "Spider-Man: Kraven's Last Hunt Premiere (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66067/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/258",
+              "name": "Kraven's Last Hunt"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4835",
+          "name": "Spider-Man: Kraven's Last Hunt Premiere (Hardcover)"
+        }
+      },
+      {
+        "id": 66068,
+        "title": "ESSENTIAL SAVAGE SHE-HULK 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66068",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66068/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66068/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66068/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1811",
+              "name": "Essential Savage She-Hulk (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66068/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4346",
+              "name": "Essential Savage She-Hulk (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66068/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4346",
+          "name": "Essential Savage She-Hulk (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66069,
+        "title": "HEROES REBORN: FANTASTIC FOUR 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66069",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66069/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66069/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66069/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1812",
+              "name": "Heroes Reborn: Fantastic Four (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66069/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5280",
+              "name": "Heroes Reborn: Fantastic Four (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66069/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5280",
+          "name": "Heroes Reborn: Fantastic Four (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66070,
+        "title": "HEROES REBORN: AVENGERS 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66070",
+        "type": "cover",
+        "modified": "2017-01-11T14:51:15-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66070/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66070/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66070/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1813",
+              "name": "Heroes Reborn: Avengers (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66070/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5705",
+              "name": "Heroes Reborn: Avengers (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66070/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5705",
+          "name": "Heroes Reborn: Avengers (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66071,
+        "title": "HEROES REBORN: IRON MAN 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66071",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66071/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66071/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66071/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1814",
+              "name": "Heroes Reborn: Iron Man (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66071/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5589",
+              "name": "Heroes Reborn: Iron Man (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66071/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5589",
+          "name": "Heroes Reborn: Iron Man (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66072,
+        "title": "HEROES REBORN: CAPTAIN AMERICA 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66072",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66072/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66072/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66072/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1815",
+              "name": "Heroes Reborn: Captain America (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66072/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5453",
+              "name": "Heroes Reborn: Captain America (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66072/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5453",
+          "name": "Heroes Reborn: Captain America (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66073,
+        "title": "AVENGERS ASSEMBLE VOL. 4 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66073",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66073/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66073/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66073/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1816",
+              "name": "Avengers Assemble Vol. 4 (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66073/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5844",
+              "name": "Avengers Assemble Vol. 4 (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66073/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5844",
+          "name": "Avengers Assemble Vol. 4 (Hardcover)"
+        }
+      },
+      {
+        "id": 66074,
+        "title": "INFINITY GAUNTLET TPB (NEW 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66074",
+        "type": "cover",
+        "modified": "2013-07-29T12:06:43-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66074/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66074/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66074/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1817",
+              "name": "Infinity Gauntlet (New (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66074/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4347",
+              "name": "Infinity Gauntlet (New (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66074/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4347",
+          "name": "Infinity Gauntlet (New (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66075,
+        "title": "STAR BRAND CLASSIC VOL. 1 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66075",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66075/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66075/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66075/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1819",
+              "name": "Star Brand Classic Vol. 1 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66075/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5127",
+              "name": "Star Brand Classic Vol. 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66075/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5127",
+          "name": "Star Brand Classic Vol. 1 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66076,
+        "title": "MARVEL MASTERWORKS: ATLAS ERA TALES OF SUSPENSE VOL. 1 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66076",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66076/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66076/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66076/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1820",
+              "name": "Marvel Masterworks: Atlas Era Tales of Suspense Vol. 1 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66076/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5282",
+              "name": "Marvel Masterworks: Atlas Era Tales of Suspense Vol. 1 (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66076/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5282",
+          "name": "Marvel Masterworks: Atlas Era Tales of Suspense Vol. 1 (Hardcover)"
+        }
+      },
+      {
+        "id": 66077,
+        "title": "MARVEL MASTERWORKS: ATLAS ERA TALES OF SUSPENSE VOL. 1 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66077",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66077/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66077/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66077/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1821",
+              "name": "Marvel Masterworks: Atlas Era Tales of Suspense Vol. 1 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66077/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5283",
+              "name": "Marvel Masterworks: Atlas Era Tales of Suspense Vol. 1 (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66077/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5283",
+          "name": "Marvel Masterworks: Atlas Era Tales of Suspense Vol. 1 (Hardcover)"
+        }
+      },
+      {
+        "id": 66078,
+        "title": "RUNAWAYS VOL. 2 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66078",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66078/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66078/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66078/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1822",
+              "name": "Runaways Vol. 2 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66078/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5708",
+              "name": "Runaways Vol. 2 (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66078/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5708",
+          "name": "Runaways Vol. 2 (Hardcover)"
+        }
+      },
+      {
+        "id": 66079,
+        "title": "ULTIMATE MARVEL TEAM-UP ULTIMATE COLLECTION 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66079",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66079/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66079/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66079/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1823",
+              "name": "Ultimate Marvel Team-Up Ultimate Collection (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66079/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5132",
+              "name": "Ultimate Marvel Team-Up Ultimate Collection (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66079/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5132",
+          "name": "Ultimate Marvel Team-Up Ultimate Collection (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66080,
+        "title": "THOR: THE ETERNALS SAGA VOL. 1 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66080",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66080/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66080/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66080/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1833",
+              "name": "Thor: The Eternals Saga Vol. 1 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66080/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5136",
+              "name": "Thor: The Eternals Saga Vol. 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66080/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5136",
+          "name": "Thor: The Eternals Saga Vol. 1 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66081,
+        "title": "MARVEL MASTERWORKS: GOLDEN AGE ALL-WINNERS VOL. 2 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66081",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66081/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66081/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66081/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1834",
+              "name": "Marvel Masterworks: Golden Age All-Winners Vol. 2 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66081/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5135",
+              "name": "Marvel Masterworks: Golden Age All-Winners Vol. 2 (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66081/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5135",
+          "name": "Marvel Masterworks: Golden Age All-Winners Vol. 2 (Hardcover)"
+        }
+      },
+      {
+        "id": 66082,
+        "title": "MARVEL MASTERWORKS: ATLAS ERA HEROES VOL. 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66082",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66082/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66082/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66082/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1836",
+              "name": "Marvel Masterworks: Atlas Era Heroes Vol. (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66082/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5857",
+              "name": "Marvel Masterworks: Atlas Era Heroes Vol. (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66082/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5857",
+          "name": "Marvel Masterworks: Atlas Era Heroes Vol. (Hardcover)"
+        }
+      },
+      {
+        "id": 66083,
+        "title": "MARVEL MASTERWORKS: WARLOCK VOL. 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66083",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66083/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66083/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66083/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1837",
+              "name": "Marvel Masterworks: Warlock Vol. (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66083/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5858",
+              "name": "Marvel Masterworks: Warlock Vol. (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66083/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5858",
+          "name": "Marvel Masterworks: Warlock Vol. (Hardcover)"
+        }
+      },
+      {
+        "id": 66084,
+        "title": "UNIVERSE X VOL. 1 TPB 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66084",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66084/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66084/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66084/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1838",
+              "name": "Universe X Vol. 1 (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66084/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5605",
+              "name": "Universe X Vol. 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66084/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5605",
+          "name": "Universe X Vol. 1 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66085,
+        "title": "WOLVERINE: ORIGIN PREMIERE HC 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66085",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66085/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66085/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66085/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1840",
+              "name": "Wolverine: Origin (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66085/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5298",
+              "name": "Wolverine: Origin (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66085/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5298",
+          "name": "Wolverine: Origin (Hardcover)"
+        }
+      },
+      {
+        "id": 66086,
+        "title": "SPIDER-MAN: DEATH OF THE STACYS PREMIERE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66086",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66086/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66086/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66086/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1844",
+              "name": "Spider-Man: Death of the Stacys Premiere (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66086/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5870",
+              "name": "Spider-Man: Death of the Stacys Premiere (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66086/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5870",
+          "name": "Spider-Man: Death of the Stacys Premiere (Hardcover)"
+        }
+      },
+      {
+        "id": 66087,
+        "title": "IRON MAN: ARMOR WARS 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66087",
+        "type": "cover",
+        "modified": "2013-07-10T10:05:27-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66087/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66087/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66087/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1846",
+              "name": "Iron Man: Armor Wars (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66087/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5872",
+              "name": "Iron Man: Armor Wars (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66087/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/231",
+              "name": "Armor Wars"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5872",
+          "name": "Iron Man: Armor Wars (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66088,
+        "title": "WOLVERINE BY CLAREMONT & MILLER PREMIERE HC 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66088",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66088/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66088/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66088/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1849",
+              "name": "Wolverine by Claremont & Miller (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66088/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5743",
+              "name": "Wolverine by Claremont & Miller (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66088/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5743",
+          "name": "Wolverine by Claremont & Miller (Hardcover)"
+        }
+      },
+      {
+        "id": 66089,
+        "title": "UNCANNY X-MEN 483 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66089",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66089/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66089/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66089/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+              "name": "Uncanny X-Men (1963 - 2011)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66089/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5942",
+              "name": "Uncanny X-Men (1963) #483"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66089/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5942",
+          "name": "Uncanny X-Men (1963) #483"
+        }
+      },
+      {
+        "id": 66090,
+        "title": "MARVEL PREVIEWS 43 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66090",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66090/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66090/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66090/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/666",
+              "name": "Marvel Previews (2005 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66090/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6058",
+              "name": "Marvel Previews (2005) #43"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66090/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6058",
+          "name": "Marvel Previews (2005) #43"
+        }
+      },
+      {
+        "id": 66091,
+        "title": "MARVEL PREVIEWS 44 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66091",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66091/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66091/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66091/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/666",
+              "name": "Marvel Previews (2005 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66091/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6169",
+              "name": "Marvel Previews (2005) #44"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66091/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6169",
+          "name": "Marvel Previews (2005) #44"
+        }
+      },
+      {
+        "id": 66092,
+        "title": "AVENGERS: BIZARRE ADVENTURES 1 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66092",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66092/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66092/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66092/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/5426",
+              "name": "Avengers: Bizarre Adventures (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66092/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21842",
+              "name": "Avengers: Bizarre Adventures (2007) #1 (Giant Size Comic)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66092/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/21842",
+          "name": "Avengers: Bizarre Adventures (2007) #1 (Giant Size Comic)"
+        }
+      },
+      {
+        "id": 66093,
+        "title": "MARVEL ADVENTURES FLIP MAGAZINE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66093",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66093/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66093/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66093/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/927",
+              "name": "Marvel Adventures Flip Magazine (2005 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66093/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5986",
+              "name": "Marvel Adventures Flip Magazine (2005) #22"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66093/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5986",
+          "name": "Marvel Adventures Flip Magazine (2005) #22"
+        }
+      },
+      {
+        "id": 66094,
+        "title": "MARVEL ADVENTURES FLIP MAGAZINE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66094",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66094/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66094/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66094/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/927",
+              "name": "Marvel Adventures Flip Magazine (2005 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66094/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6158",
+              "name": "Marvel Adventures Flip Magazine (2005) #23"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66094/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6158",
+          "name": "Marvel Adventures Flip Magazine (2005) #23"
+        }
+      },
+      {
+        "id": 66095,
+        "title": "ULTIMATE MARVEL FLIP MAGAZINE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66095",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66095/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66095/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66095/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/928",
+              "name": "Ultimate Marvel Flip Magazine (2005 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66095/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5990",
+              "name": "Ultimate Marvel Flip Magazine (2005) #22"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66095/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5990",
+          "name": "Ultimate Marvel Flip Magazine (2005) #22"
+        }
+      },
+      {
+        "id": 66096,
+        "title": "ULTIMATE MARVEL FLIP MAGAZINE 23 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66096",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66096/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66096/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66096/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/928",
+              "name": "Ultimate Marvel Flip Magazine (2005 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66096/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6098",
+              "name": "Ultimate Marvel Flip Magazine (2005) #23"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66096/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6098",
+          "name": "Ultimate Marvel Flip Magazine (2005) #23"
+        }
+      },
+      {
+        "id": 66097,
+        "title": "ULTIMATE TALES FLIP MAGAZINE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66097",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66097/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66097/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66097/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/929",
+              "name": "Ultimate Tales Flip Magazine (2005 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66097/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5991",
+              "name": "Ultimate Tales Flip Magazine (2005) #22"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66097/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5991",
+          "name": "Ultimate Tales Flip Magazine (2005) #22"
+        }
+      },
+      {
+        "id": 66098,
+        "title": "ULTIMATE TALES FLIP MAGAZINE 23 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66098",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66098/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66098/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66098/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/929",
+              "name": "Ultimate Tales Flip Magazine (2005 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66098/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6082",
+              "name": "Ultimate Tales Flip Magazine (2005) #23"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66098/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6082",
+          "name": "Ultimate Tales Flip Magazine (2005) #23"
+        }
+      },
+      {
+        "id": 66099,
+        "title": "MARVEL HEROES FLIP MAGAZINE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66099",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66099/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66099/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66099/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/930",
+              "name": "Marvel Heroes Flip Magazine (2005 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66099/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5987",
+              "name": "Marvel Heroes Flip Magazine (2005) #22"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66099/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5987",
+          "name": "Marvel Heroes Flip Magazine (2005) #22"
+        }
+      },
+      {
+        "id": 66100,
+        "title": "MARVEL HEROES FLIP MAGAZINE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66100",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66100/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66100/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66100/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/930",
+              "name": "Marvel Heroes Flip Magazine (2005 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66100/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6157",
+              "name": "Marvel Heroes Flip Magazine (2005) #23"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66100/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6157",
+          "name": "Marvel Heroes Flip Magazine (2005) #23"
+        }
+      },
+      {
+        "id": 66101,
+        "title": "MARVEL SELECT FLIP MAGAZINE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66101",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66101/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66101/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66101/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/931",
+              "name": "Marvel Select Flip Magazine (2005 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66101/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5988",
+              "name": "Marvel Select Flip Magazine (2005) #21"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66101/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5988",
+          "name": "Marvel Select Flip Magazine (2005) #21"
+        }
+      },
+      {
+        "id": 66102,
+        "title": "MARVEL SELECT FLIP MAGAZINE 23 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66102",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66102/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66102/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66102/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/931",
+              "name": "Marvel Select Flip Magazine (2005 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66102/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6115",
+              "name": "Marvel Select Flip Magazine (2005) #23"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66102/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6115",
+          "name": "Marvel Select Flip Magazine (2005) #23"
+        }
+      },
+      {
+        "id": 66103,
+        "title": "MARVEL TALES FLIP MAGAZINE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66103",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66103/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66103/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66103/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/932",
+              "name": "Marvel Tales Flip Magazine (2005 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66103/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5989",
+              "name": "Marvel Tales Flip Magazine (2005) #20"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66103/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5989",
+          "name": "Marvel Tales Flip Magazine (2005) #20"
+        }
+      },
+      {
+        "id": 66104,
+        "title": "MARVEL TALES FLIP MAGAZINE 22 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66104",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66104/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66104/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66104/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/932",
+              "name": "Marvel Tales Flip Magazine (2005 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66104/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6131",
+              "name": "Marvel Tales Flip Magazine (2005) #22"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66104/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6131",
+          "name": "Marvel Tales Flip Magazine (2005) #22"
+        }
+      },
+      {
+        "id": 66105,
+        "title": "KABUKI REFLECTIONS 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66105",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66105/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66105/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66105/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/962",
+              "name": "Kabuki Reflections (2006 - 2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66105/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6106",
+              "name": "Kabuki Reflections (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66105/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6106",
+          "name": "Kabuki Reflections (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66106,
+        "title": "MARVEL SPOTLIGHT 15 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66106",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66106/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66106/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66106/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1012",
+              "name": "Marvel Spotlight (2005 - 2011)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66106/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6032",
+              "name": "Marvel Spotlight (2005) #15"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66106/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6032",
+          "name": "Marvel Spotlight (2005) #15"
+        }
+      },
+      {
+        "id": 66107,
+        "title": "MARVEL SPOTLIGHT 1 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66107",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66107/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66107/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66107/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1012",
+              "name": "Marvel Spotlight (2005 - 2011)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66107/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6176",
+              "name": "Marvel Spotlight (2005) #16"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66107/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6176",
+          "name": "Marvel Spotlight (2005) #16"
+        }
+      },
+      {
+        "id": 66108,
+        "title": "GHOST RIDER 9 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66108",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66108/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66108/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66108/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1104",
+              "name": "Ghost Rider (2006 - 2009)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66108/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6117",
+              "name": "Ghost Rider (2006) #9"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66108/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+              "name": "Civil War"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6117",
+          "name": "Ghost Rider (2006) #9"
+        }
+      },
+      {
+        "id": 66109,
+        "title": "DAILY BUGLE: 6 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66109",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66109/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66109/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66109/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1149",
+              "name": "Daily Bugle: (2006 - Present)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66109/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6034",
+              "name": "Daily Bugle: (2006) #6"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66109/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6034",
+          "name": "Daily Bugle: (2006) #6"
+        }
+      },
+      {
+        "id": 66110,
+        "title": "DAILY BUGLE: 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66110",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66110/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66110/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66110/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1149",
+              "name": "Daily Bugle: (2006 - Present)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66110/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6144",
+              "name": "Daily Bugle: (2006)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66110/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6144",
+          "name": "Daily Bugle: (2006)"
+        }
+      },
+      {
+        "id": 66111,
+        "title": "ANITA BLAKE, VAMPIRE HUNTER: GUILTY PLEASURES 10 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66111",
+        "type": "cover",
+        "modified": "2016-03-03T10:49:45-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66111/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66111/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010674",
+              "name": "Anita Blake"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66111/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1152",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006 - 2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/7552",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures - The Complete Collection (2009 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6427",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures Vol. 2 (2008 - Present)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66111/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5907",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/24448",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures - The Complete Collection (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/23012",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures Vol. 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66111/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5907",
+          "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #10"
+        }
+      },
+      {
+        "id": 66112,
+        "title": "ANITA BLAKE, VAMPIRE HUNTER: GUILTY PLEASURES 7 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66112",
+        "type": "cover",
+        "modified": "2016-03-07T14:19:07-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66112/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66112/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66112/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1152",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006 - 2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/7552",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures - The Complete Collection (2009 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/6427",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures Vol. 2 (2008 - Present)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66112/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5909",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/24448",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures - The Complete Collection (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/23012",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures Vol. 2 (Trade Paperback)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66112/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5909",
+          "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #7"
+        }
+      },
+      {
+        "id": 66113,
+        "title": "X-FACTOR: THE LONGEST NIGHT 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66113",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66113/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66113/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66113/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1882",
+              "name": "X-Factor: The Longest Night (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66113/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5935",
+              "name": "X-Factor: The Longest Night (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66113/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5935",
+          "name": "X-Factor: The Longest Night (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66114,
+        "title": "NEXTWAVE: AGENTS OF H.A.T.E. VOL. 1 - THIS IS WHAT THEY WANT 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66114",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66114/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66114/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66114/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1883",
+              "name": "Nextwave: Agents of H.a.T.E. Vol. 1 - This Is What They Want (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66114/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5936",
+              "name": "Nextwave: Agents of H.a.T.E. Vol. 1 - This Is What They Want (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66114/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5936",
+          "name": "Nextwave: Agents of H.a.T.E. Vol. 1 - This Is What They Want (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66115,
+        "title": "CIVIL WAR: THUNDERBOLTS 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66115",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66115/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66115/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66115/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1885",
+              "name": "Civil War: Thunderbolts (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66115/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6135",
+              "name": "Civil War: Thunderbolts (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66115/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+              "name": "Civil War"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6135",
+          "name": "Civil War: Thunderbolts (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66116,
+        "title": "SPIDER-WOMAN: ORIGIN 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66116",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66116/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66116/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66116/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1886",
+              "name": "Spider-Woman: Origin (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66116/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5939",
+              "name": "Spider-Woman: Origin (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66116/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5939",
+          "name": "Spider-Woman: Origin (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66117,
+        "title": "CIVIL WAR: THE ROAD TO CIVIL WAR 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66117",
+        "type": "cover",
+        "modified": "2013-07-10T14:46:24-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66117/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66117/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66117/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1887",
+              "name": "Civil War: The Road to Civil War (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66117/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5941",
+              "name": "Civil War: The Road to Civil War (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66117/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+              "name": "Civil War"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5941",
+          "name": "Civil War: The Road to Civil War (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66118,
+        "title": "NEW AVENGERS VOL. 4: THE COLLECTIVE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66118",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66118/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66118/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66118/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1888",
+              "name": "New Avengers Vol. 4: The Collective (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66118/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6137",
+              "name": "New Avengers Vol. 4: The Collective (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66118/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6137",
+          "name": "New Avengers Vol. 4: The Collective (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66119,
+        "title": "MARVEL MASTERWORKS: DAREDEVIL VOL. 4 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66119",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66119/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66119/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66119/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1890",
+              "name": "Marvel Masterworks: Daredevil Vol. 4 (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66119/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5949",
+              "name": "Marvel Masterworks: Daredevil Vol. 4 (Hardcover)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66119/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5949",
+          "name": "Marvel Masterworks: Daredevil Vol. 4 (Hardcover)"
+        }
+      },
+      {
+        "id": 66120,
+        "title": "EXCALIBUR CLASSIC VOL. 3: CROSS-TIME CAPER BOOK 1 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66120",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66120/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66120/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66120/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1894",
+              "name": "Excalibur Classic Vol. 3: Cross-Time Caper Book 1 (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66120/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5958",
+              "name": "Excalibur Classic Vol. 3: Cross-Time Caper Book 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66120/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5958",
+          "name": "Excalibur Classic Vol. 3: Cross-Time Caper Book 1 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66121,
+        "title": "FRIENDLY NEIGHBORHOOD SPIDER-MAN VOL. 2: MYSTERY DATE 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66121",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66121/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66121/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66121/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1895",
+              "name": "Friendly Neighborhood Spider-Man Vol. 2: Mystery Date (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66121/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6163",
+              "name": "Friendly Neighborhood Spider-Man Vol. 2: Mystery Date (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66121/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6163",
+          "name": "Friendly Neighborhood Spider-Man Vol. 2: Mystery Date (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66122,
+        "title": "NEW EXCALIBUR VOL. 2: LAST DAYS OF CAMELOT 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66122",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66122/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66122/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66122/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1897",
+              "name": "New Excalibur Vol. 2: Last Days of Camelot (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66122/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6132",
+              "name": "New Excalibur Vol. 2: Last Days of Camelot (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66122/events",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6132",
+          "name": "New Excalibur Vol. 2: Last Days of Camelot (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66123,
+        "title": "CIVIL WAR: FANTASTIC FOUR 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66123",
+        "type": "cover",
+        "modified": "2013-07-10T14:52:10-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66123/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66123/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66123/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1898",
+              "name": "Civil War: Fantastic Four (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66123/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6139",
+              "name": "Civil War: Fantastic Four (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66123/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+              "name": "Civil War"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6139",
+          "name": "Civil War: Fantastic Four (Trade Paperback)"
+        }
+      },
+      {
+        "id": 66124,
+        "title": "CIVIL WAR: AMAZING SPIDER-MAN 0 cover",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66124",
+        "type": "cover",
+        "modified": "2013-07-10T14:20:31-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66124/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66124/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66124/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1900",
+              "name": "Civil War: Amazing Spider-Man (2007)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66124/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6167",
+              "name": "Civil War: Amazing Spider-Man (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/66124/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+              "name": "Civil War"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6167",
+          "name": "Civil War: Amazing Spider-Man (Trade Paperback)"
+        }
+      }
+    ]
+  }
+}
